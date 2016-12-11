@@ -48,7 +48,7 @@
 //　どうせ引き裂かれるなら、!w2000
 	OutputLine(NULL, "どうせ引き裂かれるなら、",
 		   NULL, "If I was going to be ripped apart anyways,",
-		   NULL, "Jeśli zamierzałem być rozszarpany na strzępy,", Line_ContinueAfterTyping);
+		   NULL, ﻿"Jeśli zamierzałem mieć umysł w kawałkach,", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 	Wait( 2000 );
@@ -121,7 +121,7 @@
 //　信じたいのは、認めたくないだけだからだ。/
 	OutputLine(NULL, "信じたいのは、認めたくないだけだからだ。",
 		   NULL, "I only wanted to trust her because I refused to accept the truth.",
-		   NULL, "Że pragnę jedynie ufać jej, z powodu nie akceptowania prawdy.", Line_ContinueAfterTyping);
+		   NULL, "Że pragnę jedynie ufać jej z powodu nie akceptowania prawdy.", Line_ContinueAfterTyping);
 
 	PlaySE( 3, "wa_015", 128, 64 );
 	Wait( 800 );
@@ -139,7 +139,7 @@
 //　そんな涙声が...もうたまらなく馬鹿馬鹿しくて......。
 	OutputLine(NULL, "そんな涙声が…もうたまらなく馬鹿馬鹿しくて…。",
 		   NULL, "in such a silly... sobbing voice...",
-		   NULL, "w tak durnowatym... łkającym głosem...", Line_ContinueAfterTyping);
+		   NULL, "tym durnowatym... łkającym głosem...", Line_ContinueAfterTyping);
 
 	PlaySE( 3, "wa_015", 128, 64 );
 	Wait( 800 );
@@ -248,7 +248,7 @@
 //　彼女は泣きもしなかった。!w4000
 	OutputLine(NULL, "彼女は泣きもしなかった。",
 		   NULL, "She never cried.",
-		   NULL, "Ona nigdy nie płakał.", Line_ContinueAfterTyping);
+		   NULL, "Ona nigdy nie płakała.", Line_ContinueAfterTyping);
 
 
 	Wait( 4000 );
@@ -262,7 +262,7 @@
 //　彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。!w2000
 	OutputLine(NULL, "彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
 		   NULL, "Even when she repeated those words over and over, she never expressed any emotion, because there were none to show.",
-		   NULL, "Nawet kiedy powtarzała te same słowa w nieskończoności, nigdy nie wyrażała swoich emocji, ponieważ nie były w stanie tego ukazać.", Line_ContinueAfterTyping);
+		   NULL, "Nawet kiedy powtarzała te same słowa w nieskończoności, nigdy nie wyraziła swoich emocji, ponieważ nie były w stanie tego ukazać.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -304,7 +304,7 @@
 //　それなのに......痛み、目を潤ませてしまうのは......どうして？!w2000
 	OutputLine(NULL, "それなのに…痛み、目を潤ませてしまうのは…どうして？",
 		   NULL, "Then why... this pain, my eyes getting moist... why was this happening?",
-		   NULL, "Więc dlaczego... ten ból, sprawia, że moje oczy płaczą... dlaczego to się stało?", Line_ContinueAfterTyping);
+		   NULL, "Więc dlaczego... ten ból sprawia, że z moich oczów lecą łzy... dlaczego to się stało?", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -356,7 +356,7 @@
 //　俺はもう充分に心を痛めたさ。!w2000
 	OutputLine(NULL, "俺はもう充分に心を痛めたさ。",
 		   NULL, "My spirit had suffered enough...",
-		   NULL, "Moja dusza wycierpiała się wystarczająco...", Line_ContinueAfterTyping);
+		   NULL, "Moja dusza wycierpiała już wystarczająco...", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -451,7 +451,7 @@
 //　......俺がそれを認めてやる。!w2000
 	OutputLine(NULL, "…俺がそれを認めてやる。",
 		   NULL, "...I'll acknowledge that much.",
-		   NULL, "...Będę przyznawać tak bardzo.", Line_ContinueAfterTyping);
+		   NULL, "...Będę akceptować to wszystko.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -498,7 +498,7 @@
 //　彼女と一緒に、置いていくんだ。!w2000
 	OutputLine(NULL, "彼女と一緒に、置いていくんだ。",
 		   NULL, "I'm leaving it behind, with her.",
-		   NULL, "Ja zostałem porzucona za plecami przez nią", Line_ContinueAfterTyping);
+		   NULL, "Ja zostałem porzucony za plecami przez nią", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -619,7 +619,7 @@
 //　頭を撫でるのが、好きだった。!w2000
 	OutputLine(NULL, "頭を撫でるのが、好きだった。",
 		   NULL, "I liked petting your head.",
-		   NULL, "Lubiłem rozpiszczać twoją głowę.", Line_ContinueAfterTyping);
+		   NULL, "Lubiłem czochrać twoje włosy.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -635,7 +635,7 @@
 //　そんな君がはにかむのが、好きだった。!w2000
 	OutputLine(NULL, "そんな君がはにかむのが、好きだった。",
 		   NULL, "I loved how demure you were.",
-		   NULL, "Kochałem jak skromną byłaś.", Line_ContinueAfterTyping);
+		   NULL, "Kochałem twoją skromność.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -739,7 +739,7 @@
 
 	OutputLine(NULL, "好きだった。",
 		   NULL, "...love you.",
-		   NULL, "...kochałem ciebie, Line_ContinueAfterTyping);
+		   NULL, "...kochałem ciebie.", Line_ContinueAfterTyping);
 
 	SetSpeedOfMessage( FALSE, 0, );
 

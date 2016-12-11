@@ -26,154 +26,154 @@
 
 //　...誰かが、ずっと謝っている気がした￥
 	OutputLine(NULL, "　…誰かが、ずっと謝っている気がした。",
-		   NULL, "...Somebody has been apologizing for a while now.",
+		   NULL, "...Somebody has been apologizing for a while now.", Line_Normal);
 		   NULL, "...Ktoś przepraszał chwilę temu.", Line_Normal);
 	ClearMessage();
 
 //　彼女は何を謝っているのだろう＠
 	OutputLine(NULL, "　彼女は何を謝っているのだろう。",
-		   NULL, "I wonder what she's apologizing for.",
+		   NULL, "I wonder what she's apologizing for.", Line_WaitForInput);
 		   NULL, "Chciałbym wiedzieć, za co ona przeprasza.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした￥
 	OutputLine(NULL, "　それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした。",
-		   NULL, "It felt wrong to eavesdrop, so I tried to ignore it.",
+		   NULL, "It felt wrong to eavesdrop, so I tried to ignore it.", Line_Normal);
 		   NULL, "Czułem się źle podsłuchując, więc starałem się to zignorować.", Line_Normal);
 	ClearMessage();
 
 //　親類の葬儀のために戻った、久しぶりの都会だった＠
 	OutputLine(NULL, "　親類の葬儀のために戻った、久しぶりの都会だった。",
-		   NULL, "It had been a while since I'd last went to the city. I only returned to attend the funeral of a relative.",
+		   NULL, "It had been a while since I'd last went to the city. I only returned to attend the funeral of a relative.", Line_WaitForInput);
 		   NULL, "Mineło trochę czasu od kiedy byłem ostatnio w mieście. Powróciłem jedynie, żeby uczestniczyć w pogrzebie krewnego.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された＠
 	OutputLine(NULL, "　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された。",
-		   NULL, "Even though I'd lived there until last month, I found the bustle of the city to be overwhelming.",
+		   NULL, "Even though I'd lived there until last month, I found the bustle of the city to be overwhelming.", Line_WaitForInput);
 		   NULL, "Pomimo, że mieszkałem tam do ostatniego miesiąca, ponownie znalazłem w się niekończącej się miejskiej jungli.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　高層ビルに何車線もの道路＠
 	OutputLine(NULL, "　高層ビルに何車線もの道路。",
-		   NULL, "Those skyscrapers and the multi-lane roads.",
+		   NULL, "Those skyscrapers and the multi-lane roads.", Line_WaitForInput);
 		   NULL, "Te drapacze chmur i wielopasmowe drogi.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　歌うように騒がしい横断歩道のメロディ＠
 	OutputLine(NULL, "　歌うように騒がしい横断歩道のメロディ。",
-		   NULL, "The melodious cacophony of the crosswalk.",
+		   NULL, "The melodious cacophony of the crosswalk.", Line_WaitForInput);
 		   NULL, "Nieznośna melodia hałasu na przejściach dla pieszych.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　駅前での騒々しい選挙演説すらも今では懐かしかった￥
 	OutputLine(NULL, "　駅前での騒々しい選挙演説すらも今では懐かしかった。",
-		   NULL, "Even the campaign speeches blaring in front of the station felt nostalgic.",
+		   NULL, "Even the campaign speeches blaring in front of the station felt nostalgic.", Line_Normal);
 		   NULL, "Nawet ogłoszenia na peronach budziły uczucie nostalgii.", Line_Normal);
 	ClearMessage();
 
 //　今、住んでいる土地にはそんな賑やかなものはない＠
 	OutputLine(NULL, "　今、住んでいる土地にはそんな賑やかなものはない。",
-		   NULL, "The place where I live now isn't nearly as lively.",
+		   NULL, "The place where I live now isn't nearly as lively.", Line_WaitForInput);
 		   NULL, "Miejsce w którym teraz żyję, nie jest nawet tak żwawe.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　あるのはセミの声と清流のせせらぎ＠そして、ひぐらしの声＠
 	OutputLine(NULL, "　あるのはセミの声と清流のせせらぎ。",
-		   NULL, "There's only the chirping of locusts and the babbling of brooks.",
+		   NULL, "There's only the chirping of locusts and the babbling of brooks.", Line_WaitForInput);
 		   NULL, "Jest tam tylko cykanie pasikoników i szum potoków.", Line_WaitForInput);
 	OutputLine(NULL, "そして、ひぐらしの声。",
-		   NULL, " And the cry of the higurashi—the evening cicadas.",
+		   NULL, " And the cry of the higurashi—the evening cicadas.", Line_WaitForInput);
 		   NULL, " I płacz Higurashi-wieczornych cykad.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ￥
 	OutputLine(NULL, "　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ。",
-		   NULL, "Rather than making me feel lonely, that quietness had begun to instill a sense of serenity.",
+		   NULL, "Rather than making me feel lonely, that quietness had begun to instill a sense of serenity.", Line_Normal);
 		   NULL, "Zamiast sprawić mi uczucie osamotnienia, ten spokój zaczął wypełniać mnie spokojem ducha.", Line_Normal);
 	ClearMessage();
 
 //　確かに今住む土地には何もない＠
 	OutputLine(NULL, "　確かに今住む土地には何もない。",
-		   NULL, "There is nothing where I'm living now.",
+		   NULL, "There is nothing where I'm living now.", Line_WaitForInput);
 		   NULL, "Nie ma nic tam, gdzie teraz żyję.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　気の利いたハンバーガー屋はおろか、自動販売機すらない＠
 	OutputLine(NULL, "　気の利いたハンバーガー屋はおろか、自動販売機すらない。",
-		   NULL, "I don't just mean there aren't any burger joints. There aren't even vending machines.",
+		   NULL, "I don't just mean there aren't any burger joints. There aren't even vending machines.", Line_WaitForInput);
 		   NULL, "Nie mam tylko na myśli żadnych sklepów z burgerami. Nie ma tam nawet automatów.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　レコード屋もないし、レストランもないし＠ゲームセンターもない＠
 	OutputLine(NULL, "　レコード屋もないし、レストランもないし、",
-		   NULL, "No music stores, no restaurants...",
+		   NULL, "No music stores, no restaurants...", Line_WaitForInput);
 		   NULL, "Nie ma sklepów muzycznych, nie ma restauracji...", Line_WaitForInput);
 	OutputLine(NULL, "ゲームセンターもない。",
-		   NULL, " and no arcades.",
+		   NULL, " and no arcades.", Line_WaitForInput);
 		   NULL, " ani pasaży handlowych.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　アイスクリーム屋なんてもってのほかだ＠
 	OutputLine(NULL, "　アイスクリーム屋なんてもってのほかだ。",
-		   NULL, "Even an ice cream parlor would be unlikely.",
+		   NULL, "Even an ice cream parlor would be unlikely.", Line_WaitForInput);
 		   NULL, "Nawet lodziarni nie doświadczysz.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　最寄りの町まで行けばあるにはあるが、自転車で１時間もかかる￥
 	OutputLine(NULL, "　最寄りの町まで行けばあるにはあるが、自転車で１時間もかかる。",
-		   NULL, "The nearest town has some stuff like that, but it's an hour away by bike.",
+		   NULL, "The nearest town has some stuff like that, but it's an hour away by bike.", Line_Normal);
 		   NULL, "Najbliższe miasto ma coś takiego, ale jest godzinę jazdy rowerem.", Line_Normal);
 	ClearMessage();
 
 //　だが、考えてみればそれに不便を感じる必要はなかった￥
 	OutputLine(NULL, "　だが、考えてみればそれに不便を感じる必要はなかった。",
-		   NULL, "But come to think of it, it wasn't really a big deal.",
+		   NULL, "But come to think of it, it wasn't really a big deal.", Line_Normal);
 		   NULL, "Ale jeśli o tym pomyślć, nie był to wielki problem.", Line_Normal);
 	ClearMessage();
 
 //　前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない＠
 	OutputLine(NULL, "　前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない。",
-		   NULL, "There were music stores and arcades and ice cream parlors, but it wasn't like I ever hung out at any of them.",
+		   NULL, "There were music stores and arcades and ice cream parlors, but it wasn't like I ever hung out at any of them.", Line_WaitForInput);
 		   NULL, "Były tam sklepy muzyczne, pasaże i lodziarnie, ale nie było tak, że spędzałem tam każdy czas.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　アイスクリーム屋に至っては、１０年も住みながらついに一度も入ることはなかったのだから＠
 	OutputLine(NULL, "　アイスクリーム屋に至っては、１０年も住みながらついに一度も入ることはなかったのだから。",
-		   NULL, "I had lived in the city for ten years and never once been to an ice cream parlor.",
+		   NULL, "I had lived in the city for ten years and never once been to an ice cream parlor.", Line_WaitForInput);
 		   NULL, "Żyłem w mieście przez dziesięć lat i nigdy nie byłem w lodziarni.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　...一度くらいは食べに行けばよかった＠
 	OutputLine(NULL, "　…一度くらいは食べに行けばよかった。",
-		   NULL, "...I should have gone at least once.",
+		   NULL, "...I should have gone at least once.", Line_WaitForInput);
 		   NULL, "...Powinienem był choć raz tam pójść.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　今更ながらちょっと後悔￥
 	OutputLine(NULL, "　今更ながらちょっと後悔。",
-		   NULL, "It's only now that I'm starting to regret that a little.",
+		   NULL, "It's only now that I'm starting to regret that a little.", Line_Normal);
 		   NULL, "Jedynie tego, zacząłem teraz trochę żałować.", Line_Normal);
 	ClearMessage();
 
 //locate 3,7
 //　...誰かが、まだ謝り続けている￥
 	OutputLine(NULL, "　…誰かが、まだ謝り続けている。",
-		   NULL, "...Somebody is still apologizing.",
+		   NULL, "...Somebody is still apologizing.", Line_Normal);
 		   NULL, "...Ktoś ciągle przeprasza.", Line_Normal);
 	ClearMessage();
 
@@ -182,115 +182,115 @@
 
 //　彼女は誰に謝っているのだろう＠
 	OutputLine(NULL, "　彼女は誰に謝っているのだろう。",
-		   NULL, "Who is she apologizing to?",
+		   NULL, "Who is she apologizing to?", Line_WaitForInput);
 		   NULL, "Kogo ona przeprasza?", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　これだけ謝っているのだから、もう許してやればいいのに＠
 	OutputLine(NULL, "　これだけ謝っているのだから、もう許してやればいいのに。",
-		   NULL, "She's apologized so much, so just forgive her already.",
+		   NULL, "She's apologized so much, so just forgive her already.", Line_WaitForInput);
 		   NULL, "Przeprasza tak bardzo, więc w końcu mógłby jej przebaczyć.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　彼女だって、こんなにも謝り続けることはないはずだ＠
 	OutputLine(NULL, "　彼女だって、こんなにも謝り続けることはないはずだ。",
-		   NULL, "There's no reason anyone should ever need to apologize so much.",
+		   NULL, "There's no reason anyone should ever need to apologize so much.", Line_WaitForInput);
 		   NULL, "Nie widzę żadnego powodu, żeby musiała tak bardzo przepraszać.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた￥
 	OutputLine(NULL, "　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた。",
-		   NULL, "I started to feel a bit annoyed at whoever was refusing to forgive her.",
+		   NULL, "I started to feel a bit annoyed at whoever was refusing to forgive her.", Line_Normal);
 		   NULL, "Zacząłem być trochę zirytowany na tego gościa, który odmawiał jej przeprosin.", Line_Normal);
 	ClearMessage();
 
 //　どんな過ちだって、許されないことはないはずだ＠
 	OutputLine(NULL, "　どんな過ちだって、許されないことはないはずだ。",
-		   NULL, "No matter how bad the mistake, there's nothing that can't be forgiven.",
+		   NULL, "No matter how bad the mistake, there's nothing that can't be forgiven.", Line_WaitForInput);
 		   NULL, "Nie ważne jak zły był jej błąd, nie ma nic, co nie może zostać przebaczone.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　取り返せないミスなんかない＠
 	OutputLine(NULL, "　取り返せないミスなんかない。",
-		   NULL, "There's no such thing as an irreparable mistake.",
+		   NULL, "There's no such thing as an irreparable mistake.", Line_WaitForInput);
 		   NULL, "Nie ma nieodwracalnych błędów.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　次から気をつければいい￥
 	OutputLine(NULL, "　次から気をつければいい。",
-		   NULL, "You just need to be more careful next time.",
+		   NULL, "You just need to be more careful next time.", Line_Normal);
 		   NULL, "Musisz być tylko ostrożniejszy następnym razem.", Line_Normal);
 	ClearMessage();
 
 //　...それでも彼女は謝り続けている￥
 	OutputLine(NULL, "　…それでも彼女は謝り続けている。",
-		   NULL, "...She's still apologizing, even now.",
+		   NULL, "...She's still apologizing, even now.", Line_Normal);
 		   NULL, "...Ona dalej przeprasza, nawet teraz.", Line_Normal);
 	ClearMessage();
 
 //　では...取り返しのつかない過ちを犯してしまったのだろうか￥
 	OutputLine(NULL, "　では…取り返しのつかない過ちを犯してしまったのだろうか？",
-		   NULL, "Then... has she really done something that can't be fixed?",
+		   NULL, "Then... has she really done something that can't be fixed?", Line_Normal);
 		   NULL, "Więc... czy naprawdę zrobiła coś, co nie może zostać naprawione?", Line_Normal);
 	ClearMessage();
 
 //　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ＠
 	OutputLine(NULL, "　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ。",
-		   NULL, "I have no idea what she's done, but if it can't be fixed, then that's all the more reason to forgive her.",
+		   NULL, "I have no idea what she's done, but if it can't be fixed, then that's all the more reason to forgive her.", Line_WaitForInput);
 		   NULL, "Nie mam pojęcia co zrobiła, ale jeśli nie może zostać to naprawione, wtedy tym bardziej powinien jej przebaczyć.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　彼女がいくら謝ったって、どうにもならないのだから￥
 	OutputLine(NULL, "　彼女がいくら謝ったって、どうにもならないのだから。",
-		   NULL, "No matter how much she apologizes, nothing will change.",
+		   NULL, "No matter how much she apologizes, nothing will change.", Line_Normal);
 		   NULL, "Nie ważne jak bardzo będzie przepraszać, nic to już nie zmieni.", Line_Normal);
 	ClearMessage();
 
 //　それでも彼女は、こんなにもみじめな声で謝り続けている...￥
 	OutputLine(NULL, "　それでも彼女は、こんなにもみじめな声で謝り続けている…。",
-		   NULL, "But even so, she keeps apologizing in such a heartbreaking voice...",
+		   NULL, "But even so, she keeps apologizing in such a heartbreaking voice...", Line_Normal);
 		   NULL, "Ale mimo to, dalej przeprasza swoim rozdzierającym serca głosem...", Line_Normal);
 	ClearMessage();
 
 //　なあ、彼女に謝られている誰かさんよ＠
 	OutputLine(NULL, "　なあ、彼女に謝られている誰かさんよ。",
-		   NULL, "Hey, you. The one she's apologizing to...",
+		   NULL, "Hey, you. The one she's apologizing to...", Line_WaitForInput);
 		   NULL, "Hey, ty. Gościu, którego przeprasza...", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　もういい加減に彼女を許してやれよ＠
 	OutputLine(NULL, "　もういい加減に彼女を許してやれよ。",
-		   NULL, "Why don't you just go ahead and forgive her?",
+		   NULL, "Why don't you just go ahead and forgive her?", Line_WaitForInput);
 		   NULL, "Dlaczego nie pójdziesz jej na rękę i jej nie wybaczysz?", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
 //　こんなにも...みじめな声で謝っているんだから......￥
 	OutputLine(NULL, "　こんなにも…みじめな声で謝っているんだから……。",
-		   NULL, "She's apologizing... in such a pathetic voice...",
+		   NULL, "She's apologizing... in such a pathetic voice...", Line_Normal);
 		   NULL, "Przeprasza ciebie... takim żałosnym głosem...", Line_Normal);
 	ClearMessage();
 
 //「圭一、そろそろ着くぞ＠起きなさい。＠
 	OutputLine(NULL, "「圭一、そろそろ着くぞ。",
-		   NULL, "\"Keiichi, we're almost there.",
+		   NULL, "\"Keiichi, we're almost there.", Line_WaitForInput);
 		   NULL, "\"Keiichi, jesteśmy prawie na miejscu.", Line_WaitForInput);
 	OutputLine(NULL, "起きなさい。」",
-		   NULL, " Wake up.\"",
+		   NULL, " Wake up.\"", Line_WaitForInput);
 		   NULL, " Wstawaj.\"", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　親父に小突かれようやくまどろみから目を覚ました＠
 	OutputLine(NULL, "　親父に小突かれようやくまどろみから目を覚ました。",
-		   NULL, "I was finally roused from my nap by my father's prodding.",
+		   NULL, "I was finally roused from my nap by my father's prodding.", Line_WaitForInput);
 		   NULL, "W końcu zbudziłem się z mojej drzemki przez nawoływanie mojego ojca.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -305,28 +305,28 @@
 
 //　ようやく列車が終点に着いたようだった￥
 	OutputLine(NULL, "　ようやく列車が終点に着いたようだった。",
-		   NULL, "It seemed the train had reached its final stop.",
+		   NULL, "It seemed the train had reached its final stop.", Line_Normal);
 		   NULL, "Wyglądało na to, że pociąg dotarł już do celu.", Line_Normal);
 	ClearMessage();
 	PlayBGM( 2, "lsys20", 128, 0 );
 
 //　新幹線やら電車やらを乗り継ぎ数時間＠
 	OutputLine(NULL, "　新幹線やら電車やらを乗り継ぎ数時間。",
-		   NULL, "We'd spent hours riding everything from the bullet train to the local routes.",
+		   NULL, "We'd spent hours riding everything from the bullet train to the local routes.", Line_WaitForInput);
 		   NULL, "Spędziliśmy godziny jazdy wszystkim od szybkich kolei do lokalnych dróg.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　窓の外の風景は、半日前までいた都会と同じ国であることを＠
 	OutputLine(NULL, "　窓の外の風景は、半日前までいた都会と同じ国であることを、",
-		   NULL, "It was hard to believe that the landscape beyond the window and the city I was in half a day ago were in the same country.",
+		   NULL, "It was hard to believe that the landscape beyond the window and the city I was in half a day ago were in the same country.", Line_WaitForInput);
 		   NULL, "Ciężko było uwierzyć, że krajobraz za okna i miasto, w którym byłem pół dnia temu, należą do tego samego kraju.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　いや、同じ時代であることすら疑わせる￥
 	OutputLine(NULL, "　いや、同じ時代であることすら疑わせる。",
-		   NULL, "No... that they were even from the same era.",
+		   NULL, "No... that they were even from the same era.", Line_Normal);
 		   NULL, "Nie... bardziej pasowałoby, że należą do tej samej epoki.", Line_Normal);
 	ClearMessage();
 
@@ -336,8 +336,8 @@
 
 //　ここからさらに車で山道を走る￥
 	OutputLine(NULL, "　ここからさらに車で山道を走る。",
-		   NULL, "From there, we'd take a car deeper into the mountains.",
-		   NULL, "Od tej chwili, jechaliśmy samochodem głęboko w góry.", Line_Normal);
+		   NULL, "From there, we'd take a car deeper into the mountains.", Line_Normal);
+		   NULL, "Od tej chwili jechaliśmy samochodem głęboko w góry.", Line_Normal);
 	ClearMessage();
 
 //*******************************************************
@@ -368,8 +368,8 @@
 
 //　うっそうと木々が茂る山道が急に開けるとそこが...￥
 	OutputLine(NULL, "　うっそうと木々が茂る山道が急に開けるとそこが…、",
-		   NULL, "Past where the dense forest encroaching on the mountain road suddenly opened up...",
-		   NULL, "Przeszłość, gdzie głęboki las zakłóca górska droga, nagle otworzyła się...", Line_Normal);
+		   NULL, "Past where the dense forest encroaching on the mountain road suddenly opened up...", Line_Normal);
+		   NULL, "Przez głęboki las zakłócony górską drogą, gdy nagle pojawiło się miejsce z przeszłości...", Line_Normal);
 	ClearMessage();
 
 //setwindow 31,16,22,16,26,26,0,2,20,1,1,#ffffff,0,0,639,479
@@ -381,7 +381,7 @@
 
 //　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ￥
 	OutputLine(NULL, "　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ。",
-		   NULL, "There, where I live now. Hinamizawa.",
+		   NULL, "There, where I live now. Hinamizawa.", Line_Normal);
 		   NULL, "Tam, gdzie teraz żyję. Hinamizawa.", Line_Normal);
 	ClearMessage();
 
