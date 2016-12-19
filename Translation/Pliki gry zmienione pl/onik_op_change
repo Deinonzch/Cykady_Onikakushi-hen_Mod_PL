@@ -47,14 +47,12 @@
 
 //　どうせ引き裂かれるなら、!w2000
 	OutputLine(NULL, "どうせ引き裂かれるなら、",
-		   NULL, "If I was going to be ripped apart anyways,", Line_ContinueAfterTyping);
 		   NULL, ﻿"Jeśli zamierzałem mieć umysł w kawałkach,", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 	Wait( 2000 );
 //　身を引き裂かされる方がはるかにマシだと思った。!w4000
 	OutputLine(NULL, "身を引き裂かされる方がはるかにマシだと思った。",
-		   NULL, "having my body ripped apart would've been far better.", Line_ContinueAfterTyping);
 		   NULL, "byłoby znacznie lepiej mieć już rozszarpane ciało.", Line_ContinueAfterTyping);
 
 
@@ -67,7 +65,6 @@
 
 //　信じてた。!w2000
 	OutputLine(NULL, "信じてた。",
-		   NULL, "I trusted her.", Line_ContinueAfterTyping);
 		   NULL, "Ufałem jej.", Line_ContinueAfterTyping);
 
 	Wait( 2000 );
@@ -80,7 +77,6 @@
 
 //　......いや、信じてる。!w2000
 	OutputLine(NULL, "…いや、信じてる。",
-		   NULL, "...No, I still trust her.", Line_ContinueAfterTyping);
 		   NULL, "...Nie, ja wciąż jej ufam.", Line_ContinueAfterTyping);
 
 
@@ -94,7 +90,6 @@
 
 //　今この瞬間だって、信じてる。!w2000
 	OutputLine(NULL, "今この瞬間だって、信じてる。",
-		   NULL, "Even in this very moment, I trust her.", Line_ContinueAfterTyping);
 		   NULL, "Nawet w tej strasznej chwili, ufałem jej.", Line_ContinueAfterTyping);
 
 
@@ -110,7 +105,6 @@
 
 //　でも......薄々は気付いてる。!w2000
 	OutputLine(NULL, "でも…薄々は気付いてる。",
-		   NULL, "But... I'm starting to realize.", Line_ContinueAfterTyping);
 		   NULL, "Ale... Zacząłem uświadamiać sobie.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -120,7 +114,6 @@
 
 //　信じたいのは、認めたくないだけだからだ。/
 	OutputLine(NULL, "信じたいのは、認めたくないだけだからだ。",
-		   NULL, "I only wanted to trust her because I refused to accept the truth.", Line_ContinueAfterTyping);
 		   NULL, "Że pragnę jedynie ufać jej z powodu nie akceptowania prawdy.", Line_ContinueAfterTyping);
 
 	PlaySE( 3, "wa_015", 128, 64 );
@@ -131,14 +124,12 @@
 
 //　自分に言い聞かせるような、
 	OutputLine(NULL, "自分に言い聞かせるような、",
-		   NULL, "It was as if I was trying to convince myself,", Line_ContinueAfterTyping);
 		   NULL, "To było tak, jakbym starał się przekonać sam siebie,", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　そんな涙声が...もうたまらなく馬鹿馬鹿しくて......。
 	OutputLine(NULL, "そんな涙声が…もうたまらなく馬鹿馬鹿しくて…。",
-		   NULL, "in such a silly... sobbing voice...", Line_ContinueAfterTyping);
 		   NULL, "tym durnowatym... łkającym głosem...", Line_ContinueAfterTyping);
 
 	PlaySE( 3, "wa_015", 128, 64 );
@@ -149,7 +140,6 @@
 
 //　さらなる涙が...顔をもっとぐしゃぐしゃにする...。!w3000
 	OutputLine(NULL, "さらなる涙が…顔をもっとぐしゃぐしゃにする…。",
-		   NULL, "And those tears... those tears making a mess of my face...", Line_ContinueAfterTyping);
 		   NULL, "I te łzy... te łzy szpecące moją twarz...", Line_ContinueAfterTyping);
 
 
@@ -162,7 +152,6 @@
 	SetDrawingPointOfMessage( 0, 6 );
 //　機械的に繰り返されていたそれはようやく収まり、とても静かになった。!w4000
 	OutputLine(NULL, "機械的に繰り返されていたそれはようやく収まり、とても静かになった。",
-		   NULL, "That mechanical, repetitious sound finally stilled, and everything fell silent.", Line_ContinueAfterTyping);
 		   NULL, "Ten mechaniczny powtarzający się dźwięk w końcu ucichł, pogrążając wszystko w ciszy.", Line_ContinueAfterTyping);
 
 
@@ -177,7 +166,6 @@
 	SetDrawingPointOfMessage( 0, 4 );
 //　ひぐらしの声だけが...いやに騒がしい。!w2000
 	OutputLine(NULL, "ひぐらしの声だけが…いやに騒がしい。",
-		   NULL, "Only the cry of the cicadas remained, annoyingly loud.", Line_ContinueAfterTyping);
 		   NULL, "Jedynie irytująco głośny płacz cykad pozostał.", Line_ContinueAfterTyping);
 
 
@@ -189,7 +177,6 @@
 
 //　なのに、!w1500
 	OutputLine(NULL, "なのに、",
-		   NULL, "And yet...", Line_ContinueAfterTyping);
 		   NULL, "I jeszcze...", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -199,7 +186,6 @@
 
 //　...彼女のそれはまだ聞こえる気がする。!w2000
 	OutputLine(NULL, "…彼女のそれはまだ聞こえる気がする。",
-		   NULL, "...I felt as if I could still hear her voice.", Line_ContinueAfterTyping);
 		   NULL, "...Czułem jakbym mógł dalej słyszeć jej głos.", Line_ContinueAfterTyping);
 
 
@@ -211,7 +197,6 @@
 
 //　...聞こえるはずはない。!w2000
 	OutputLine(NULL, "…聞こえるはずはない。",
-		   NULL, "...But that's not possible.", Line_ContinueAfterTyping);
 		   NULL, "...Ale to nie mogło być możliwe.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -221,7 +206,6 @@
 
 //　彼女はもう、言うのをやめているのだから。!w4000
 	OutputLine(NULL, "彼女はもう、言うのをやめているのだから。",
-		   NULL, "She is no longer speaking.", Line_ContinueAfterTyping);
 		   NULL, "Ona nie mogła już mówić.", Line_ContinueAfterTyping);
 
 
@@ -235,7 +219,6 @@
 	SetDrawingPointOfMessage( 0, 5 );
 //　泣いているのは俺だけだった。!w2000
 	OutputLine(NULL, "泣いているのは俺だけだった。",
-		   NULL, "The only one crying is me.", Line_ContinueAfterTyping);
 		   NULL, "Jedyny, który płacze, to ja.", Line_ContinueAfterTyping);
 
 
@@ -247,7 +230,6 @@
 
 //　彼女は泣きもしなかった。!w4000
 	OutputLine(NULL, "彼女は泣きもしなかった。",
-		   NULL, "She never cried.", Line_ContinueAfterTyping);
 		   NULL, "Ona nigdy nie płakała.", Line_ContinueAfterTyping);
 
 
@@ -261,7 +243,6 @@
 	SetDrawingPointOfMessage( 0, 2 );
 //　彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。!w2000
 	OutputLine(NULL, "彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
-		   NULL, "Even when she repeated those words over and over, she never expressed any emotion, because there were none to show.", Line_ContinueAfterTyping);
 		   NULL, "Nawet kiedy powtarzała te same słowa w nieskończoności, nigdy nie wyraziła swoich emocji, ponieważ nie były w stanie tego ukazać.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -271,13 +252,11 @@
 
 //　彼女に、俺のために流す涙がないのなら、!w1000俺にだって。!w2000
 	OutputLine(NULL, "彼女に、俺のために流す涙がないのなら、",
-		   NULL, "If she had no tears to shed for me,", Line_ContinueAfterTyping);
 		   NULL, "Jeśli nie wylała żadnych łez dla mnie,", Line_ContinueAfterTyping);
 
 	Wait( 1000 );
 
 	OutputLine(NULL, "俺にだって。",
-		   NULL, " then I...", Line_ContinueAfterTyping);
 		   NULL, " wtedy ja...", Line_ContinueAfterTyping);
 
 
@@ -289,7 +268,6 @@
 
 //　...彼女らのために流す涙はいらないはずなのだ。!w4000
 	OutputLine(NULL, "…彼女らのために流す涙はいらないはずなのだ。",
-		   NULL, "shouldn't need to shed any for her.", Line_ContinueAfterTyping);
 		   NULL, "nie powinienem wylewać moich łez dla niej.", Line_ContinueAfterTyping);
 
 
@@ -303,7 +281,6 @@
 
 //　それなのに......痛み、目を潤ませてしまうのは......どうして？!w2000
 	OutputLine(NULL, "それなのに…痛み、目を潤ませてしまうのは…どうして？",
-		   NULL, "Then why... this pain, my eyes getting moist... why was this happening?", Line_ContinueAfterTyping);
 		   NULL, "Więc dlaczego... ten ból sprawia, że z moich oczów lecą łzy... dlaczego to się stało?", Line_ContinueAfterTyping);
 
 
@@ -315,7 +292,6 @@
 
 //　それでも引き裂かれてないと、......信じていたいから。!w4000
 	OutputLine(NULL, "それでも引き裂かれてないと、…信じていたいから。",
-		   NULL, "I still wanted to believe... I hadn't been split apart.", Line_ContinueAfterTyping);
 		   NULL, "Ja dalej pragnąłem wierzyć... Nie chciałem być rozdarty.", Line_ContinueAfterTyping);
 
 
@@ -329,7 +305,6 @@
 	SetDrawingPointOfMessage( 0, 6 );
 //　もう充分だろ？!w2000
 	OutputLine(NULL, "もう充分だろ？",
-		   NULL, "That's enough, right?", Line_ContinueAfterTyping);
 		   NULL, "To wystarczy, prawda?", Line_ContinueAfterTyping);
 
 
@@ -341,7 +316,6 @@
 
 //　内なる、もうひとりの自分がやさしく語りかける...。!w4000
 	OutputLine(NULL, "内なる、もうひとりの自分がやさしく語りかける…。",
-		   NULL, "Inside me, an inner voice whispered gently...", Line_ContinueAfterTyping);
 		   NULL, "Wewnątrz mnie, wewnętrzny głos szeptał delikatnie...", Line_ContinueAfterTyping);
 
 
@@ -355,7 +329,6 @@
 	SetDrawingPointOfMessage( 0, 4 );
 //　俺はもう充分に心を痛めたさ。!w2000
 	OutputLine(NULL, "俺はもう充分に心を痛めたさ。",
-		   NULL, "My spirit had suffered enough...", Line_ContinueAfterTyping);
 		   NULL, "Moja dusza wycierpiała już wystarczająco...", Line_ContinueAfterTyping);
 
 
@@ -367,8 +340,7 @@
 
 //　...そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。!w2000
 	OutputLine(NULL, "…そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。",
-		   NULL, "...and countless times I'd wavered over whether I should just throw the battered thing away.", Line_ContinueAfterTyping);
-		   NULL, "...i niezliczoną ilość razy wachałem się, czy powinienem właśnie wyrzucić zniszczoną rzecz daleko stąd.", Line_ContinueAfterTyping);
+		   NULL, "...i niezliczoną ilość razy wahałem się, czy powinienem właśnie wyrzucić zniszczoną rzecz daleko stąd.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -379,7 +351,6 @@
 
 //　だけど俺は...頑なに、捨てることを拒んだんじゃないか。!w4000
 	OutputLine(NULL, "だけど俺は…頑なに、捨てることを拒んだんじゃないか。",
-		   NULL, "Except... I've stubbornly refused to do that, haven't I?", Line_ContinueAfterTyping);
 		   NULL, "Ale... uparcie odmawiałem tego, czyż nie?", Line_ContinueAfterTyping);
 
 
@@ -393,8 +364,7 @@
 	SetDrawingPointOfMessage( 0, 2 );
 //　捨てれば...もっと心が楽になれる...。!w2000
 	OutputLine(NULL, "捨てれば…もっと心が楽になれる…。",
-		   NULL, "I'd feel better if I just threw it away.", Line_ContinueAfterTyping);
-		   NULL, "Poczułbym się lepiej, jeślibym tylko to wyrzucił daleko stąd", Line_ContinueAfterTyping);
+		   NULL, "Poczułbym się lepiej, jeślibym tylko to wyrzucił daleko stąd.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -405,7 +375,6 @@
 
 //　それを知りながらも、俺は信じることを選んだんじゃないか。!w2000
 	OutputLine(NULL, "それを知りながらも、俺は信じることを選んだんじゃないか。",
-		   NULL, "Even knowing that, I chose to believe, didn't I?", Line_ContinueAfterTyping);
 		   NULL, "Nawet wiedząc to, wciąż wybieram wiarę, czyż nie?", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -415,7 +384,6 @@
 
 //　その辛かった苦労は、きっと俺にしかわからないし、俺にしかねぎらえない。!w4000
 	OutputLine(NULL, "その辛かった苦労は、きっと俺にしかわからないし、俺にしかねぎらえない。",
-		   NULL, "Only I can understand that painful struggle, and appreciate it.", Line_ContinueAfterTyping);
 		   NULL, "Jedynie ja mogę zrozumieć tę bolesną walkę i docenić ją.", Line_ContinueAfterTyping);
 
 
@@ -430,7 +398,6 @@
 	SetDrawingPointOfMessage( 0, 5 );
 //　なぁ俺。!w2000
 	OutputLine(NULL, "なぁ俺。",
-		   NULL, "Hey, me?", Line_ContinueAfterTyping);
 		   NULL, "Hej, ja?", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -440,7 +407,6 @@
 
 //　...俺は充分に頑張った。!w2000
 	OutputLine(NULL, "…俺は充分に頑張った。",
-		   NULL, "...I've tried more than enough.", Line_ContinueAfterTyping);
 		   NULL, "... Starałem się więcej niż wystarczająco.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -450,7 +416,6 @@
 
 //　......俺がそれを認めてやる。!w2000
 	OutputLine(NULL, "…俺がそれを認めてやる。",
-		   NULL, "...I'll acknowledge that much.", Line_ContinueAfterTyping);
 		   NULL, "...Będę akceptować to wszystko.", Line_ContinueAfterTyping);
 
 
@@ -462,7 +427,6 @@
 
 //　だから。!w2000
 	OutputLine(NULL, "だから。",
-		   NULL, "So...", Line_ContinueAfterTyping);
 		   NULL, "Więc...", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -472,7 +436,6 @@
 
 //　......もう楽になってもいいんじゃないか......？!w4000
 	OutputLine(NULL, "…もう楽になってもいいんじゃないか…？",
-		   NULL, "...Isn't it all right to just take the easy way out?", Line_ContinueAfterTyping);
 		   NULL, "...Czy nie byłoby w porządku wybrać łatwiejszego wyjścia?", Line_ContinueAfterTyping);
 
 
@@ -487,7 +450,6 @@
 
 //　それに.........捨てるんじゃない。!w2000
 	OutputLine(NULL, "それに…捨てるんじゃない。",
-		   NULL, "Besides... I'm not throwing it away.", Line_ContinueAfterTyping);
 		   NULL, "Zresztą... Nie ja porzuciłem.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -497,8 +459,7 @@
 
 //　彼女と一緒に、置いていくんだ。!w2000
 	OutputLine(NULL, "彼女と一緒に、置いていくんだ。",
-		   NULL, "I'm leaving it behind, with her.", Line_ContinueAfterTyping);
-		   NULL, "Ja zostałem porzucony za plecami przez nią", Line_ContinueAfterTyping);
+		   NULL, "Ja zostałem porzucony za plecami przez nią.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -512,7 +473,6 @@
 	SetDrawingPointOfMessage( 0, 11 );
 //　...花を手向けるように。!w4000
 	OutputLine(NULL, "…花を手向けるように。",
-		   NULL, "...Like flowers by a grave.", Line_ContinueAfterTyping);
 		   NULL, "...Jak kwiaty na grobie.", Line_ContinueAfterTyping);
 
 
@@ -524,7 +484,6 @@
 	SetDrawingPointOfMessage( 0, 3 );
 //　さぁ。!w2000
 	OutputLine(NULL, "さぁ。",
-		   NULL, "Now then.", Line_ContinueAfterTyping);
 		   NULL, "W tej chwili.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -534,8 +493,7 @@
 
 //　......心を落ち着けて...。!w2000
 	OutputLine(NULL, "…心を落ち着けて…。",
-		   NULL, "...Calm your nerves.", Line_ContinueAfterTyping);
-		   NULL, "...Uspokuj swoje nerwy.", Line_ContinueAfterTyping);
+		   NULL, "...Uspokój swoje nerwy.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -546,7 +504,6 @@
 
 //　もう右腕が痺れているだろうけど。!w2000
 	OutputLine(NULL, "もう右腕が痺れているだろうけど。",
-		   NULL, "Even though you can't feel your right arm.", Line_ContinueAfterTyping);
 		   NULL, "Chociaż nie możesz poczuć swojej prawej ręki.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
@@ -556,7 +513,6 @@
 
 //　......頑張って振り上げよう。!w2000
 	OutputLine(NULL, "…頑張って振り上げよう。",
-		   NULL, "...Just lift it up.", Line_ContinueAfterTyping);
 		   NULL, "...Udźwignij to.", Line_ContinueAfterTyping);
 
 
@@ -568,7 +524,6 @@
 
 //　ひとつ振る度に忘れるんだ。!w4000
 	OutputLine(NULL, "ひとつ振る度に忘れるんだ。",
-		   NULL, "And with every swing, forget a little more.", Line_ContinueAfterTyping);
 		   NULL, "I z każdym zamachem, zapomnij trochę bardziej.", Line_ContinueAfterTyping);
 
 
@@ -586,7 +541,6 @@
 
 //　親切が、うれしかった。!w2000
 	OutputLine(NULL, "親切が、うれしかった。",
-		   NULL, "That kindness made me happy.", Line_ContinueAfterTyping);
 		   NULL, "Tą dobroć dającą mi szczęście.", Line_ContinueAfterTyping);
 
 
@@ -602,7 +556,6 @@
 
 //　愛らしい笑顔がうれしかった。!w2000
 	OutputLine(NULL, "愛らしい笑顔がうれしかった。",
-		   NULL, "That adorable smile brought me joy.", Line_ContinueAfterTyping);
 		   NULL, "Ten rozkoszny uśmiech sprawiający mi radość.", Line_ContinueAfterTyping);
 
 
@@ -618,7 +571,6 @@
 
 //　頭を撫でるのが、好きだった。!w2000
 	OutputLine(NULL, "頭を撫でるのが、好きだった。",
-		   NULL, "I liked petting your head.", Line_ContinueAfterTyping);
 		   NULL, "Lubiłem czochrać twoje włosy.", Line_ContinueAfterTyping);
 
 
@@ -634,7 +586,6 @@
 
 //　そんな君がはにかむのが、好きだった。!w2000
 	OutputLine(NULL, "そんな君がはにかむのが、好きだった。",
-		   NULL, "I loved how demure you were.", Line_ContinueAfterTyping);
 		   NULL, "Kochałem twoją skromność.", Line_ContinueAfterTyping);
 
 
@@ -656,7 +607,6 @@
 
 //　これで最後だから。!w2000
 	OutputLine(NULL, "これで最後だから。",
-		   NULL, "...Because this will be the last time.", Line_ContinueAfterTyping);
 		   NULL, "...Ponieważ będzie to ostatni raz.", Line_ContinueAfterTyping);
 
 
@@ -668,7 +618,6 @@
 
 //　これを振り下ろせば忘れてしまうのだから。!w2000
 	OutputLine(NULL, "これを振り下ろせば忘れてしまうのだから。",
-		   NULL, "Because when I swing this down, I'll forget.", Line_ContinueAfterTyping);
 		   NULL, "Ponieważ kiedy skończę wymachiwać, zapomnę.", Line_ContinueAfterTyping);
 
 
@@ -680,7 +629,6 @@
 
 //　君に贈る、...............俺からの、!w2000
 	OutputLine(NULL, "君に贈る、…俺からの、",
-		   NULL, "This is... my...", Line_ContinueAfterTyping);
 		   NULL, "To jest... mój...", Line_ContinueAfterTyping);
 
 	Wait( 2000 );
@@ -691,7 +639,6 @@
 
 //　最初で最後の!w1000花束。!w4000
 	OutputLine(NULL, "最初で最後の",
-		   NULL, "First and last...", Line_ContinueAfterTyping);
 		   NULL, "Pierwszy i ostatni...", Line_ContinueAfterTyping);
 
 
@@ -699,7 +646,6 @@
 
 
 	OutputLine(NULL, "花束。",
-		   NULL, " bouquet for you.", Line_ContinueAfterTyping);
 		   NULL, " bukiet dla ciebie.", Line_ContinueAfterTyping);
 
 
@@ -717,7 +663,6 @@
 
 //　ひょっとすると、...俺は君の事が、!w2000
 	OutputLine(NULL, "ひょっとすると、…俺は君の事が、",
-		   NULL, "Perhaps... I really did...", Line_ContinueAfterTyping);
 		   NULL, "Być może... Ja naprawdę...", Line_ContinueAfterTyping);
 
 
@@ -733,12 +678,10 @@
 
 	OutputLine(NULL, "…………………………………",
 		   NULL, "...", Line_ContinueAfterTyping);
-		   NULL, "...", Line_ContinueAfterTyping);
 
 	SetSpeedOfMessage( TRUE, 100, );
 
 	OutputLine(NULL, "好きだった。",
-		   NULL, "...love you.", Line_ContinueAfterTyping);
 		   NULL, "...kochałem ciebie.", Line_ContinueAfterTyping);
 
 	SetSpeedOfMessage( FALSE, 0, );

@@ -6,13 +6,13 @@ import re
 
 reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)"]+(\.|\?|\!|,|\\|—|-|\")\")')
 
-f = open('onik_000.txt', 'r')
-g = open('onik_000_pl.txt', 'r')
+f = open('onik_op.txt', 'r')
+g = open('onik_op_pl.txt', 'r')
 lines = g.readlines()
 i=0
 for line in f:
   if re.findall(reg, line):
-    print (line[:-1])
+    #print (line[:-1])
     for match in re.findall(reg, line):
       print(line.replace(match[0], lines[i][:-1])[:-1])
       i += 1
