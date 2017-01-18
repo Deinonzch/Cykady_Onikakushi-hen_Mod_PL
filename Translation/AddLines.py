@@ -4,7 +4,7 @@ import sys
 from operator import itemgetter
 import re
 
-reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)"]+(\.|\?|\!|,|\\|—|-|\")\")')
+reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)~☆*=+"]+(\.|\?|\!|,|\\|—|-|\"|~☆*)\")')
 regline = re.compile(r'(\sLine.*\);)')
 
 f = open('onik_000.txt', 'r')

@@ -541,7 +541,7 @@
 
 //　親切が、うれしかった。!w2000
 	OutputLine(NULL, "親切が、うれしかった。",
-		   NULL, "Tą dobroć dającą mi szczęście.", Line_ContinueAfterTyping);
+		   NULL, "Tę dobroć dającą mi szczęście.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );

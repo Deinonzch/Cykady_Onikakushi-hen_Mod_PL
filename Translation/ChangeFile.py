@@ -4,7 +4,7 @@ import sys
 from operator import itemgetter
 import re
 
-reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)"]+(\.|\?|\!|,|\\|—|-|\")\")')
+reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)~☆*=+"]+(\.|\?|\!|,|\\|—|-|\"|~☆*)\")')
 
 f = open('onik_op.txt', 'r')
 g = open('onik_op_pl.txt', 'r')

@@ -42,13 +42,13 @@
 
 //　親類の葬儀のために戻った、久しぶりの都会だった＠
 	OutputLine(NULL, "　親類の葬儀のために戻った、久しぶりの都会だった。",
-		   NULL, "Mineło trochę czasu od kiedy byłem ostatnio w mieście. Powróciłem jedynie, żeby uczestniczyć w pogrzebie krewnego.", Line_WaitForInput);
+		   NULL, "Minęło trochę czasu od kiedy byłem ostatnio w mieście. Powróciłem jedynie, żeby uczestniczyć w pogrzebie krewnego.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された＠
 	OutputLine(NULL, "　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された。",
-		   NULL, "Pomimo, że mieszkałem tam do ostatniego miesiąca, ponownie znalazłem w się niekończącej się miejskiej jungli.", Line_WaitForInput);
+		   NULL, "Pomimo, że mieszkałem tam miesiąc temu, ponownie znalazłem w się niekończącej się miejskiej dżungli.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
@@ -121,7 +121,7 @@
 
 //　だが、考えてみればそれに不便を感じる必要はなかった￥
 	OutputLine(NULL, "　だが、考えてみればそれに不便を感じる必要はなかった。",
-		   NULL, "Ale jeśli o tym pomyślć, nie był to wielki problem.", Line_Normal);
+		   NULL, "Ale jeśli o tym pomyśleć, nie był to wielki problem.", Line_Normal);
 	ClearMessage();
 
 //　前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない＠
@@ -176,7 +176,7 @@
 
 //　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた￥
 	OutputLine(NULL, "　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた。",
-		   NULL, "Zacząłem być trochę zirytowany na tego gościa, który odmawiał jej przeprosin.", Line_Normal);
+		   NULL, "Zacząłem być trochę zirytowany na tego kolesia, który odmawiał jej przeprosin.", Line_Normal);
 	ClearMessage();
 
 //　どんな過ちだって、許されないことはないはずだ＠
@@ -208,7 +208,7 @@
 
 //　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ＠
 	OutputLine(NULL, "　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ。",
-		   NULL, "Nie mam pojęcia co zrobiła, ale jeśli nie może zostać to naprawione, wtedy tym bardziej powinien jej przebaczyć.", Line_WaitForInput);
+		   NULL, "Nie mam pojęcia, co zrobiła, ale jeśli nie może zostać to naprawione, wtedy tym bardziej powinien jej przebaczyć.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
