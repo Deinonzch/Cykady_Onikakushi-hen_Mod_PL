@@ -41,7 +41,7 @@
 " Wstawaj.\""
 "W końcu zbudziłem się z mojej drzemki przez nawoływanie mojego ojca."
 "Wyglądało na to, że pociąg dotarł już do celu."
-"Spędziliśmy godziny jazdy wszystkim od szybkich kolei po lokalne drógi."
+"Spędziliśmy godziny jazdy wszystkim od szybkich kolei po lokalne drogi."
 "Ciężko było uwierzyć, że krajobraz za oknem i miasto, w którym byłem pół dnia temu, należą do tego samego kraju."
 "Nie... bardziej pasowałoby, że należą do tej samej epoki."
 "Od tej chwili jechaliśmy samochodem głęboko w góry."

@@ -105,7 +105,7 @@
 
 //　でも......薄々は気付いてる。!w2000
 	OutputLine(NULL, "でも…薄々は気付いてる。",
-		   NULL, "Ale... Zacząłem uświadamiać sobie.", Line_ContinueAfterTyping);
+		   NULL, "Ale... zacząłem uświadamiać sobie.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -114,7 +114,7 @@
 
 //　信じたいのは、認めたくないだけだからだ。/
 	OutputLine(NULL, "信じたいのは、認めたくないだけだからだ。",
-		   NULL, "Że pragnę jedynie ufać jej z powodu nie akceptowania prawdy.", Line_ContinueAfterTyping);
+		   NULL, "Że pragnę jedynie ufać jej z powodu nie zaakceptowania prawdy.", Line_ContinueAfterTyping);
 
 	PlaySE( 3, "wa_015", 128, 64 );
 	Wait( 800 );
@@ -243,7 +243,7 @@
 	SetDrawingPointOfMessage( 0, 2 );
 //　彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。!w2000
 	OutputLine(NULL, "彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
-		   NULL, "Nawet kiedy powtarzała te same słowa w nieskończoności, nigdy nie wyraziła swoich emocji, ponieważ nie były w stanie tego ukazać.", Line_ContinueAfterTyping);
+		   NULL, "Nawet kiedy powtarzała te same słowa w nieskończoność, nigdy nie wyraziła swoich emocji, ponieważ nie były w stanie tego ukazać.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -340,7 +340,7 @@
 
 //　...そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。!w2000
 	OutputLine(NULL, "…そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。",
-		   NULL, "...i niezliczoną ilość razy wahałem się, czy powinienem właśnie wyrzucić zniszczoną rzecz daleko stąd.", Line_ContinueAfterTyping);
+		   NULL, "...i niezliczoną ilość razy wahałem się, czy powinienem właśnie wyrzucić zniszczoną część mnie daleko stąd.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -364,7 +364,7 @@
 	SetDrawingPointOfMessage( 0, 2 );
 //　捨てれば...もっと心が楽になれる...。!w2000
 	OutputLine(NULL, "捨てれば…もっと心が楽になれる…。",
-		   NULL, "Poczułbym się lepiej, jeślibym tylko to wyrzucił daleko stąd.", Line_ContinueAfterTyping);
+		   NULL, "Poczułbym się lepiej, jeślibym tylko wyrzucił to daleko stąd.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -459,7 +459,7 @@
 
 //　彼女と一緒に、置いていくんだ。!w2000
 	OutputLine(NULL, "彼女と一緒に、置いていくんだ。",
-		   NULL, "Ja zostałem porzucony za plecami przez nią.", Line_ContinueAfterTyping);
+		   NULL, "To ja zostałem porzucony za plecami przez nią.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );
@@ -493,7 +493,7 @@
 
 //　......心を落ち着けて...。!w2000
 	OutputLine(NULL, "…心を落ち着けて…。",
-		   NULL, "...Uspokój swoje nerwy.", Line_ContinueAfterTyping);
+		   NULL, "...Uspokój się.", Line_ContinueAfterTyping);
 
 
 	Wait( 2000 );

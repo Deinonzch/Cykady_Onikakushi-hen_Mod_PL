@@ -26,7 +26,7 @@
 
 //　...誰かが、ずっと謝っている気がした￥
 	OutputLine(NULL, "　…誰かが、ずっと謝っている気がした。",
-		   NULL, "...Ktoś przepraszał chwilę temu.", Line_Normal);
+		   NULL, ﻿"...Ktoś przepraszał chwilę temu.", Line_Normal);
 	ClearMessage();
 
 //　彼女は何を謝っているのだろう＠
@@ -85,12 +85,12 @@
 
 //　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ￥
 	OutputLine(NULL, "　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ。",
-		   NULL, "Zamiast sprawić mi uczucie osamotnienia, ten spokój zaczął wypełniać mnie spokojem ducha.", Line_Normal);
+		   NULL, "Zamiast sprawić mi uczucie osamotnienia, ten spokój ukoił moją duszę.", Line_Normal);
 	ClearMessage();
 
 //　確かに今住む土地には何もない＠
 	OutputLine(NULL, "　確かに今住む土地には何もない。",
-		   NULL, "Nie ma nic tam, gdzie teraz żyję.", Line_WaitForInput);
+		   NULL, "Tam gdzie teraz żyję, nic nie ma.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -164,7 +164,7 @@
 
 //　これだけ謝っているのだから、もう許してやればいいのに＠
 	OutputLine(NULL, "　これだけ謝っているのだから、もう許してやればいいのに。",
-		   NULL, "Przeprasza tak bardzo, więc w końcu mógłby jej przebaczyć.", Line_WaitForInput);
+		   NULL, "Przeprasza tak bardzo, więc w końcu mógłby jej wybaczyć.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -176,7 +176,7 @@
 
 //　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた￥
 	OutputLine(NULL, "　いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた。",
-		   NULL, "Zacząłem być trochę zirytowany na tego kolesia, który odmawiał jej przeprosin.", Line_Normal);
+		   NULL, "Zacząłem być trochę wkurzony na tego kolesia, który odmawiał jej przeprosin.", Line_Normal);
 	ClearMessage();
 
 //　どんな過ちだって、許されないことはないはずだ＠
@@ -208,7 +208,7 @@
 
 //　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ＠
 	OutputLine(NULL, "　一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ。",
-		   NULL, "Nie mam pojęcia, co zrobiła, ale jeśli nie może zostać to naprawione, wtedy tym bardziej powinien jej przebaczyć.", Line_WaitForInput);
+		   NULL, "Nie mam pojęcia, co zrobiła, ale jeśli nie może zostać to naprawione, wtedy tym bardziej powinien jej wybaczyć.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -224,7 +224,7 @@
 
 //　なあ、彼女に謝られている誰かさんよ＠
 	OutputLine(NULL, "　なあ、彼女に謝られている誰かさんよ。",
-		   NULL, "Hey, ty. Gościu, którego przeprasza...", Line_WaitForInput);
+		   NULL, "Hej, ty. Gościu, którego przeprasza...", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -269,13 +269,13 @@
 
 //　新幹線やら電車やらを乗り継ぎ数時間＠
 	OutputLine(NULL, "　新幹線やら電車やらを乗り継ぎ数時間。",
-		   NULL, "Spędziliśmy godziny jazdy wszystkim od szybkich kolei do lokalnych dróg.", Line_WaitForInput);
+		   NULL, "Spędziliśmy godziny jazdy wszystkim od szybkich kolei po lokalne drogi.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　窓の外の風景は、半日前までいた都会と同じ国であることを＠
 	OutputLine(NULL, "　窓の外の風景は、半日前までいた都会と同じ国であることを、",
-		   NULL, "Ciężko było uwierzyć, że krajobraz za okna i miasto, w którym byłem pół dnia temu, należą do tego samego kraju.", Line_WaitForInput);
+		   NULL, "Ciężko było uwierzyć, że krajobraz za oknem i miasto, w którym byłem pół dnia temu, należą do tego samego kraju.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
