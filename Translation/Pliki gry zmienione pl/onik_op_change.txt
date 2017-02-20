@@ -243,7 +243,7 @@
 	SetDrawingPointOfMessage( 0, 2 );
 //　彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。!w2000
 	OutputLine(NULL, "彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
-		   NULL, "Nawet kiedy powtarzała te same słowa na okrągło, bez żadnych emocji, ponieważ były puste.", Line_ContinueAfterTyping);
+		   NULL, "Nawet kiedy powtarzała te same puste słowa na okrągło, bez żadnej emocji na twarzy.", Line_ContinueAfterTyping);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -316,7 +316,7 @@
 
 //　内なる、もうひとりの自分がやさしく語りかける...。!w4000
 	OutputLine(NULL, "内なる、もうひとりの自分がやさしく語りかける…。",
-		   NULL, "Wewnątrz mnie wewnętrzny głos szeptał delikatnie...", Line_ContinueAfterTyping);
+		   NULL, "Wewnątrz mnie wewnętrzny głos wyszeptał delikatnie...", Line_ContinueAfterTyping);
 
 
 	Wait( 4000 );
