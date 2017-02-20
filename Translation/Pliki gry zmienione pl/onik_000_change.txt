@@ -37,18 +37,18 @@
 
 //　それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした￥
 	OutputLine(NULL, "　それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした。",
-		   NULL, "Czułem się źle podsłuchując, więc starałem się to zignorować.", Line_Normal);
+		   NULL, "Ale czułbym się źle podsłuchując, więc starałem się to zignorować.", Line_Normal);
 	ClearMessage();
 
 //　親類の葬儀のために戻った、久しぶりの都会だった＠
 	OutputLine(NULL, "　親類の葬儀のために戻った、久しぶりの都会だった。",
-		   NULL, "Minęło trochę czasu od kiedy byłem ostatnio w mieście. Powróciłem jedynie, żeby uczestniczyć w pogrzebie krewnego.", Line_WaitForInput);
+		   NULL, "Minęło trochę czasu od kiedy byłem ostatnio w mieście. Powróciłem jedynie na pogrzeb krewnego.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
 //　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された＠
 	OutputLine(NULL, "　つい先月まで住んでいたにも関わらず、都会の賑やかさに圧倒された。",
-		   NULL, "Pomimo, że mieszkałem tam miesiąc temu, ponownie znalazłem w się niekończącej się miejskiej dżungli.", Line_WaitForInput);
+		   NULL, "Pomimo że mieszkałem tam miesiąc temu, ponownie znalazłem się w niekończącej się miejskiej dżungli.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
@@ -66,12 +66,12 @@
 
 //　駅前での騒々しい選挙演説すらも今では懐かしかった￥
 	OutputLine(NULL, "　駅前での騒々しい選挙演説すらも今では懐かしかった。",
-		   NULL, "Nawet ogłoszenia na peronach budziły uczucie nostalgii.", Line_Normal);
+		   NULL, "Nawet ogłoszenia na peronach budziły u mnie nostalgię.", Line_Normal);
 	ClearMessage();
 
 //　今、住んでいる土地にはそんな賑やかなものはない＠
 	OutputLine(NULL, "　今、住んでいる土地にはそんな賑やかなものはない。",
-		   NULL, "Miejsce w którym teraz żyję, nie jest nawet tak żwawe.", Line_WaitForInput);
+		   NULL, "Miejsce w którym teraz żyję, nie jest tak żywe.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
@@ -85,7 +85,7 @@
 
 //　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ￥
 	OutputLine(NULL, "　そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ。",
-		   NULL, "Zamiast sprawić mi uczucie osamotnienia, ten spokój ukoił moją duszę.", Line_Normal);
+		   NULL, "Ten spokój nie sprawił, że czułem się samotny, a ukoił moją duszę.", Line_Normal);
 	ClearMessage();
 
 //　確かに今住む土地には何もない＠
@@ -96,7 +96,7 @@
 
 //　気の利いたハンバーガー屋はおろか、自動販売機すらない＠
 	OutputLine(NULL, "　気の利いたハンバーガー屋はおろか、自動販売機すらない。",
-		   NULL, "Nie mam tylko na myśli żadnych sklepów z burgerami. Nie ma tam nawet automatów.", Line_WaitForInput);
+		   NULL, "Nie mam tylko na myśli sklepów z burgerami. Nie ma tam nawet automatów.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
 
 
@@ -126,7 +126,7 @@
 
 //　前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない＠
 	OutputLine(NULL, "　前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない。",
-		   NULL, "Były tam sklepy muzyczne, pasaże i lodziarnie, ale nie było tak, że spędzałem tam każdy czas.", Line_WaitForInput);
+		   NULL, "Były tam sklepy muzyczne, pasaże i lodziarnie, ale nie spędzałem w nich czasu.", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
 
 
@@ -144,7 +144,7 @@
 
 //　今更ながらちょっと後悔￥
 	OutputLine(NULL, "　今更ながらちょっと後悔。",
-		   NULL, "Jedynie tego, zacząłem teraz trochę żałować.", Line_Normal);
+		   NULL, "Jedynie tego zacząłem teraz trochę żałować.", Line_Normal);
 	ClearMessage();
 
 //locate 3,7
@@ -321,7 +321,7 @@
 
 //　うっそうと木々が茂る山道が急に開けるとそこが...￥
 	OutputLine(NULL, "　うっそうと木々が茂る山道が急に開けるとそこが…、",
-		   NULL, "Przez głęboki las zakłócony górską drogą, gdy nagle pojawiło się miejsce z przeszłości...", Line_Normal);
+		   NULL, "Górską drogą, która nie pasowała do otaczającego nas lasu, aż zobaczyliśmy miejsce z przeszłości...", Line_Normal);
 	ClearMessage();
 
 //setwindow 31,16,22,16,26,26,0,2,20,1,1,#ffffff,0,0,639,479
@@ -333,7 +333,7 @@
 
 //　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ￥
 	OutputLine(NULL, "　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ。",
-		   NULL, "Tam, gdzie teraz żyję. Hinamizawa.", Line_Normal);
+		   NULL, "Miejsce, w którym teraz żyję. Hinamizawa.", Line_Normal);
 	ClearMessage();
 
 
