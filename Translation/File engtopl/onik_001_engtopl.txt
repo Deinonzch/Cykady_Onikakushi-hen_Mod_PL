@@ -293,7 +293,7 @@
 "Before you ask, just to be clear, I've never actually tried to show it to her."
 "Zanim spytasz, żeby było oczywiste. Nigdy nie starałem się go jej pokazać."
 "\"I've grown quite splendidly."
-"\"Urósł całkim wspaniale.""
+"\"Urósł całkim wspaniale."
 " You'd be surprised.\""
 " Byłabyś tym zaskoczona.\""
 "\"Not only is he bigger, but he has a little moustache now~☆\""

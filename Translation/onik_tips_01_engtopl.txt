@@ -37,7 +37,7 @@
 " It's impossible to challenge me by birthday!!"
 " To nie możliwe, że wyzywasz mnie przez moje urodziny!!"
 " ... I wouldn't even mind you if you bet a dollar per month!\""
-" ... Nie miałbym nic przeciwko, jeśli płaciłabyś mi dolara co miesiąc!""
+" ... Nie miałbym nic przeciwko, jeśli założylibyśmy się o dolara z tego miesiąca.""
 "\"Huh?"
 "\"Huh?"
 " Huh!?"
@@ -49,154 +49,154 @@
 "Rena panicked at suddenly being challenged to a wager."
 "Rena spanikowała, kiedy nagle została wyzwana do zakładu."
 "... Given how panicked she is, I am certain she doesn't have much allowance left this month."
-
+"... Widząc jej panikę, byłem przekonany, że nie zostało jej wiele kieszonkowego z tego miesięca."
 "It's just... Sending her into a panic about something as simple as a birthday is so fun, I can't help myself."
-
+"Poprostu... Wywołując u nie panikę przez coś prostego jak urodziny, jest bardzo zabawne, że nie mogę się powstrzymać."
 "\"So that means you were born in April, Kei-chan?\""
-
+"\"Więc, czy to znaczy, że urodziłeś się w kwietniu, Kei-chan?\""
 "\"Right on!"
-
+"\"Słusznie!"
 " Too bad, Rena!"
-
+" Źle Reno!"
 " I'm already far older than Rena.\""
-
+" Jestem o wiele starszy niż ty Reno.\""
 "\"Oh!"
-
+"\"Oh!"
 " I see!"
-
+" Już rozumiem!"
 " Then you're the same age as Mii-chan!\""
-
+" Ty masz tyle samo lat co Mii-chan!\""
 "\"Well, it's just a few months~"
-
+"\"Cóż, to tylko kilka miesięcy~"
 " That gap will open up again soon enough~!\""
-
+" Ale różnica powiększy się ponownie wkrótce~!\""
 "Mion snickered through her nose."
-
+"Mion chichotała przez swój nos."
 "... Hey, now, that's not something to get all high and mighty about."
-
+"... Hej, teraz to nie jest coś, z czego można się puszyć."
 " As if I'm one to talk (heh)."
-
+" Jakby tylko ja gadałam (heh)."
 "\"... Now that you mention it... You're in a higher grade, right Mion?\""
-
+"\"... Mion, czy to teraz nie oznacza... że jesteś najstarsza?\""
 "\"If you're into underclassmen, then I can be an underclassman from now on!\""
-
+"\"Jeśli jesteś drugoroczna, wtedy ja mogę od teraz być drugoroczną!\""
 "\"Mii-chan, you're not making any sense to me...\""
-
+"\"Mii-chan, to co powiedziałaś, nie ma dla mnie żadnego sensu...\""
 "Just by seeing Rena's blushing face, you could tell she knew exactly what she meant by it, though..."
-
+"Widząc zawstydzoną twarz Reny, mógłbyś powiedzieć, że wie dokładnie, o co jej chodziło, pomimo..."
 "\"Then Satoko and Rika-chan are underclassmen."
-
+"\"Wtedy Satoko i Rika-chan też są drugoroczymi."
 " ... Their grade is so different that they should be in a different school, shouldn't they?\""
-
+" ... Czy ich wiek nie jest tak różny, że powinny być w innych szkołach?\""
 "\"Ke... Keiichi-kun, your tastes are a bit too young, I think..."
-
+"\"Ke... Keiichi-kun, twój gust jest odrobine za młody, tak sądze..."
 " I think...\""
-
+" Tak sądze...\""
 "You're not making any sense yourself, Rena..."
-
+"Reno, twoja wypowiedź nie ma dla mnie żadnego sensu..."
 "I'll just grab onto her head and scruff it up a bit."
-
+"Chwyciłem ją za głowę i wytarmosiłem ją trochę."
 "\"Hao~~~!! S~t~o~p~ i~t~~...!\""
-
+"\"Hao~~~!! P~r~z~e~s~t~a~ń~ ...!\""
 "\"I wondered about it before, yeah."
-
+"\"Zastanawiałem się nad tym wcześniej, yeah."
 " I was wondering why this school has different school years all mixed up.\""
-
+" Zastanawiałem się dlaczego ta szkoła ma wymieszane roczniki ze sobą.\""
 "\"There aren't enough classrooms."
-
+"\"Nie ma tutaj wystarczającej ilość klas."
 " Can't help it."
-
+" Nic nie można z tym zrobić."
 " This building is being rented from the forestry services, after all~.\""
-
+" W końcu ten budynek jest wynajmowany od leśników~.\""
 "... When she says it like that, it makes sense."
-
+"... Kiedy ujeła to w ten sposób, nabierało to sensu."
 " I've thought our school was strange for a while now."
-
+" Myślałem, że nasza szkoła była dziwna już od jakiegoś czasu."
 "The school yard is gravel, there are rooms that aren't for classes, and there's some strange sort of construction machinery parked here."
-
+"Podwórko szkoły jest wypełnione żwirem, są pokoje, które nie są klasami i są tutaj jakieś dziwne maszyny budowlane zaparkowane tutaj."
 "\"Why is it being borrowed?"
-
+"\"Dlaczego to jest wyporzyczone?"
 " What happened to the real school?\""
-
+" Co się stało z prawdziwą szkołą?\""
 "\"There was one here forever from before the war..."
-
+"\"Była tutaj szkoła zanim wybuchła wojna..."
 " It got dilapidated."
-
+" Ale została zniszczona."
 " They closed it down.\""
-
+" Wtedy ją zamkneli.\""
 "It probably was a grand old school house."
-
+"Prawdopodobnie był to wielki stary szkolny budynek."
 "\"Well, because of that, the students would have to attend the school in the city.  That's pretty far, though, you know?\""
-
+"\"Cóż, z tego powodu uczniowie mogliby uczęszczać do szkoły w mieście. To dość daleko, ale ty o tym wiesz?\""
 "\"Which school would that be?\""
-
+"\"O której szkole ty mówisz?\""
 "\"Did you know there's a school if you pass by the Okinomiya train station, turn at the hospital, and head towards the pediatrics department?\""
-
+"\"Czy wiedziałeś, że jest tam szkoła, jeśli przejdziesz przez stacje Okinamiyi, skierujesz się na szpital i udasz się do wydziału pediatrii?\""
 "\"W-Whaaaa!?!?"
-
+"\"C-cooooo!?!?"
 " S-So far...!\""
-
+" T-tak daleko...!\""
 "I couldn't tell where that was by the location, but I understood it was pretty far from Rena's reaction."
-
+"Nie mogłbym powiedzieć, gdzie znajdowała się ta lokalizacja, ale rozumiałem, że było to bardzo daleko przez rekacje Reny."
 "\"Well, that's why."
-
+"\"Cóż, właśnie dlatego."
 " The guys that didn't want to commute to Okinomiya rented out the building from the forestry services, and are attending this pseudo school house here.\""
-
+" Ludzie nie chcieli dojeżdżać do Okinimiyi, wynajeli budenyk od leśników i zaczeli uczęszczać do tej pseudo szkoły.\""
 "\"About half the children in Hinamizawa go here."
-
+"\"Z połowa dzieci z Hinamizawy ucząszcza tutaj."
 " There are quite a lot of kids that come here on bike.\""
-
+" Są tutaj sporo dzieic, którzy dojeżdząją tutaj rowerem.\""
 "\"Well, since they're attending this really messed-up school it might be pretty hard for them to get into higher education.\""
-
+"\"Cóż, od kiedy zaczeli uczęszczać do tej naprawdę pochrzanionej szkoły, może być dość ciężko dla nich dostać się na wykrztałcenie wyższe.\""
 "\"That's not true, Mii-chan."
-
+"\"T nie prawda, Mii-chan."
 " If you study properly, you can go anywhere you want.\""
-
+" Jeśłi uczysz się właściwie, to może iść gdziekolwiek chce.\""
 "\"Yeah, that's right that's right!"
-
+"\"Tak, zgadza się, zgadza się!"
 " I totally agree with Rena on this one!\""
-
+" Zgadzam się z Reną całkowicie w tym jednym!\""
 "\"Yes, that's right."
-
+"\"Tak, zgadzamsię."
 " That's right!"
-
+" Zgadzam się!"
 " Let's try our best!\""
-
+" Dajmy z siebie wszystko!\""
 "\"All of you, try your best."
-
+"\"Niech każdy z nas da z siebie wszystko."
 " This old man will be rooting for you.\""
-
+" Ten staruszek będzie wam kibicował.\""
 "\"Not just us! You, too!"
-
+"\"Nie tylko my! Ty też!"
 " You should be preparing for exams, shouldn't you!?"
-
+" Powinnaś przygotować się na egzaminy, czyż nie!?"
 " Your future is bleak with grades like this!\""
-
+" Twoja przyszłość jest czarna z takimi ocenami!\""
 "\"Fine, just fine."
-
-" If I get stuck, then I'll just mooch off Kei-chan as he works forever."
-
+"\"W porządku,już dobrze." 
+" If I get stuck, then I'll just mooch off Kei-chan as he works forever.\""
+" Jeśli utknę, wtedy wystarczy, że wysępie od Kei-chana jego prace jak zawsze.\""
 "\"Wh-wh-what do you mean by work forever!?"
-
+"\"C-c-co ty masz na myśli przez prace jak zawsze!?"
 " What do you mean!?\""
-
+" Co masz na myśli!?\""
 "\"Hey!"
-
+"\"Hej!"
 " You're too loud!"
-
+" Jesteś za głośny!"
 " Be quiet during self study!\""
-
+" Bądź cicha podczas samo nauki!\""
 "The teacher yelled at all three of us."
-
+"Nauczycielka nawrzeszczała na nas trzech."
 "It was completely our fault..."
-
+"To była całkowicie nasza wina..."
 "Satoko saw it and chortled haughtily."
-
+"Satoko widziała to i zaśmiała się wyniośle."
 "I stuck out my tongue at her in response."
-
+"Pokazałem jej język w odpowiedzi."
 "... It is just as Mion says."
-
+"... Jest tak jak Mion mówi."
 " This school has nothing to do with higher education."
-
+" Ta szkoła nie ma nic wspólnego z wykrztałceniem wyższym."
 "But it makes up for that by having lots of valuable things other schools don't."
-
+"Ale za to posiada wiele wartościowych rzeczy, które nie posiadają inne szkoły."
