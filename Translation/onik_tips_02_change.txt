@@ -1,0 +1,335 @@
+﻿void main()
+{
+
+//■うちって制服自由？
+
+//*Sub_Tips_002
+//gosub *tip_s
+//gosub *data_tati
+
+	EnableJumpingOfReturnIcon();
+
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	DrawScene( "bg_110", 1000 );
+	PlayBGM( 2, "lsys12", 128, 0 );
+
+//　まだ６月だってのに...!w1000暑い＠
+	OutputLine(NULL, "　まだ６月だってのに…",
+		   NULL, "To jest tylko czerwiec...", Line_ContinueAfterTyping);
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+
+	OutputLine(NULL, "暑い。",
+		   NULL, " ale już jest tak gorąco.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　外ではセミがミンミンと鳴き、夜は蚊まで出る＠...これって完全に夏だよなぁ＠
+	OutputLine(NULL, "　外ではセミがミンミンと鳴き、夜は蚊まで出る。",
+		   NULL, "Mogłem usłyszeć cykanie cykad z zewnątrz \"miii miii,\", a nocą były tam komary.", Line_WaitForInput);
+	OutputLine(NULL, "…これって完全に夏だよなぁ。",
+		   NULL, " ...Równie dobrze można powiedzieć, że już jest lato.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　...朝だけは涼しいのが救いか￥
+	OutputLine(NULL, "　…朝だけは涼しいのが救いか。",
+		   NULL, "...Jedynym moim ratunkiem, było to, że poranki były wciąż chłodne.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "sa_se_bi_b1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「暑いでございますわねぇ！＠
+	OutputLine(NULL, "「暑いでございますわねぇ！」",
+		   NULL, "\"Ogłaszam, że już jest lato!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　沙都子が気だるそうにスカートをバタバタさせている＠
+	OutputLine(NULL, "　沙都子が気だるそうにスカートをバタバタさせている。",
+		   NULL, "Satoko trzepotała swoją spódniczką leniwie.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　...はしたないぞ、おい＠
+	OutputLine(NULL, "　…はしたないぞ、おい。",
+		   NULL, "...To nie jest zachowanie godne damy.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　...ガキンチョとは言え、一応女の子なんだからさぁ￥
+	OutputLine(NULL, "　…ガキンチョとは言え、一応女の子なんだからさぁ。",
+		   NULL, "...Pomimo że jest", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 3, "sa_se_de_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「圭一はワイシャツ１枚で涼しそうですわねぇ...＠羨ましいですわ。＠
+	OutputLine(NULL, "「圭一はワイシャツ１枚で涼しそうですわねぇ…。",
+		   NULL, "\"Keiichi wygląda tak bardzo cool z tą przelegającą koszulką...", Line_WaitForInput);
+	OutputLine(NULL, "羨ましいですわ。」",
+		   NULL, " Jestem taka zazdrosna.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「俺から見りゃ、スカートの沙都子の方が涼しそうだよ＠この時期のズボンの股座がどれだけ蒸すか、女のお前にゃわかるまい！￥
+	OutputLine(NULL, "「俺から見りゃ、スカートの沙都子の方が涼しそうだよ。",
+		   NULL, "\"Stąd widzę, że spódniczka, którą nosisz wygląda na chłodniejszą.", Line_WaitForInput);
+	OutputLine(NULL, "この時期のズボンの股座がどれだけ蒸すか、女のお前にゃわかるまい！」",
+		   NULL, " Dziewczyna taka jak ty, nie mogłaby tego zrocumieć. Nosząc jinsy w tej porze roku, sprawia, że w kroczu jest parno!\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 1, "re_se_ha_b1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「......む、...蒸すんだ.........、はぅ......。＠
+	OutputLine(NULL, "「……む、…蒸すんだ………、はぅ……。」",
+		   NULL, "\"...Tam... tam jest parno... Hao...\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　またこの娘は、いかがわしい想像をたくましくさせてるな...￥
+	OutputLine(NULL, "　またこの娘は、いかがわしい想像をたくましくさせてるな…。",
+		   NULL, "Ta dziewczyna wyobraziła sobie coś nieprzyzwoitego...", Line_Normal);
+	ClearMessage();
+
+//「レナの夏服は涼しそうな色合いがいいよな＠見てるこっちも涼しくなる。＠
+	OutputLine(NULL, "「レナの夏服は涼しそうな色合いがいいよな。",
+		   NULL, "\"Letnie ubrania Reny moją miły odświeżający kolor., Line_WaitForInput);
+	OutputLine(NULL, "見てるこっちも涼しくなる。」",
+		   NULL, " Czuje się chłodniejszy, tylko przez patrzenie na nie.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 1, "re_se_wa_a1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「あはははは＠ありがと＠　本当に涼しいんだよ。＠
+	OutputLine(NULL, "「あはははは。",
+		   NULL, "\"Ahahahaha.", Line_WaitForInput);
+	OutputLine(NULL, "ありがと！",
+		   NULL, " Dziękuje ci!", Line_WaitForInput);
+	OutputLine(NULL, "　本当に涼しいんだよ。」",
+		   NULL, " Naprawdę możecie poczuć się o wiele chłodniejsi.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 3, "sa_se_ak_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「私もレナさんみたいな涼しい夏服がよかったですわねぇ。￥
+	OutputLine(NULL, "「私もレナさんみたいな涼しい夏服がよかったですわねぇ。」",
+		   NULL, "\"Chciałbym, żeby moje letnie ubrania były tak przewiwne jak Reny.\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 1, "re_se_de_a1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「でも沙都子ちゃんの夏服、ワンピースですっごい可愛いし＠　レナは沙都子ちゃんの夏服、着てみたいなー☆＠
+	OutputLine(NULL, "「でも沙都子ちゃんの夏服、ワンピースですっごい可愛いし！",
+		   NULL, "\"Ale Satoko-chan, twoje letnie ubrania są tak słodkie, że stanowią jedną całość!", Line_WaitForInput);
+	OutputLine(NULL, "　レナは沙都子ちゃんの夏服、着てみたいなー☆」",
+		   NULL, " Chciałabym nosić twoje letnie ubrania.☆\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 3, "sa_se_de_b1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「これ、結構蒸しますわよ＠　絶対にレナさんの方が涼しいですわぁ。＠
+	OutputLine(NULL, "「これ、結構蒸しますわよ？",
+		   NULL, "\"Wiesz, że w nich jest całkiem duszno.", Line_WaitForInput);
+	OutputLine(NULL, "　絶対にレナさんの方が涼しいですわぁ。」",
+		   NULL, " Wierzę, że nasząc twoje ubrania, byłoby mi o wiele chłodniej.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 1, "re_se_ha_a1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「でもかぁいい服の方がきっと楽しいよ。......はぅ！＠
+	OutputLine(NULL, "「でもかぁいい服の方がきっと楽しいよ。……はぅ！」",
+		   NULL, "\"Ale chyba jest więcej radości z kyute ubrań... Hao!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　......レナと沙都子では根本的に価値観が違う気がするぞ￥
+	OutputLine(NULL, "　……レナと沙都子では根本的に価値観が違う気がするぞ。",
+		   NULL, "...Czułem, że Rena i Satoko miały całkowicie inne poczucie wartości.", Line_Normal);
+	ClearMessage();
+
+//「そう言えば...、この学校って指定の制服とかないんだよな。＠
+	OutputLine(NULL, "「そう言えば…、この学校って指定の制服とかないんだよな。」",
+		   NULL, "\"A propo... nasza szkoła nie posiada mundurków.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 1, "re_se_de_b1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「うん＠ないよ＠相応しい服であれば私服でも大丈夫なんだよ。＠
+	OutputLine(NULL, "「うん。",
+		   NULL, "\"Tak.", Line_WaitForInput);
+	OutputLine(NULL, "ないよ。",
+		   NULL, " Nie posiada.", Line_WaitForInput);
+	OutputLine(NULL, "相応しい服であれば私服でも大丈夫なんだよ。」",
+		   NULL, " Tak długo jak właściwie się ubieramy, wtedy zwykłe ubrania są w porządku.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　私服の生徒は確かに多い＠制服を着ている生徒もいるが、みんなデザインは同じ、地味なものだ￥
+	OutputLine(NULL, "　私服の生徒は確かに多い。",
+		   NULL, "Jest tutaj dość dużo uczniów w zwykłych cichach.", Line_WaitForInput);
+	OutputLine(NULL, "制服を着ている生徒もいるが、みんなデザインは同じ、地味なものだ。",
+		   NULL, " Było też kilki, którzy nosili mundurki, ale wszystkie były takie same i niczym sę nie wyróżniały.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawSceneWithMask( "bg_109", "left", 0, 0, 300 );
+
+//「...他の連中が着てる制服は何なんだよ＠みんなお揃いだよな。＠
+	OutputLine(NULL, "「…他の連中が着てる制服は何なんだよ。",
+		   NULL, "\"...Co za mundurki wszyscy naszą?", Line_WaitForInput);
+	OutputLine(NULL, "みんなお揃いだよな。」",
+		   NULL, " Wszystkie są identyczne.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshotWithFiltering( 1, "sa_se_aw_a1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+//「あれは町の学校の制服なんですのよ＠別に決まってるわけじゃないですけど、みんな着てますわね。＠
+	OutputLine(NULL, "「あれは町の学校の制服なんですのよ。",
+		   NULL, "\"To są miejskie szkolne mundurki.", Line_WaitForInput);
+	OutputLine(NULL, "別に決まってるわけじゃないですけど、みんな着てますわね。」",
+		   NULL, " Nie ma tego w regulaminie, ale wszyscy naszą tutaj takie.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「そこへ行くと、俺らの仲間はみんないろいろな制服を着てるよな＠...わざわざどこかから取り寄せたのか？＠
+	OutputLine(NULL, "「そこへ行くと、俺らの仲間はみんないろいろな制服を着てるよな。",
+		   NULL, "\"A propo, czy nie wszyscy w naszej grupie naszą różne mundurki?", Line_WaitForInput);
+	OutputLine(NULL, "…わざわざどこかから取り寄せたのか？」",
+		   NULL, " W jaki sposób i skąd je dostałyście?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「えぇ。魅音さんが調達して下さいますの。￥
+	OutputLine(NULL, "「えぇ。魅音さんが調達して下さいますの。」",
+		   NULL, "\"Dlaczego tak, bo Mion-san nam je dostarczyła.\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "re_se_de_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「魅ぃちゃんの親類で、古着商をやってる人がいて、全国の学校の服を格安で仕入れてるんですって。＠
+	OutputLine(NULL, "「魅ぃちゃんの親類で、古着商をやってる人がいて、全国の学校の服を格安で仕入れてるんですって。」",
+		   NULL, "\"Krewne Mii-chan prowadzi sklep z używanymi ubraniami. Można tam dostać szkolne mundurki z całego kraju za bezcen, tak mówią.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「んで、その親類に頼んで、いろいろ個性的な制服を取り寄せてもらってるわけか。＠
+	OutputLine(NULL, "「んで、その親類に頼んで、いろいろ個性的な制服を取り寄せてもらってるわけか。」",
+		   NULL, "\"Więc w takim razie pytałaś się tych krewnych, o dostanie garści unikatowych szkolnych mundurków.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　...魅音のヤツ、仲間を着せ替え人形にして楽しんでるな、絶対＠
+	OutputLine(NULL, "　…魅音のヤツ、仲間を着せ替え人形にして楽しんでるな、絶対。",
+		   NULL, "...Ta Mion, prawdopodobnie kocha używać swoje koleżanki jak lalki do przebrania.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　.........しかし変な古着屋だよな＠
+	OutputLine(NULL, "　………しかし変な古着屋だよな。",
+		   NULL, "...To musi być podejrzany sklep z używanymi ubraniami.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　古着全般はわかるとして、全国の学校の服を仕入れてる￥
+	OutputLine(NULL, "　古着全般はわかるとして、全国の学校の服を仕入れてる？",
+		   NULL, "Rozumiem, że są z skelpu z używanymi ubraniami, ale zbieranie uniformów z wszystkich szkół z całego kraju?", Line_Normal);
+	ClearMessage();
+
+//　...よくわからん古着屋だ＠
+	OutputLine(NULL, "　…よくわからん古着屋だ。",
+		   NULL, "...To jest bardzo podejrzane dla sklepu z używanymi ubraniami.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　遠くの知らない学校の制服など、何の役にも立たないんじゃないのか？￥
+	OutputLine(NULL, "　遠くの知らない学校の制服など、何の役にも立たないんじゃないのか？？",
+		   NULL, "Jaki jest sens zbierania ubrań z odległych szkół, które nie wiedzą o tym sklepie??", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 3, "re_se_na_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「...うん。それはレナも思うよ＠他にも体操服とかスクール水着のお古とかも扱ってるの＠...そういうののお古はちょっと嫌だよねぇ。＠
+	OutputLine(NULL, "「…うん。それはレナも思うよ。",
+		   NULL, "\"...Tak. Ja też tak uważam.", Line_WaitForInput);
+	OutputLine(NULL, "他にも体操服とかスクール水着のお古とかも扱ってるの。",
+		   NULL, " Oni także sprzedają szkolne stroje kąpielowe i stroje do W-Fu", Line_WaitForInput);
+	OutputLine(NULL, "…そういうののお古はちょっと嫌だよねぇ。」",
+		   NULL, " Nie podoba mi się pomysł ubierania w nich.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「あんまり儲かってなさそうな商売だ＠。......きっと少しでも儲けさせるために、魅音が一肌脱いでやってるんだろうな。＠
+	OutputLine(NULL, "「あんまり儲かってなさそうな商売だな",
+		   NULL, "\"Nie brzmi to tak, jakby ten sklep zarabiał duże pieniądze...", Line_WaitForInput);
+	OutputLine(NULL, "。……きっと少しでも儲けさせるために、魅音が一肌脱いでやってるんだろうな。」",
+		   NULL, " Onie prawdopodobnie wciskają je Mion i tak sobie trochę pomagają.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 1, "sa_se_ak_a1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「......でも、いつも魅音さんが自信満々に言いますのよ＠　今にきっと大ブレイクしてすごい商売になる！！って。￥
+	OutputLine(NULL, "「……でも、いつも魅音さんが自信満々に言いますのよ？",
+		   NULL, "\"...Ale Mion-san mówi, 'To będzie duży hit i stanie się wspaniałym sklepem!'", Line_WaitForInput);
+	OutputLine(NULL, "　今にきっと大ブレイクしてすごい商売になる！！って。」",
+		   NULL, " z wielkim przekonaniem.\"", Line_Normal);
+	ClearMessage();
+
+//　......学校制服の古着屋が大ブレイクねぇ＠
+	OutputLine(NULL, "　……学校制服の古着屋が大ブレイクねぇ？",
+		   NULL, "...Sklep z używanymi ubraniami, który zbiera szkolne mundurki będzie dużym hitem?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　...わからん￥
+	OutputLine(NULL, "　…わからん。",
+		   NULL, "... Nie łapię tego.", Line_Normal);
+	ClearMessage();
+
+	DisableWindow();
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+//gosub *tip_e
+//return
+
+
+
+}
