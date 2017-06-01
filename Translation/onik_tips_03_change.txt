@@ -1,0 +1,341 @@
+﻿void main()
+{
+
+
+//■前原屋敷
+
+
+//*Sub_Tips_003
+//gosub *tip_s
+//gosub *data_tati
+
+	EnableJumpingOfReturnIcon();
+
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+
+	PlayBGM( 1, "msys02", 128, 0 );
+	DrawScene( "bg_108", 1000 );
+	DrawBustshotWithFiltering( 1, "me_se_wi_a1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+
+//「...圭ちゃんってさ、すごいお金持ちってわけでもないの？＠
+	OutputLine(NULL, "「…圭ちゃんってさ、すごいお金持ちってわけでもないの？」",
+		   NULL, "\"...Więc Kei-chan, czy nie jesteś nadziany?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「何だよ、突然＠...俺がいつリムジンで登校したよ？￥
+	OutputLine(NULL, "「何だよ、突然。",
+		   NULL, "\"Co to ma wszystko znaczyć?", Line_WaitForInput);
+	OutputLine(NULL, "…俺がいつリムジンで登校したよ？」",
+		   NULL, " Czy wcześniej przyjeżdżałem do szkoły limuzyną?\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 1, "me_se_wi_b1", -160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 0, 200, TRUE );
+
+//「月の小遣いはいくらもらってる？＠
+	OutputLine(NULL, "「月の小遣いはいくらもらってる？」",
+		   NULL, "\"Jak dużo dostejesz z miesięcznego kieszonkowego?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「１０００円。＠
+	OutputLine(NULL, "「１０００円。」",
+		   NULL, "\"About $10...\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "sa_se_aw_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「あら。結構、小市民的ですのねぇ。＠
+	OutputLine(NULL, "「あら。結構、小市民的ですのねぇ。」",
+		   NULL, "\"Och, to są raczej plebejskie sumy.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 2, "ri_se_de_a1", 0, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 10, 400, TRUE );
+
+//「......お弁当のおかずも普通ですよ＠お金持ちじゃないです。￥
+	OutputLine(NULL, "「……お弁当のおかずも普通ですよ。",
+		   NULL, "\"...Jego lancz jest zrobiony ze zwykłych składników.", Line_WaitForInput);
+	OutputLine(NULL, "お金持ちじゃないです。」",
+		   NULL, " Nie jest bogaty.\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawSceneWithMask( "bg_109", "left", 0, 0, 300 );
+
+//　一体の何の話だ？＠
+	OutputLine(NULL, "　一体の何の話だ？！",
+		   NULL, "O czym wy mówicie!?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　いきなり小遣いの額を聞かれ、それで小市民だの金持ちじゃないだの￥
+	OutputLine(NULL, "　いきなり小遣いの額を聞かれ、それで小市民だの金持ちじゃないだの！",
+		   NULL, "Zostać nagle zapytany, jak dużo dostaję i po tym mówić, że są to plebejskie sumy!", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "re_se_wa_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「あはははは。ごめんねごめんね！＠
+	OutputLine(NULL, "「あはははは。ごめんねごめんね！」",
+		   NULL, "\"Ahahahaha. Sorki, Sorki!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　俺の怪訝な表情を悟ったらしく、レナがカラカラと笑った＠
+	OutputLine(NULL, "　俺の怪訝な表情を悟ったらしく、レナがカラカラと笑った。",
+		   NULL, "Rena zwróciła uwagę na moją zakłopotaną twarz i zaczeła chichotać.", Line_WaitForInput);
+
+	DisableWindow();
+	DrawBustshotWithFiltering( 1, "me_se_wa_a1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//「圭ちゃん家ってさ、すっごく大きいでしょ＠　だから建築中から雛見沢中で前原屋敷って呼ばれて注目の的だったんだよ。＠
+	OutputLine(NULL, "「圭ちゃん家ってさ、すっごく大きいでしょ？",
+		   NULL, "\"Kei-chan... twój dom, wiesz... Jest dość duży, no nie?", Line_WaitForInput);
+	OutputLine(NULL, "　だから建築中から雛見沢中で前原屋敷って呼ばれて注目の的だったんだよ。」",
+		   NULL, " Więc przez tę architekturę, ludzie w całej Hinamizawie nazywają go Dworem Maebarów, bo wyróżnia się.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　ま、前原屋敷ぃ～？＠
+	OutputLine(NULL, "　ま、前原屋敷ぃ〜？！",
+		   NULL, "D-Dwór Maebarów~!?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 3, "re_se_de_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「あんなに大きいお家だから、どんなお金持ちなのかなって、みんなで噂し合ってたの。＠
+	OutputLine(NULL, "「あんなに大きいお家だから、どんなお金持ちなのかなって、みんなで噂し合ってたの。」",
+		   NULL, "\"Ponieważ ten dom jest taki duży, wszyscy plotkują, zastanawiając się, jak bogaci wy jesteście.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　あぁなるほど＠納得＠
+	OutputLine(NULL, "　あぁなるほど。",
+		   NULL, "Kapuję.", Line_WaitForInput);
+	OutputLine(NULL, "納得。",
+		   NULL, " Teraz to łapię.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　......確かに家は図体だけはでかいからな＠そういう誤解もありえるな￥
+	OutputLine(NULL, "　……確かに家は図体だけはでかいからな。",
+		   NULL, "...Cóż, konstrukcja jest ogromna.", Line_WaitForInput);
+	OutputLine(NULL, "そういう誤解もありえるな。",
+		   NULL, " Rozumiem jak mogło dojść do małego nieporozumienia.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawSceneWithMask( "bg_108", "right", 0, 0, 300 );
+	DrawBustshotWithFiltering( 1, "sa_se_aw_b1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+//「私の推理では、お家を建てるのにお金をかけ過ぎて、貧乏になってしまったと考えてますのよ～！＠
+	OutputLine(NULL, "「私の推理では、お家を建てるのにお金をかけ過ぎて、貧乏になってしまったと考えてますのよ〜！」",
+		   NULL, "\"W mojej dedukcji, zakładam, że wydaliście za dużo pieniędzy na wybudowanie tego domu i właśnie dlatego teraz jesteście spłukani~!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "ri_se_wa_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「......貧乏でかわいそかわいそです。＠
+	OutputLine(NULL, "「……貧乏でかわいそかわいそです。」",
+		   NULL, "\"...Zostać spłukanym, jak bardzo, bardzo jest to przykre.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　...梨花ちゃんが哀れみながら俺の頭をなでなでしてくれる＠金持ち扱いから瞬時に貧乏人扱いかよ...￥
+	OutputLine(NULL, "　…梨花ちゃんが哀れみながら俺の頭をなでなでしてくれる。",
+		   NULL, "...Rika-chan litowała się nade mną, gdy głaskała moją głowę.", Line_WaitForInput);
+	OutputLine(NULL, "金持ち扱いから瞬時に貧乏人扱いかよ…。",
+		   NULL, " Przeszedłem z traktowania mnie jak milionera na żebraka...", Line_Normal);
+	ClearMessage();
+
+//「あー、諸君らの楽しい想像をぶち壊すようで悪いが、うちは金持ちでも貧乏でもないぞ＠極めて平均的な普通の家庭だ。＠
+	OutputLine(NULL, "「あー、諸君らの楽しい想像をぶち壊すようで悪いが、うちは金持ちでも貧乏でもないぞ。",
+		   NULL, "\"Tak, przepraszam za zrójnowanie twoich wyobrażeń, ale nie jesteśmy milionerami ani biedakami., Line_WaitForInput);
+	OutputLine(NULL, "極めて平均的な普通の家庭だ。」",
+		   NULL, " Jesteśmy obrazem normalnej, przeciętnej rodziny\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	FadeBustshotWithFiltering( 1, "left", 1, FALSE, 0, 0, 300, TRUE );
+	DrawBustshotWithFiltering( 1, "me_se_to_b2", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+//「あれだけ大きな家は普通とは言わないって＠　しかも玄関は立派で、門は大型車も入れるようになってるし！＠　絶対、普通じゃないって！＠
+	OutputLine(NULL, "「あれだけ大きな家は普通とは言わないって！",
+		   NULL, "\"Nie możesz nazwać tego normalnością z tak dużym domem!", Line_WaitForInput);
+	OutputLine(NULL, "　しかも玄関は立派で、門は大型車も入れるようになってるし！！",
+		   NULL, " Wejście jest olbrzymie, brama jest tak duża, że duża ciężarówka przejechałaby przez nią!!", Line_WaitForInput);
+	OutputLine(NULL, "　絶対、普通じゃないって！」",
+		   NULL, " To nie jest wcale normalne!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　家のでかさが裕福さの尺度だとでも言わんばかりだな￥
+	OutputLine(NULL, "　家のでかさが裕福さの尺度だとでも言わんばかりだな。",
+		   NULL, "Mówią, że im większy twój dom, tym bardziej jesteś zamożny.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawScene( "bg_119", 1000 );
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//　我が家がやたらとでかいのは、親父のアトリエを含むからだ＠
+	OutputLine(NULL, "　我が家がやたらとでかいのは、親父のアトリエを含むからだ。",
+		   NULL, "Powodem że dom jest taki duży, jest studio Taty, który w nim też się znajduje.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　作業場はいくつもあるし、過去の作品があちこちに飾られ...＠しかもサイズはどれもデカイ＠
+	OutputLine(NULL, "　作業場はいくつもあるし、過去の作品があちこちに飾られ…。",
+		   NULL, "Jest tam garść różnych warsztatów i mnóstwo jego dzieł jest zawieszonych w różnych miejscach.", Line_WaitForInput);
+	OutputLine(NULL, "しかもサイズはどれもデカイ。",
+		   NULL, " Wszystkie z nich są także duże.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　そんなこんなで、家族が生活する部分はせいぜい全体の三分の一ってところか￥
+	OutputLine(NULL, "　そんなこんなで、家族が生活する部分はせいぜい全体の三分の一ってところか。",
+		   NULL, "Przez te powody, moja rodzina właściwie używa tylko jednej trzeciej domu do codziennego życia.", Line_Normal);
+	ClearMessage();
+
+//　将来、自宅で個展を開くことも考えての設計なので、人や車の出入りに気遣ったものになっているのだ＠
+	OutputLine(NULL, "　将来、自宅で個展を開くことも考えての設計なので、人や車の出入りに気遣ったものになっているのだ。",
+		   NULL, "Zaplanował to, aby ludzie i samochody mogli mogli wejść zobaczyć galerię, którą otworzy w domu pewnego dnia.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　......ちなみに魅音が立派な玄関と言ってるのはこのアトリエ側の玄関で、普段は締め切られている＠
+	OutputLine(NULL, "　……ちなみに魅音が立派な玄関と言ってるのはこのアトリエ側の玄関で、普段は締め切られている。",
+		   NULL, "...Swoją drogą, wejście, o którym mówiła Mion, jest ze studia i zazwyczaj jest zamknięte.", Line_Normal);
+
+//　実際に前原家が使用している玄関はごくごく平均的な、ささやかなものなのだ＠
+	OutputLine(NULL, "　実際に前原家が使用している玄関はごくごく平均的な、ささやかなものなのだ。",
+		   NULL, "Wejście rodziny Maebarów, które faktycznie jest używane, jest bardzo zwyczajne i proste.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　見かけと中身は大違い、ってことだな￥
+	OutputLine(NULL, "　見かけと中身は大違い、ってことだな。",
+		   NULL, "Wnętrze bardzo się różni od tego, jak wygląda z zewnêtrz.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawScene( "bg_110", 400 );
+	DrawBustshotWithFiltering( 1, "me_se_de_a1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+//「ぜひ今度、圭ちゃんの家を探検してみたいよなぁ＠...お金持ちじゃないと主張しながらもあの邸宅！＠　一体何が隠されているのか！！＠
+	OutputLine(NULL, "「ぜひ今度、圭ちゃんの家を探検してみたいよなぁ。",
+		   NULL, "\"Naprawdę chciałabym mieć szansę na zwiedzenie domu Kei-chana...", Line_WaitForInput);
+	OutputLine(NULL, "…お金持ちじゃないと主張しながらもあの邸宅！！",
+		   NULL, " Twierdzi, że nie jest bogaty, ale ma taki dom!!", Line_WaitForInput);
+	OutputLine(NULL, "　一体何が隠されているのか！！」",
+		   NULL, " Co mógłoby być tam schowane!?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshotWithFiltering( 3, "re_se_ha_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「か、かぁいいものが隠されてるといいなぁ！　はぅ～！＠
+	OutputLine(NULL, "「か、かぁいいものが隠されてるといいなぁ！　はぅ〜！」",
+		   NULL, "\"M-może jest tam coś kyute ukryte! Hao~!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	FadeBustshotWithFiltering( 1, "right", 1, FALSE, 0, 0, 300, TRUE );
+	DrawBustshotWithFiltering( 1, "sa_se_aw_b1", "left", 1, -160, 0, FALSE, 0, 0, 0, 0, 0, 0, 300, TRUE );
+
+//「きっと家具を買うお金もなくなってて、殺風景な部屋がいっぱいなのですわ！＠
+	OutputLine(NULL, "「きっと家具を買うお金もなくなってて、殺風景な部屋がいっぱいなのですわ！」",
+		   NULL, "\"Prawdopodobnie nie mieli pieniędzy na zakup mebli, więc pokoje są po spartańsku!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	DrawBustshot( 2, "ri_se_wa_a1", 0, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 10, 400, TRUE );
+
+//「......絨毯のお部屋なら、ぜひごろごろしてみたいですよ。＠
+	OutputLine(NULL, "「……絨毯のお部屋なら、ぜひごろごろしてみたいですよ。」",
+		   NULL, "\"...Jeśli są tam pokoje z dywanem, chciałabym spróbować zawinąć się nim po podłodze.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「わぁぁ～！　それいいねそれいいね！　レナもごろごろしたい～！￥
+	OutputLine(NULL, "「わぁぁ〜！　それいいねそれいいね！　レナもごろごろしたい〜！」",
+		   NULL, "\"Waa~! To mogło być świetne, tak dobre! Ja też chcę się zawinąć~!\"", Line_Normal);
+	ClearMessage();
+
+//　...なんか楽しそうに想像が膨らんでいってるな...＠
+	OutputLine(NULL, "　…なんか楽しそうに想像が膨らんでいってるな…。",
+		   NULL, "...Wygląda na to, że ich wyobrażenia stały się wyolbrzymione...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　でもまぁ。...遠くない将来、みんなを自宅に招待してもいいかもな＠
+	OutputLine(NULL, "　でもまぁ。…遠くない将来、みんなを自宅に招待してもいいかもな。",
+		   NULL, "Cóż... Czasem w najbliższej przyszłości, nie byłoby złe, zaprosić je wszystkie do mojego domu.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　...親父は女の子には甘いから、アトリエの見学を許してくれるかもしれない￥
+	OutputLine(NULL, "　…親父は女の子には甘いから、アトリエの見学を許してくれるかもしれない。",
+		   NULL, "...Tata jest psem na baby, więc może nawet pozwoli im rozejrzeć się po jego studiu.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawScene( "bg_093", 1000 );
+	PlayBGM( 2, "lsys12", 128, 0 );
+
+//　セミの声はいよいよにぎやかで、空はどこまでも高い＠
+	OutputLine(NULL, "　セミの声はいよいよにぎやかで、空はどこまでも高い。",
+		   NULL, "Płacz higurashi grał crescendo, jakby niebo przesłoniło wszystko. ", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　暑いけど澄んだ、初夏の匂いがした￥
+	OutputLine(NULL, "　暑いけど澄んだ、初夏の匂いがした。",
+		   NULL, "Było gorąco, ale powietrze było rześkie. Pachniało na początek lata.", Line_Normal);
+	ClearMessage();
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+//gosub *tip_e
+//return
+
+
+}
