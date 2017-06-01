@@ -105,7 +105,7 @@
 
 //「レナの夏服は涼しそうな色合いがいいよな＠見てるこっちも涼しくなる。＠
 	OutputLine(NULL, "「レナの夏服は涼しそうな色合いがいいよな。",
-		   NULL, "\"Letnie ubrania Reny moją miły odświeżający kolor., Line_WaitForInput);
+		   NULL, "\"Letnie ubrania Reny moją miły odświeżający kolor.", Line_WaitForInput);
 	OutputLine(NULL, "見てるこっちも涼しくなる。」",
 		   NULL, " Czuje się chłodniejszy, tylko przez patrzenie na nie.\"", Line_WaitForInput);
 	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);

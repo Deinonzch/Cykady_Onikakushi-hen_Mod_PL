@@ -1,4 +1,4 @@
-"It's only June..."
+﻿"It's only June..."
 "To jest tylko czerwiec..."
 " but it's already so hot."
 " ale już jest tak gorąco."
@@ -29,7 +29,7 @@
 "This girl has gone imagining something indecent..."
 "Ta dziewczyna wyobraziła sobie coś nieprzyzwoitego..."
 "\"Rena's summer clothes have a nice refreshing color."
-"\"Letnie ubrania Reny moją miły odświeżający kolor.
+"\"Letnie ubrania Reny moją miły odświeżający kolor."
 " I feel cooler just looking at them.\""
 " Czuje się chłodniejszy, tylko przez patrzenie na nie.\""
 "\"Ahahahaha."
