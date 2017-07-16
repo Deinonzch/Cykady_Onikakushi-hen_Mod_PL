@@ -85,7 +85,7 @@
 
 //「加害者たちは皆、自らの罪深さに恐れおののきました＠警察へ出頭しようと言い出す者もいたのです。」
 	OutputLine(NULL, "「加害者たちは皆、自らの罪深さに恐れおののきました。",
-		   NULL, "\"All the perpetrators were horrified by their deed", Line_WaitForInput);
+		   NULL, "\"All the perpetrators were horrified by their deed,", Line_WaitForInput);
 	OutputLine(NULL, "警察へ出頭しようと言い出す者もいたのです。」",
 		   NULL, " and one even turned himself in to the police.\"", Line_WaitForInput);
 	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);

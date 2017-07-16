@@ -1418,7 +1418,7 @@ void main()
 
 //「この回、仮に圭ちゃんが１着になってもトータルビリが確定するんだけど!d400…!d400…嫌でしょ？＠
 	OutputLine(NULL, "「この回、仮に圭ちゃんが１着になってもトータルビリが確定するんだけど",
-		   NULL, "\"Even if Kei-chan gets first place this round, he'll still end up last place overall", Line_ContinueAfterTyping);
+		   NULL, "\"Even if Kei-chan gets first place this round, he'll still end up last place overall.", Line_ContinueAfterTyping);
 
 	Wait( 400 );
 

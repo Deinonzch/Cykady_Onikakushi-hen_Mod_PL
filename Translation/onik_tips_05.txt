@@ -113,7 +113,7 @@
 
 //　村民はこの凍結が自らの団結の祟高な力によってなされていることを理解しており＠そしてこの恐るべき計画が依然撤回されていないことも理解しているのである￥
 	OutputLine(NULL, "　村民はこの凍結が自らの団結の祟高な力によってなされていることを理解しており、",
-		   NULL, "The villagers understand that the stalling was caused by sublime power through unity", Line_WaitForInput);
+		   NULL, "The villagers understand that the stalling was caused by sublime power through unity,", Line_WaitForInput);
 	OutputLine(NULL, "そしてこの恐るべき計画が依然撤回されていないことも理解しているのである。",
 		   NULL, " and they understand that this fearsome plan has not yet been fully withdrawn.", Line_Normal);
 	ClearMessage();
