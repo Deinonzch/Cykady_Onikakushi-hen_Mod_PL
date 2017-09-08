@@ -1,0 +1,112 @@
+﻿void main()
+{
+
+
+//■ダム現場のバラバラ殺人
+
+//*Sub_Tips_004
+//gosub *tip_s
+	EnableJumpingOfReturnIcon();
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	DrawScene( "bg_180", 1000 );
+	PlayBGM( 1, "msys15", 128, 0 );
+
+//　昭和５４年６月ＸＸ日夕刊よ＠
+	OutputLine(NULL, "　昭和５４年６月ＸＸ日夕刊より",
+		   NULL, "Wersja z XX-tego Czerwca 1979 roku.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　鹿骨市興宮署はＸＸ日深夜＠
+	OutputLine(NULL, "　鹿骨市興宮署はＸＸ日深夜、",
+		   NULL, "Miasto Shishibone posterunek policji w Okinomiyi, XX-tego Czerwca, późno w nocy.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　建設作業員ＸＸＸＸ、ＸＸＸ、ＸＸＸＸ、ＸＸＸＸＸ、ＸＸＸＸを殺人、死体遺棄の容疑で逮捕し、逃走中の主犯格ＸＸＸＸを全国に指名手配した＠
+	OutputLine(NULL, "　建設作業員ＸＸＸＸ、ＸＸＸ、ＸＸＸＸ、ＸＸＸＸＸ、ＸＸＸＸを殺人、死体遺棄の容疑で逮捕し、逃走中の主犯格ＸＸＸＸを全国に指名手配した。",
+		   NULL, "Podejrzani XXXX, XXX, XXXX, XXXXX, XXXX zostali zatrzymani pod zarzutem morderstwa i nieprzyzwoitego pozbycia się zwłok. Główny sprawca, XXXX, został dodany do krajowej listy poszukiwanych.", Line_Normal);
+	ClearMessage();
+//文字数オーバーにつき画面外にテキストが出たため、@をページ送り処理に変更。
+
+//　調べによると、６容疑者はＸＸ日午後９時頃、雛見沢ダム建設現場内の作業事務所にて＠現場監督のＸＸＸＸさんを集団で暴行して殺害し、遺体を切断して遺棄した疑い￥
+	OutputLine(NULL, "　調べによると、６容疑者はＸＸ日午後９時頃、雛見沢ダム建設現場内の作業事務所にて、",
+		   NULL, "Według naszych źródeł, sześciu podejrzanych było na terenie budowy tamy w Hinamizawie w pomieszczeniu roboczym XX-tego o 9 wieczorem,", Line_WaitForInput);
+	OutputLine(NULL, "現場監督のＸＸＸＸさんを集団で暴行して殺害し、遺体を切断して遺棄した疑い。",
+		   NULL, " gdzie podejrzewa się grupową napaść i morderstwo nadzorcy budowy XXXX, rozczłonkowanie jego ciała i ukrycie go.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+	Wait( 200 );
+
+//　ＸＸ日午前８時頃＠鹿骨市内の病院から警察へ、「ＸＸＸＸさんを殺害したことをほのめかす男性がいる」との通報があり＠警察官が駆けつけ事情を聞いたところ、事件を自供＠
+	OutputLine(NULL, "　ＸＸ日午前８時頃、",
+		   NULL, "Dnia XX-tego o godzinie 8 rano,", Line_WaitForInput);
+	OutputLine(NULL, "鹿骨市内の病院から警察へ、「ＸＸＸＸさんを殺害したことをほのめかす男性がいる」との通報があり、",
+		   NULL, " został złożony raport przez miejski szpital Shishibone, w którym podejrzany wspomina zamordowanie Pana XXXX.", Line_WaitForInput);
+	OutputLine(NULL, "警察官が駆けつけ事情を聞いたところ、事件を自供。",
+		   NULL, " Kiedy przesłuchiwano go na posterunku policji, osobiście przyznał się do przestępstwa.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　供述通りの場所から遺体の一部が発見されたため、同日午後、殺人、死体遺棄の容疑で逮捕した￥
+	OutputLine(NULL, "　供述通りの場所から遺体の一部が発見されたため、同日午後、殺人、死体遺棄の容疑で逮捕した。",
+		   NULL, "Kiedy rozczłonkowane ciało zostało odnalezione w lokalizacji, której podał, został zaaresztowany tego samego wieczoru pod zarzutem morderstwa i okaleczania zwłok.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+	Wait( 200 );
+
+//　他の容疑者も即日逮捕されたが、主犯格のＸＸＸＸは逃亡中＠警察は行方を追っている＠
+	OutputLine(NULL, "　他の容疑者も即日逮捕されたが、主犯格のＸＸＸＸは逃亡中。",
+		   NULL, "Reszta podejrzanych została zaaresztowana tego samego dnia, ale główny winowajca jest ciągle na wolności.", Line_WaitForInput);
+	OutputLine(NULL, "警察は行方を追っている。",
+		   NULL, " Policja obecnie podąża jego śladem.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　動機につい＠
+	OutputLine(NULL, "　動機について",
+		   NULL, "The motive is purported to be", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　「酒盛りをとがめられ口論になり、カッとなって殺した＠
+	OutputLine(NULL, "　「酒盛りをとがめられ口論になり、カッとなって殺した」",
+		   NULL, "\"pijaczynej sprzeczce, podczas której zabił ofiarę w napadzie złości.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　などと供述しているが、それぞれの自供に食い違いも多く、さらに追求するという￥
+	OutputLine(NULL, "　などと供述しているが、それぞれの自供に食い違いも多く、さらに追求するという。",
+		   NULL, "Jednak z powodu wielu nieścisłości w ich zeznaniach, śledztwo nadal trwa.", Line_Normal);
+	ClearMessage();
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+//gosub *tip_e
+//return
+
+
+}
+
+
+
+
+
+
+

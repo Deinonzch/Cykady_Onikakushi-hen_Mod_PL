@@ -1,0 +1,322 @@
+﻿void main()
+{
+
+
+//■週刊誌の特集記事
+
+//*Sub_Tips_006
+//gosub *tip_s
+	EnableJumpingOfReturnIcon();
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	DrawScene( "bg_180", 1000 );
+
+
+//locate 3,5
+
+	SetDrawingPointOfMessage( 0, 5 );
+	SetStyleOfMessageSwinging( 1 );
+//　雛見沢ダムで悪夢の惨劇＠
+	OutputLine(NULL, "　雛見沢ダムで悪夢の惨劇！",
+		   NULL, "Koszmar uderza w Hinamizawską tamę!", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//locate 4,6
+
+	SetDrawingPointOfMessage( 0, 6 );
+
+//　リンチ・バラバラ殺人￥
+	OutputLine(NULL, "　リンチ・バラバラ殺人！",
+		   NULL, "Lynching and murder/dismemberment!", Line_Normal);
+	ClearMessage();
+	SetStyleOfMessageSwinging( 0 );
+	PlayBGM( 1, "msys07", 128, 0 );
+
+//　Ｘ月Ｘ日、ＸＸ県鹿骨市の雛見沢ダム建設作業現場で起こった血も凍るバラバラ殺人＠
+	OutputLine(NULL, "　Ｘ月Ｘ日、ＸＸ県鹿骨市の雛見沢ダム建設作業現場で起こった血も凍るバラバラ殺人。",
+		   NULL, "In X month of X day in XX prefecture at the Hinamizawa dam construction work site in Shishibone City, a bone-chillingly gruesome murder/dismemberment.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　列島を震撼させたショッキングな事件でありながら、警察はその細部を語ろうとしていない...＠一体、雛見沢ダムで何が...￥
+	OutputLine(NULL, "　列島を震撼させたショッキングな事件でありながら、警察はその細部を語ろうとしていない…。",
+		   NULL, "Lincz i morderstwo/rozczłonkowanie!", Line_WaitForInput);
+	OutputLine(NULL, "一体、雛見沢ダムで何が…？",
+		   NULL, "Pomimo że ten przypadek wstrząsnął archipelagiem, policja nie poda szczegółów w tej sprawie...", Line_Normal);
+	ClearMessage();
+
+//「始めは殺すつもりはなかったのでしょう＠
+	OutputLine(NULL, "「始めは殺すつもりはなかったのでしょう。",
+		   NULL, " Właściwie co wydarzyło się na Hinamizawskiej tamie...?", Line_WaitForInput);
+	OutputLine(NULL, "　ですが被害者がシャベルを振り回して抵抗を始めると、加害者たちも一斉に得物を手にし、一気に殺し合いにエスカレートしたのです。」",
+		   NULL, "\"Prawdopodobnie nie mieli zamiaru najpierw zabić go,", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　ですが被害者がシャベルを振り回して抵抗を始めると、加害者たちも一斉に得物を手にし、一気に殺し合いにエスカレートしたのです。＠と前述の捜査関係者Ａ氏は語る￥
+	OutputLine(NULL, "と前述の捜査関係者Ａ氏は語る。",
+		   NULL, " ale gdy ofiara przeciwstawiała się przez wymachiwaniem dookoła łopatą, w zamian reszta sprawców uzbroiła siebie i szybko przerodziło się to w zabójstwo.\"", Line_Normal);
+	ClearMessage();
+
+//　血の惨劇が終われば、そこには誰の眼にも生きているとは思えない無残な屍...￥
+	OutputLine(NULL, "　血の惨劇が終われば、そこには誰の眼にも生きているとは思えない無残な屍…。",
+		   NULL, "Tak powiedział wyżej wymieniony śledczy A. ", Line_Normal);
+	ClearMessage();
+
+//　日頃から粗暴な振る舞いで容疑者たちをいじめていたＸＸさん＠
+	OutputLine(NULL, "　日頃から粗暴な振る舞いで容疑者たちをいじめていたＸＸさん。",
+		   NULL, "Kiedy ta krawa tragedia dobiegła końca, pozostawili ciało, które nikt nie pomyślał, że było żywe...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　始めはちょっとした仕返しのつもりだった...￥
+	OutputLine(NULL, "　始めはちょっとした仕返しのつもりだった…。",
+		   NULL, "XX-san zadręczał podejrzanych codziennie ze swoim ostrym postępowaniem.", Line_Normal);
+	ClearMessage();
+
+//「加害者たちは皆、自らの罪深さに恐れおののきました＠警察へ出頭しようと言い出す者もいたのです。」
+	OutputLine(NULL, "「加害者たちは皆、自らの罪深さに恐れおののきました。",
+		   NULL, "Po pierwsze, to miało być odpłatą...", Line_WaitForInput);
+	OutputLine(NULL, "警察へ出頭しようと言い出す者もいたのです。」",
+		   NULL, "\"Wszyscy sprawcy przerazili się swoim czynem", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　だがリーダー格のＸＸだけは、死体を隠そうと提案した＠
+	OutputLine(NULL, "　だがリーダー格のＸＸだけは、死体を隠そうと提案した。",
+		   NULL, " i jeden nawet przynał się na policji.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+//　始めは渋った彼らも、次第に捕まりたくないと思い始めるようになる＠
+	OutputLine(NULL, "　始めは渋った彼らも、次第に捕まりたくないと思い始めるようになる。",
+		   NULL, "Był to de facto lider tej grupy, XX, który zasugerował ukrycie ciała.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//　人数は６人いて死体を隠す方法がいくらでもある建設現場...＠
+	OutputLine(NULL, "　人数は６人いて死体を隠す方法がいくらでもある建設現場…。",
+		   NULL, "Z początku niechętnie wkrótce zaczeli myśleć, że nie chcą zostać złapani.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　彼らは揚々と死体を隠し、その場を離れるはずだった...￥
+	OutputLine(NULL, "　彼らは揚々と死体を隠し、その場を離れるはずだった…。",
+		   NULL, "Plac budowy ma olbrzymia ilość miejsc do ukrycia ciała w sześć osób...", Line_Normal);
+	ClearMessage();
+
+//「しかしリーダー格のＸＸは、他の５人が良心の呵責に耐えられなくなり＠自首して事件が発覚することを恐れ、恐るべき方法でその口封じを図ったのです。＠
+	OutputLine(NULL, "「しかしリーダー格のＸＸは、他の５人が良心の呵責に耐えられなくなり、",
+		   NULL, "\"But the de facto leader feared that the consciences of the other five wouldn't be able to bear the burden", Line_WaitForInput);
+	OutputLine(NULL, "自首して事件が発覚することを恐れ、恐るべき方法でその口封じを図ったのです。」",
+		   NULL, "Pierwotnie mieli ukryć ciało i opuścić teren...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　なんとＸＸは死体を人数分に切断し、それぞれの責任で隠すという悪魔の方法を思いついたのである￥
+	OutputLine(NULL, "　なんとＸＸは死体を人数分に切断し、それぞれの責任で隠すという悪魔の方法を思いついたのである。",
+		   NULL, " i wpadli na przerażającą metedę do krycie ich przed wydaniem go policji..., Line_Normal);
+	ClearMessage();
+
+//「ＸＸは、単なる暴行致死でなくもっと恐ろしいバラバラ殺人に仕立て上げ、ひとりひとりを深く関与させることで結束を固めようとしたのです。＠
+	OutputLine(NULL, "「ＸＸは、単なる暴行致死でなくもっと恐ろしいバラバラ殺人に仕立て上げ、ひとりひとりを深く関与させることで結束を固めようとしたのです。」",
+		   NULL, "Uknuli haniebną metodę podzielenia ciała wśród nich i uczynienia każdego z nich odpowiedzielnym za ukrycie kawałka.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　ひとりひとりを深く関与＠...これが意味するのは何なのか＠Ａ氏は重い口を開く￥
+	OutputLine(NULL, "　ひとりひとりを深く関与。",
+		   NULL, "\"XX zmieniło się z prostego zabójstwa w makabryczne rozczłonkowanie i skutecznie związał każdego ze sprawców w celu stworzenia poczucia jedności pośród nich.\"", Line_WaitForInput);
+	OutputLine(NULL, "…これが意味するのは何なのか。",
+		   NULL, "Każdy współuczestniczył.", Line_WaitForInput);
+	OutputLine(NULL, "Ａ氏は重い口を開く。",
+		   NULL, " Person A spoke out reluctantly:", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_027", 128, 64 );
+
+//「ＸＸは、ひとりひとりに自らの手で遺体を切断するよう命じたのです＠彼らは始めは渋りましたが、結局誰も逆らえませんでした。＠
+	OutputLine(NULL, "「ＸＸは、ひとりひとりに自らの手で遺体を切断するよう命じたのです。",
+		   NULL, " Ale co to oznacza?", Line_WaitForInput);
+	OutputLine(NULL, "彼らは始めは渋りましたが、結局誰も逆らえませんでした。」",
+		   NULL, "\"XX rozkazał każdemu i wszystkim z nich odrąbać kawałek dla nich.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　毒食らわば皿まで...ということなのか＠
+	OutputLine(NULL, "　毒食らわば皿まで…ということなのか。",
+		   NULL, " Na początku byli niepewni, ale nikt nie odmówił.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　かくして、想像するのも躊躇われる恐るべき血の儀式が始まったのである￥
+	OutputLine(NULL, "　かくして、想像するのも躊躇われる恐るべき血の儀式が始まったのである。",
+		   NULL, "Jak się powiedziało A, to trzeba powiedzieć B... było tym co oznaczało to.", Line_Normal);
+	ClearMessage();
+
+//「被害者たちは泣きながら嘔吐しながら、死体を切断しました＠頑強に抵抗する者もいましたが、ＸＸに『今さらもうひとり死んでも同じことだぞ。』と凄まれ、結局は抗えなかったのです。￥
+	OutputLine(NULL, "「被害者たちは泣きながら嘔吐しながら、死体を切断しました。",
+		   NULL, "Zatem niewyobrażalna krwawa zeremonia rozpoczeła się.", Line_WaitForInput);
+	OutputLine(NULL, "頑強に抵抗する者もいましたが、ＸＸに『今さらもうひとり死んでも同じことだぞ。』と凄まれ、結局は抗えなかったのです。」",
+		   NULL, "\"Sprawcy płakali i wymiotowali, gdy wykonywali makabryczne zadanie.", Line_Normal);
+	ClearMessage();
+
+//　だがＸＸの目論見はわずか一晩で崩れた＠
+	OutputLine(NULL, "　だがＸＸの目論見はわずか一晩で崩れた。",
+		   NULL, " Była jedna osoba, która uparcie odmawiała, ale XX zagroził im, mówiąc, 'Nic by się niezmieniło, jeśli ktoś jeszcze skończy smiercią,' i poddał się ze swoim sprzeciwem.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　死体の切断に最後まで抵抗したＸＸＸが、乱闘時の傷の治療に訪れた病院で、泣き崩れながら告白したのである...￥
+	OutputLine(NULL, "　死体の切断に最後まで抵抗したＸＸＸが、乱闘時の傷の治療に訪れた病院で、泣き崩れながら告白したのである…。",
+		   NULL, "Ale plan XX upadł w czasie jedenj nocy.", Line_Normal);
+	ClearMessage();
+
+//　犯人たちは芋づる式に逮捕されたが、リーダー格のＸＸの行方だけは掴めていない＠
+	OutputLine(NULL, "　犯人たちは芋づる式に逮捕されたが、リーダー格のＸＸの行方だけは掴めていない。",
+		   NULL, "XXX, który odmówił odmawiał przecięcia trupa do ostatniej chwili, załamał się we łzach w szpitalu, gdzie był leczony z powodu trwałego urazu podczas bójki i wyznał...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　また、ＸＸが隠した右腕部分も発見されていない＠
+	OutputLine(NULL, "　また、ＸＸが隠した右腕部分も発見されていない。",
+		   NULL, "Przestępcy zostali zaaresztowani jeden po drugim, ale de facto miejsce pobytu lidera XX jest ciągle nieznane.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　警察の連日の捜査にも関わらず、悪魔のような男が未だ法の手を逃れているのである＠
+	OutputLine(NULL, "　警察の連日の捜査にも関わらず、悪魔のような男が未だ法の手を逃れているのである。",
+		   NULL, "Także prawa ręka ukryta przez XX, nie została jeszcze odnaleziona.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　警察は何をしているのか...￥
+	OutputLine(NULL, "　警察は何をしているのか…。",
+		   NULL, "Pomimo trwających poszukiwań, ta okropna osoba do tej pory zdołała uniknąć egzekowania prawa.", Line_Normal);
+	ClearMessage();
+
+//「ＸＸが死体（右腕）を沼に捨てに行くと言っていたらしいのです＠実際、沼の近くにＸＸの乗用車が乗り捨ててあったのですが、その後の足取りはまったくわかりません。＠
+	OutputLine(NULL, "「ＸＸが死体（右腕）を沼に捨てに行くと言っていたらしいのです。",
+		   NULL, "Co mogłaby policja zrobić...?", Line_WaitForInput);
+	OutputLine(NULL, "実際、沼の近くにＸＸの乗用車が乗り捨ててあったのですが、その後の足取りはまったくわかりません。」",
+		   NULL, "\"Wygląda na to, że XX powiedział, że zamierzał wrzucić ciało (prawą rękę) do bagna.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　仲間の裏切りを最後まで疑っていたＸＸ＠
+	OutputLine(NULL, "　仲間の裏切りを最後まで疑っていたＸＸ。",
+		   NULL, " Samochód XX został odkryty opuszczony w pobliżu bagna, ale nie było tam wskazówek jego miejsca pobytu.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　仲間が警察に自供することを見越して、沼以外の場所に逃れた可能性は拭いきれない￥
+	OutputLine(NULL, "　仲間が警察に自供することを見越して、沼以外の場所に逃れた可能性は拭いきれない。",
+		   NULL, "XX nie ufał swoim kompanom.", Line_Normal);
+	ClearMessage();
+
+//「もちろんそれも疑っています＠...車はないはずなので、逃げられる範囲にも限度があると思うのですが...＠署内では、死体を捨てる時に誤って自分も沼に溺れてしまったのではないかと囁かれています...。￥
+	OutputLine(NULL, "「もちろんそれも疑っています。",
+		   NULL, "Jednego nie mozna zaprzeczyć, możliwości, że oczekiwał, że jego kompani przyznają się policji i użyją jego samochodu jako wabika.", Line_WaitForInput);
+	OutputLine(NULL, "…車はないはずなので、逃げられる範囲にも限度があると思うのですが…。",
+		   NULL, "\"Oczywiście wątpię w tą teorię.", Line_WaitForInput);
+	OutputLine(NULL, "署内では、死体を捨てる時に誤って自分も沼に溺れてしまったのではないかと囁かれています…。」",
+		   NULL, " Ponieważ nie ma samochodu, można byłoby oczekiwać od niego, że ma ograniczony obszar, do którego mógłby uciec.", Line_Normal);
+	ClearMessage();
+
+//　この沼、地元では底なし沼と恐れられ＠その名を鬼ヶ淵と言い、沼の底の底は地獄の鬼の国につながっているのだという＠
+	OutputLine(NULL, "　この沼、地元では底なし沼と恐れられ、",
+		   NULL, " Ale wewnątrz dworca obiegły plotki, że miał przypadkowo pośliznął się i utonoł w bagno, kiedy poszedł wyrzucić ciało.\"", Line_WaitForInput);
+	OutputLine(NULL, "その名を鬼ヶ淵と言い、沼の底の底は地獄の鬼の国につながっているのだという。",
+		   NULL, "Dla mieszkańców te bagno uważana jest za bez dna.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　まさに地獄の鬼とも言える残虐非道のＸＸ＠まさか沼から元の地獄へ帰ったのでは...￥
+	OutputLine(NULL, "　まさに地獄の鬼とも言える残虐非道のＸＸ。",
+		   NULL, " Jest znany jako Onigafuchi, Ogrza otchłań i mówią, że dno bagna jest połączone z piekielnym światem demonów.", Line_WaitForInput);
+	OutputLine(NULL, "まさか沼から元の地獄へ帰ったのでは…？",
+		   NULL, "Nieludzkim demonem z piekła był tamten XX.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_029", 128, 64 );
+	PlayBGM( 1, "msys03", 128, 0 );
+
+//　超運と勝利を招く紫金龍＠
+	OutputLine(NULL, "　超運と勝利を招く紫金龍！",
+		   NULL, " Mogłoby być tak, że powrócił do piekła przez bagno...?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　金運将＠・女運飛＠・事業発＠・立身出＠・権力掌＠・厄除護＠
+	OutputLine(NULL, "　金運将来",
+		   NULL, "Smok Zijin, przynoszący szczęścię i fortunę!", Line_WaitForInput);
+	OutputLine(NULL, "・女運飛躍",
+		   NULL, "-Pomyślną przyszłość!-", Line_WaitForInput);
+	OutputLine(NULL, "・事業発展",
+		   NULL, " -Panie skaczące do twoich ramion!-", Line_WaitForInput);
+	OutputLine(NULL, "・立身出世",
+		   NULL, " -Sukces w biznesie!-", Line_WaitForInput);
+	OutputLine(NULL, "・権力掌握",
+		   NULL, " -Awanse!-", Line_WaitForInput);
+	OutputLine(NULL, "・厄除護身",
+		   NULL, " -Ambicja!-", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　パチンコや競馬などの賭け事はもとより、ビジネスから恋愛まで...＠
+	OutputLine(NULL, "　パチンコや競馬などの賭け事はもとより、ビジネスから恋愛まで…。",
+		   NULL, " -Ochrona przed krzywdą!-", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　効果がなければ全額お返しします＠
+	OutputLine(NULL, "　効果がなければ全額お返しします！",
+		   NULL, "Nie tylko z pachinko i wyścigów konnych, ale w biznesie i nawet w miłości...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　紫金龍ブレスレットＤＸ（一括＠
+	OutputLine(NULL, "　紫金龍ブレスレットＤＸ（一括）",
+		   NULL, "Gwarantujemy lub zwrócimy twoje pieniądze!", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　２７，８００￥
+	OutputLine(NULL, "　２７，８００円",
+		   NULL, "27,800 Yen", Line_Normal);
+	ClearMessage();
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+//gosub *tip_e
+//return
+
+
+
+}
