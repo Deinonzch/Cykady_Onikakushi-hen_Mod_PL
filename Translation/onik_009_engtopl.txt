@@ -1599,218 +1599,220 @@
 "\"...Y-Yeah...!\""
 "\"...T-Tak...!\""
 "I hadn't realized Rena's hand was so delicate..."
-
+"Nie zdawałem sobie sprawy, że ręka Reny była taka delikatna..."
 " ...Maybe she needed a bit more exercise and nutrition?"
-
+" ...Może potrzebowała trochę więcej ćwiczeń i wartości odżywczych?"
 "...That wasn't what I meant! Not at all!!"
-
+"...Nie o to mi chodziło! Ani trochę!!"
 "My ears burned."
-
+"Moje uszy płoneły."
 "I tried to keep calm. I repeated the phrase 'Keep it together, Keiichi Maebara' in my mind, but it didn't look like I would be able to anytime soon."
-
+"Próbowałem zachować spokój. Powtarzałem frazę 'Weź się w garść, Keiichi Maebaro' w moim umyśle, ale nie wygladało na to, że uda mi się to w najbliższym czasie."
 "I really didn't want Rena to see my face right then, so I pushed onwards, dragging her along without looking back even once."
-
+"Naprawdę nie chciałem, żeby Rena zobaczyła moją twarz w tej chwili, więc przepchnąłem się do przodu, ciągnąc ją za sobą, nie oglądając się ani razu."
 "There was already a huge group of people gathered at the altar in front of the shrine."
-
+"Była już duża grupa ludzi zabranych przed ołtarzem naprzeciw świątyni."
 "The fire at the altar made it as bright as midday and just as hot."
-
+"Ogień na ołtarzu sprawiał, że było tak jasno jak w południe i tak samo gorąco."
 "There was a pile of futons warded with sanctified rope in front of the altar."
-
+"Była tutaj sterta futonów zabezpieczona poświęconym sznurem naprzeciwko ołtarza."
 "Come to think of it, they did say it was a festival where they did something with the cotton in futons."
-
+"Jak o tym pomyśleć, mówili, że był to festiwal, gdzie robili coś z bawełną w futonach."
 "\"Keiichi-san!"
-
+"\"Keiichi-san!"
 " Rena-san~!"
-
+" Rena-san~!"
 " We're over here~!!\""
-
+" Jesteśmy tutaj~!!\""
 "Satoko waved her hand from the front row."
-
+"Satoko machała swoją ręką z pierwszego rzędu."
 "\"Ah! Sorry, sorry!\""
-
+"\"Ach! Przepraszam, przepraszam!\""
 "Making our way through the mass of people, we reached the spot they'd saved."
-
+"Przedzierając się przez masę ludzi, dotarliśmy do miejsca, które zajeli."
 "\"How was it? Were you able to have a little bit of excitement with Rena~?\""
-
+"\"Jak było? Czy udało ci się mieć trochę podekscytowania z Reną~?\""
 "\"Y-Y-You punk! So that's what your plan was!?!?\""
-
-"Instead of replying, Mion gave us a perverse grin."
-
+"\"T-T-Ty śmieciu! Więc taki był twój plan!?!?\""
+"Instead of replying, Mion gave us a  grin."
+"Zamiast odpowiedzieć, Mion posłała nam zboczony usmieszek."
 "\"How was it, Rena?"
-
+"\"Jak było, Reno?"
 " Was Kei-chan's hand bigger than you thought it would be~?\""
-
+" Czy ręka Kei-chana była większa, niż myślałaś, że będzie~?\""
 "o~...\""
-
+"o~...\""
 "Rena turned bright red, puffs of steam shooting out of her."
-
+"Rena poczerwieniała, chmury pary wystrzeliły z niej."
 "I heard something slice through the air and turned around to see Mion on the ground with a welt on her face."
-
+"Usłyszałem, że coś przecieło się przez powietrze i odwróciłem się, żeby zobaczyć Mion na ziemi z siniakiem na jej twarzy."
 "\"...Mion... When... were you hit...?\""
-
+"\"...Mion... Kiedy... zostałaś uderzona...?\""
 "\"Between the 'ha' and 'o' of her hao~ I..."
-
+"\"Między 'ha' i 'o' z jej hao~ Ja..."
 " think...\""
-
+" sądzę...\""
 "\"Rena..."
-
+"\"Reno..."
 " It's not good to punch your friends to hide your embarrassment...\""
-
+" Nie jest dobrze uderzać pięścią twoich przyjaciół, żeby ukryć swoje zażenowanie...\""
 "\"I-I didn't hit her... W-Wh-whatever... hao.\""
-
+"\"J-Ja nie uderzyłam jej... N-N-niezależnie od... hao.\""
 "Thump!! The thunderous beat of the drum echoed, silencing the crowd."
-
+"Grzmot!! Ogłuszające bicie bębnów rozbrzmiało, uciszając tłum."
 "\"You must all be quiet!! It's beginning!!\""
-
+"\"Musimy wszyscy być cicho!! Zaczyna się!!\""
 "It was a solemn ritual."
-
+"To był poważny rytułał."
 "Rika-chan entered dressed as a shrine maiden, followed by members of the municipal committee."
-
+"Rika-chan wyszła ubrana jak miko, a następnie członkowie miejskiego komitetu."
 "The elders all looked at Rika-chan and clasped their hands in praise."
-
+"Cała starszyzna patrzyła na Rikę-chan i ułożyli swoje dłonie do modlitwy."
 "The only thing allowed to disturb the profound silence was the flash from Tomitake-san's camera."
-
+"Jedyna rzecz, której pozwolono na zakłócanie głębokiej ciszy, była byłskiem z aparatu Tomitake-san."
 "\"What's the big thing Rika-chan is holding?\""
-
+"\"Co to za duży przedmiot, który Rika-chan trzyma?\""
 "\"A hoe that's used for this festival."
-
+"\"Motyka, która jest używana na ten festiwal."
 " It's a sacred farming tool that only the shrine maiden may touch.\""
-
+" Jest to święte rolnicze narzędzie, które tylko miko może dotykać.\""
 "It was an awkward shape for a piece of farm equipment. Not uncommon for something used in rituals."
-
+"Miał dziwny kształt jak na kawałek sprzętu rolniczego. Nic nie zwykłego dla czegoś, co używane jest w rytuałach."
 "After reciting a Shinto prayer, Rika-chan approached the pile of futons gathered at the altar."
-
+"Po recytacji modlitwy Shinto, Rika-chan podeszła do stosu futonów zebranych przed ołtarzem."
 "She swung the hoe skillfully, ploughing it into the futons."
-
+"Zamachneła się zręcznie motyką, orając nią futony."
 "Each and every little movement of this performance probably had to be done in a certain way..."
-
+"Każdy niewielki ruch tego występu, prawdopodobnie miał być wykonany w odpowiedni sposób..."
 "Without a doubt, this was a ritual."
-
+"Bez wątpienia, było to rytuałem."
 "\"What's next?"
-
+"\"Co następne?"
 " Airing out futons?\""
-
+" Wietrzenie futonów?\""
 "\"She's purifying futons that absorbed illnesses from people over the winter.\""
-
+"\"Ona oczyszcza futony, które zaabsorbowały choroby od ludzi przez zimę.\""
 "\"So when Kei-chan said 'airing out futons,' he wasn't completely wrong.\""
-
+"\"Więc kiedy Kei-chan powiedział 'wietrzenie futonów,' nie mylił się całkowicie.\""
 "Rika-chan's face was already dripping with sweat."
-
+"Twarz Riki-chan był już ociekająca potem."
 "...That hoe was probably really heavy."
-
+"...Ta motyka była prawdopodobnie naprawdę cięzka."
 "She staggered side-to-side with the momentum of each swing."
-
+"Rozkładała się z boku na bok z pędem każdego machnięcia."
 "Satoko looked on, silently lending her support..."
-
+"Satoko przyglądała się, cicho udzielając jej wsparcia..."
 "\"...Worried?\""
-
+"\"...Zmartwiona?\""
 "\"Rika practiced every single day with a mochi hammer..."
-
+"\"Rika ćwiczyła każdego dnia z młotkiem na mochi..."
 " ...She will certainly prevail.\""
-
+" ...Z pewnością wytrwa.\""
 "Satoko's hands were sweaty, and whenever Rika-chan started to sway a little, she held her breath."
-
+"Ręce Satoko były spocone i ilekroć Rika-chan zaczynała kołysać się trochę, ona wstrzymywała oddech."
 "\"...Why wasn't Mion a candidate to be the shrine maiden?"
-
+"\"...Dlaczego nie Mion była kandydatką na miko?"
 " ...It feels wrong, having Rika-chan swing around something so heavy.\""
-
+" ...Żle się czuję, mając Rikę-chan, która macha dookoła czymś tak ciężkim.\""
 "\"I'd do it if they asked me, you know..."
-
+"\"Wiesz, że zrobiłabym to, jeśliby mnie poprosili..."
 " And well..."
-
+" I cóż..."
 " it's not something just anyone could do.\""
-
+" to nie jest coś, co byle kto mógłby zrobić.\""
 "\"That's true."
-
+"\"To prawda."
 " Shrine maidens need to be pure, after all."
-
+" Miko musi być niewinna, przede wszystkim."
 " ...Ghrnk...!!\""
-
+" ...Ghrnk...!!\""
 "Mion drove her elbow into my side!!"
-
+"Mion poprowadziła swój łokieć w moją stronę!!"
 "With the thud of the big drum, Rika-chan gave a solemn bow and descended from the altar."
-
+"Z hukiem wielkiego bębna, Rika-chan posłała uroczysty ukłon i zeszła z ołtarza."
 "...That triggered a round of generous applause."
-
+"...To wywołało rundę wspaniałych oklasków."
 "After the Shinto priests had raised up the cleansed futons like a portable altar, all the spectators stood up."
-
+"Potem kapłani Shinto podnieśli oczyszczone futony jak przenośny ołtarzyk, wszyscy widzowie wstali."
 " Following after the priests, we all marched on at a moderate pace."
-
+" Podążając za kapłanami, my wszyscy maszerowaliśmy z umiarkowanym tempem."
 "They descended the shrine's giant stairs in a line."
-
+"Zchodzili ze świątynnych wielkich schodów w szeregu."
 "\"What's happening now?"
-
+"\"Co się dzieje teraz?"
 " Washing the futons in the river?\""
-
+" Mycie futonów w rzece?\""
 "\"Ahahaha."
-
+"\"Ahahaha."
 " Watanagashi means setting cotton adrift, you know.\""
-
+" Wiesz, że Wataganashi oznacza dryfującą bawełnę.\""
 "The procession continued right up to the bank of the stream."
-
+"Procesja kontynuowała aż do brzegu strumienia."
 "A fire was stoked high and it was bright as day here, too."
-
+"Ogień palił się wysoko i było jasno jak za dnia tutaj, także."
 "People started crowding around it and clamoring."
-
+"Ludzie zaczeli zbierać się wokół tego i domagać się."
 "\"All right, get in line."
-
+"\"W porządku, ustawcie się w lini."
 " Line up, Keiichi-kun.\""
-
+" Ustaw się, Keiichi-kun.\""
 "...I wondered what was up."
-
+"...Zastanawiałem się, o co chodziło."
 "Maybe we'd get some holy wine?"
-
+"Może dostaniemy trochę świętego wina?"
 " Red and white bean buns?"
-
+" Czerwonej i białej fasoli bułeczki?"
 "\"Ahahahaha..."
-
+"\"Ahahahaha..."
 " It's not food."
-
+" To nie jedzenie."
+" I said it was,"
+" Powiedziałem, że to,"
 " cotton.\""
-
+" bawełna.\""
 "Ah, but of course."
-
+"Ach, ależ oczywiście."
 " They didn't call it the Watanagashi for nothing."
-
+" Nie nazywaliby tego Wataganashi bez powodu."
 " I finally understood."
-
+" W końcu zrozumiałem."
 "The municipal committee members pulled out the cotton from inside the futons and balled it up like mochi, handing it out to people."
-
+"Członkowie miejskiego komitetu wyciągali bawełnę z wnętrza futonów i zgniatali je jak mochi, wręczjąc je ludziom."
 "Rena dove into the line and brought out some for me as well."
-
+"Rena wskoczyła do kolejki i przyniosła kilka dla mnie też."
 "We then proceeded to the bank of the stream."
-
+"My potem udaliśmy się do brzegu strumienia."
 "\"Since it's your first time, Keiichi-kun, just copy what I do.\""
-
+"\"Skoro to jest twój pierwszy raz, Keiichi-kun, po prostu kopiuj, co ja robię.\""
 "She held the cotton in her right hand and, waving her hand as if to purify it, she touched it to her forehead, chest, navel, and both thighs."
-
+"Trzymała bawełne w swojej prawej ręce i, wymachując swoję ręką, jakby oczyszczała go, przyłozyła go do swojego czoła, piersi, pępka i obu ud."
 "\"You do this three times, and silently give thanks to Oyashiro-sama.\""
-
+"\"Zrób to trzy razy i w ciszy podziękuj Oyashiro-sama.\""
 "\"Oyashiro-sama? What's that? The name of the shrine's god?\""
-
+"\"Oyashiro-sama? Co to jest? Imię boga świątyni?\""
 "\"Yes. It's the guardian deity of Hinamizawa."
-
+"\"Tak. Jest strażniczym bóstwem Hinamizawy."
 " It brings about both miracles and curses!"
-
+" Niesie ze sobą zarówno cuda, jak i przekleństwa!"
 " So you must be sure to show respect.\""
-
+" Więc musisz koniecznie okazać szacunek.\""
 "That sounded like a pretty frightening god."
-
+"Zabrzmiało to, jakby był bardzo przerażającym bogiem."
 " But, well, when in Rome..."
-
+" Ale, cóż, będąc w Rzymie..."
 "I was officially a resident of Hinamizawa now, after all."
-
+"Mimo wszystko, byłem teraz formalnie mieszkańcem Hinamizawy."
 "Doing as Rena showed me, I touched the cotton over myself three times."
-
+"Czyniąc jak Rena mi pokazała, przyłożyłem bawełnę po całym sobie trzy razy."
 "Thank you, Oyashiro-sama... Thank you, Oyashiro-sama... Oyashiro-sama..."
-
+"Dziękuję ci, Oyashiro-sama... Dziękuję ci, Oyashiro-sama... Oyashiro-sama..."
 "\"This way, all the evil that possesses you is sucked out by the cotton."
-
+"\"W ten sposób, całe zło, które posiadasz ty, jest wysysane przez bawełnę."
 " ...Then you let it gently drift away on the stream, and you're done.\""
-
+" ...Następnie pozwól temu delikatnie odpłynąć w strumienie i skończyłeś.\""
 "Together, Rena and I set our pieces of cotton afloat on the surface of the water."
-
+"Razem, Rena i ja, ustawiliśmy nasze kawałki bawełny na powierzchni tafli wody."
 "The flowers of cotton blooming in the water had sucked out all the evil festering in Hinamizawa and drifted off, disappearing into the distance."
-
+"Kwiaty bawełny kwitnace w wodzie wyssały całe zło ropiejące w Hinamizawie i odpływały, znikając w oddali."
 "It was wonderful, like those floating lantern festivals I'd seen on TV. The best part, though, was feeling like this rite of passage had made me a true resident of Hinamizawa."
-
+"To było wspaniałe, jak te pływające festiwalowe latarnie, które widziałem w telewizji. Najlepszą częścią, myślałem, było uczucie, jakby ten rytułał przejścia zrobił ze mnie przwdziwego mieszkańca Hinamizawy."
