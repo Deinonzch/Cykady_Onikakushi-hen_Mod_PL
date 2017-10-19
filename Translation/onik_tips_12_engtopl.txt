@@ -1,40 +1,40 @@
 "\"This is Okinomiya Station, calling Unit 3."
-
+"\"Tu Posterunek Okinomiya, wzywa Jednostkę 3."
 " Unit 3 please respond.\""
-
+" Jednostko 3, proszę o raport.\""
 "\"This is Unit 3,"
-
+"\"Tu jednostka 3,"
 " loud and clear.\""
-
+" głośno i wyraźnie.\""
 "\"Back-up is heading your way."
-
+"\"Wsparcie zmierza w waszą stronę."
 " Hold position until further instructions."
-
+" Utrzymajcie pozycję aż do kolejnych instrukcji."
 " Over.\""
-
+" Odbiór.\""
 "\"Roger, Unit 3 acknowledged.\""
-
+"\"Przyjąłem, Jednostka 3 potwierdza.\""
 "\"Requesting no headlights."
-
+"\"Prosi o brak świateł."
 " Requesting radio silence.\""
-
+" Prosi o ciszę radiową."
 "\"Station, the doctor has arrived."
-
+"\"Posterunek, doktor przybył."
 " They want to carry it away. What's the order?"
-
+" Chcą żebyśmy to zabrali. Jakie rozkazy?"
 " Over.\""
-
+" Odbiór.\""
 "\"Acknowledged."
-
+"\"Potwierdzam."
 " Leave it to the doctor.\""
-
+" Zostawić to doktorowi.\""
 "\"Affirmative."
-
+"\"Tak jest."
 " Understood."
-
+" Zrozumiałem."
 " ...Ah, back-up has arrived."
-
+" ...Ach, wsparcie przybyło."
 " Shouldn't we let them take a photo first?"
-
+" Czy nie powinniśmy pozwolić im najpierw zrobić zdjęcie?"
 " ...I think the vic is done for.\""
-
+" ...Sądzę, że ofiara jest skończona.\""
