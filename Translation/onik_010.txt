@@ -1825,7 +1825,7 @@
 	OutputLine(NULL, "　ご存知ですかな？",
 		   NULL, " Are you aware, I wonder?", Line_WaitForInput);
 	OutputLine(NULL, "　例の",
-		   NULL, " About the stories", Line_ContinueAfterTyping);
+		   NULL, " About the stories...", Line_ContinueAfterTyping);
 // !s200
 
 	SetSpeedOfMessage( TRUE, 0, );
@@ -2756,7 +2756,7 @@
 
 //「言ってもいいですが!s200……!sd気を悪くしないで下さいね？＠
 	OutputLine(NULL, "「言ってもいいですが",
-		   NULL, "\"I wouldn't mind telling you", Line_ContinueAfterTyping);
+		   NULL, "\"I wouldn't mind telling you,", Line_ContinueAfterTyping);
 // !s200
 
 	SetSpeedOfMessage( TRUE, 0, );
@@ -3611,7 +3611,7 @@
 
 //「……圭一くんと…二人で勝とうって約束したのに!w300…!w300…ずーっと待ってたんだよ？　…だよ？＠
 	OutputLine(NULL, "「……圭一くんと…二人で勝とうって約束したのに",
-		   NULL, "\"...We made a promise, Keiichi-kun... That we would both win", Line_ContinueAfterTyping);
+		   NULL, "\"...We made a promise, Keiichi-kun... That we would both win.", Line_ContinueAfterTyping);
 
 	SetValidityOfInput( FALSE );
 	Wait( 300 );
