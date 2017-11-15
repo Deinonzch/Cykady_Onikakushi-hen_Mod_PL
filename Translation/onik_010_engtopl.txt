@@ -728,6 +728,8 @@
 " Ciągle drapał!!"
 "Then... as his nails reached those vital arteries that you should never damage... he continued clawing!"
 "Wtedy... jego paznokcie dotarły do kluczowych tętnic, które nie powinny nigdy zostać uszkodzone... kontynuował drapanie!"
+" Splurt"
+" Trysk"
 " ...Blood splattered on the ground around him."
 " ...Krew rozbryzgała się na ziemię dookoła niego."
 "As he bled..."

@@ -88,6 +88,8 @@
 
 " I wonder how many people it would take.\""
 
+"「あほぅ。"
+
 "\"Ya dimwit..."
 
 " You should know better than anyone."
