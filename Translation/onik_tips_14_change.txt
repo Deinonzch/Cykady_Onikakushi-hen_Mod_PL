@@ -1,0 +1,252 @@
+﻿void main()
+{
+
+//■捜査メモ
+
+//*Sub_Tips_014
+//gosub *tip_s
+	EnableJumpingOfReturnIcon();
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	PlayBGM( 1, "msys13", 128, 0 );
+
+//　富竹ジロウ（仏＠
+	OutputLine(NULL, "　富竹ジロウ（仏）",
+		   NULL, "Jirou Tomitake (Zmarły)", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//・鹿骨市内の安ホテルに滞＠
+	OutputLine(NULL, "・鹿骨市内の安ホテルに滞在",
+		   NULL, "・Mieszkał w tanim hotelu w mieście Shishibone.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・宿帳に富竹ジロウと記＠　＞　ペンネー＠
+	OutputLine(NULL, "・宿帳に富竹ジロウと記名",
+		   NULL, "・Zarejestrowany pod imieniem Jirou Tomitake", Line_WaitForInput);
+	OutputLine(NULL, "　＞　ペンネーム",
+		   NULL, " > Pseudonim", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・折り畳み自転車で行動＠免許の類なし＠
+	OutputLine(NULL, "・折り畳み自転車で行動。",
+		   NULL, "・Podrużuje za pomocą składaka.", Line_WaitForInput);
+	OutputLine(NULL, "免許の類なし。",
+		   NULL, " Brak licencji.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・ 自転車は現場から３００ｍ離れた林道脇に放置￥
+	OutputLine(NULL, "・自転車は現場から３００ｍ離れた林道脇に放置。",
+		   NULL, "・Rower został odnaleziony 300 metrów dalej, porzucony na poboczu leśnej ścieżki.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//・祭り当日、会場にいた＠
+	OutputLine(NULL, "・祭り当日、会場にいた。",
+		   NULL, "・Obecny w dniu festiwalu.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・失踪中の鷹野みよと一緒にいた＠
+	OutputLine(NULL, "・失踪中の鷹野みよと一緒にいた。",
+		   NULL, "・W towarzystwie zaginionej Miyo Takano.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・９時ごろに警察官が目撃。その後は不明￥
+	OutputLine(NULL, "・９時ごろに警察官が目撃。その後は不明。",
+		   NULL, "・Był widziany około 9 po południu przez policję. Późniejsza lokalizacja nieznana.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//・雛見沢には５～６年前から、季節毎に１週間ほど滞在＠
+	OutputLine(NULL, "・雛見沢には５〜６年前から、季節毎に１週間ほど滞在。",
+		   NULL, "・Przebywał w Hinamizawie przez tydzień w każdym sezonie przez ostatnie 5-6 lat.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・野鳥専門のフリーカメラマ＠　＞　雑誌社調べろ＠
+	OutputLine(NULL, "・野鳥専門のフリーカメラマン",
+		   NULL, "・Niezależny fotograf specjalizujący się w dzikich ptakach", Line_WaitForInput);
+	OutputLine(NULL, "　＞　雑誌社調べろ！",
+		   NULL, " > Sprawdzić firmy gazet!", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・遺品のフィルムには不審物な＠
+	OutputLine(NULL, "・遺品のフィルムには不審物なし",
+		   NULL, "・Nic podejrzanego na filmie odnalezionego wśród przedmiotów zmarłego.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・遺品に財＠　＞　たんなる暴行＠
+	OutputLine(NULL, "・遺品に財布",
+		   NULL, "・Portfel był wśród przedmiotów zmarłego.", Line_WaitForInput);
+	OutputLine(NULL, "　＞　たんなる暴行？",
+		   NULL, " > Zwykły akt przemocy?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・ 財布の内容物から、生活基盤は東京～千葉＠　国鉄総武線沿線￥
+	OutputLine(NULL, "・財布の内容物から、生活基盤は東京〜千葉？",
+		   NULL, "・Z zawartości jego portfela, spędzał większość swojego czasu w okolicach Tokio i Chiby.", Line_WaitForInput);
+	OutputLine(NULL, "　国鉄総武線沿線？",
+		   NULL, " Wzdłuż krajowej lini kolojowej Sobu?", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//・都内各区の住民基本台帳に富竹ジロウの同姓同名な＠
+	OutputLine(NULL, "・都内各区の住民基本台帳に富竹ジロウの同姓同名なし",
+		   NULL, "Żadna osoba nie pasuje do imienia 'Jirou Tomitake' w spisie mieszkańców żadnego okręgu z Tokio.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・歯型から都内歯科へ照＠　＞　警視庁＠
+	OutputLine(NULL, "・歯型から都内歯科へ照合",
+		   NULL, "・Porównać zęby z kartoteką dentystyczną", Line_WaitForInput);
+	OutputLine(NULL, "　＞　警視庁へ",
+		   NULL, " > wysłaś do policji miejskiej", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・顔写真の送＠　＞　警視庁＠
+	OutputLine(NULL, "・顔写真の送付",
+		   NULL, "・Załączyć zdjęcie", Line_WaitForInput);
+	OutputLine(NULL, "　＞　警視庁へ",
+		   NULL, " > wysłać do policji miejskiej", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・各雑誌社に富竹ジロウ問い合わ￥
+	OutputLine(NULL, "・各雑誌社に富竹ジロウ問い合わせ",
+		   NULL, "・Skontaktować się z magazynami powiązanymi z 'Jirou Tomitake'", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+
+//　鷹野みよ（失踪＠
+	OutputLine(NULL, "　鷹野みよ（失踪）",
+		   NULL, "Miyo Takano (Zaginiona)", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//・入江診療所に勤務の看護＠
+	OutputLine(NULL, "・入江診療所に勤務の看護婦",
+		   NULL, "・Pielęgniarka w Klinice Irie", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・趣味の野鳥撮影で富竹と親し＠
+	OutputLine(NULL, "・趣味の野鳥撮影で富竹と親しい",
+		   NULL, "・Zbliżyła się do Tomitake przez swoją pasję do fotografii dzikich ptaków.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・自宅は興宮Ｘ丁目ＸＸＸ番地＠独身＠
+	OutputLine(NULL, "・自宅は興宮Ｘ丁目ＸＸＸ番地。",
+		   NULL, "・Mieszka w Okinomiya X w dzielnicy XXX.", Line_WaitForInput);
+	OutputLine(NULL, "独身。",
+		   NULL, " Singielka.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・富竹と共に祭り会場で目撃され、その後行方不明￥
+	OutputLine(NULL, "・富竹と共に祭り会場で目撃され、その後行方不明。",
+		   NULL, "・Była świadkiem towarzyszącym Tomitake na terenach festiwalu. Obecnie zaginiona.", Line_Normal);
+	ClearMessage();
+
+	PlaySE( 3, "wa_021", 128, 64 );
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//・誘拐された＠　それとも容疑者＠　＞　重要参考人＠
+	OutputLine(NULL, "・誘拐された？",
+		   NULL, "・Porawana?", Line_WaitForInput);
+	OutputLine(NULL, "　それとも容疑者？",
+		   NULL, " Lub może podejrzana?", Line_WaitForInput);
+	OutputLine(NULL, "　＞　重要参考人！",
+		   NULL, " > Ważna z kręgów podejrzanych!", Line_WaitForInput);
+
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+//・仏を殺す動機がな＠　＞　痴情のもつれ＠
+	OutputLine(NULL, "・仏を殺す動機がない",
+		   NULL, "・Nie miała motywu do zabicia zmarłego", Line_WaitForInput);
+	OutputLine(NULL, "　＞　痴情のもつれ？",
+		   NULL, " > Kłótnia z zazdrości?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・人間関係を徹底的に調べる＠　＞　勤務先＠
+	OutputLine(NULL, "・人間関係を徹底的に調べる！",
+		   NULL, "・Potrzeba dokładniejszego zbadania ich relacji!", Line_WaitForInput);
+	OutputLine(NULL, "　＞　勤務先他",
+		   NULL, " >Miejsce pracy, etc.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//・ 会場警備の警察官に再度聞き込み＠
+	OutputLine(NULL, "・会場警備の警察官に再度聞き込み！",
+		   NULL, "・Potrzebuję ponownie uzyskać informację od policjantów z miejsca zbrodni!", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//・シュークリームが食べたいなぁ＠ジャンボで４つ＠＞　大￥
+	OutputLine(NULL, "・シュークリームが食べたいなぁ。",
+		   NULL, "・Chcę jakieś ptysie.", Line_WaitForInput);
+	OutputLine(NULL, "ジャンボで４つ。",
+		   NULL, " Cztery olbrzymy.", Line_WaitForInput);
+	OutputLine(NULL, "＞　大石",
+		   NULL, " > Ooishi", Line_Normal);
+	ClearMessage();
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+//gosub *tip_e
+//return
+
+}
