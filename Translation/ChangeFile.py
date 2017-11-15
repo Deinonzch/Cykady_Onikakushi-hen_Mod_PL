@@ -4,10 +4,10 @@ import sys
 from operator import itemgetter
 import re
 
-reg = re.compile(r'(\"[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)~☆♪「」*=+;"]+(\.|\?|\'|\!|,|\\|—|-|\"|~|\)|☆|♪|\*)\")')
+reg = re.compile(r'NULL, (\"(?!\\n)[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)~☆♪「」*=+;><"]+(\.|\?|\'|\!|,|\\|—|-|\"|~|\)|☆|♪|\*|[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9])\")')
 
-f = open('onik_tips_12.txt', 'r')
-g = open('onik_tips_12_pl.txt', 'r')
+f = open('onik_010.txt', 'r')
+g = open('onik_010_pl.txt', 'r')
 lines = g.readlines()
 i=0
 for line in f:
