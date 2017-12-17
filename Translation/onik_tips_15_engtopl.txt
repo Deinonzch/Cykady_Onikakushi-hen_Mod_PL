@@ -1,42 +1,42 @@
 "July 1, 1982"
-
+"1 czerwiec 1982"
 "To departments 1 through 12,"
-
+"Do wydziałów od 1 do 12,"
 "XX Prefectural Police headquarters."
-
+"kwatery głównej Policji Prefekturalnej XX."
 "Director-General XXX"
-
+"Dyrektor Generalny XXX"
 "To the chief constable and all facility managers."
-
+"Do szefa policji i wszyskich kierowników obiektu."
 "Regarding cases situated in the Hinamizawa village. (Notice)"
-
+"Odnośnie spraw umiejscowionych w wiosce Hinamizawa. (Ogłoszenie)"
 "As cases in Shishibone city, Hinamizawa village have been reported by certain sections of mass media,"
-
+"Jak na przypadki w mieście Shishibone, wioska Hinamizawa została odnotowana przez pewne sekcje masowego przekazu,"
 "it has drawn global attention, which is causing serious repercussions for the local residents. This has become a very serious situation."
-
+"przyciąga to uwagę globalną, co powoduje poważne reperkusje dla lokalnych mieszkańców. Stało się to bardzo poważną sytuacją."
 "To protect the livelihood and prosperity of the residents, the following notice has been issued."
-
+"Żeby chronić środki do życia i dobrobyt mieszkańców, wydano poniższe zawiadomienie."
 "1. Designate the following criminal investigations as classified."
-
+"1. Wskazane poniżej śledztwa przestępstw są tajne." 
 "Hinamizawa village housewife murder (Dated June XX)"
-
+"Morderstwo gospodyni domowej z wioski Hinamizawa (Data XX czerwca)"
 "Hinamizawa village student disappearance (Dated June XX)"
-
+"Zaginięcie ucznia z wioski Hinamizawa (Data XX czerwca)"
 "2. Non-disclosure of information."
-
+"2. Nieujawnienie informacji."
 "Hinamizawa village site foreman murder (Dated June XX)"
-
+"Morderstwa pracownika budowy w wiosce Hinamizawa (Data XX czerwca)
 "Shira natural park falling incident (Dated June XX)"
-
+"Incydentu z upadkiem w parku przyrodniczym Shira (Data XX czerwca)"
 "Hinamizawa village Shinto priest's wife's disappearance (Dated June XX)"
-
+"Zaginięcie żony kapłana Shinto z wioski Hinamizawa (Data XX czerwca)"
 "3. Requesting self-restraint from each organization concerning the release of sensitive information."
-
+"3. Prośba o powściągliwość każdej organizacji w związku o ujawanianiu poufnych informacji."
 "Please see attached reference materials 1, 2, and 3."
-
+"Patrz na załączone materiały referencyjne 1, 2 i 3."
 "Management: XX Prefecture Police headquarters"
-
+"Zarządzenie: kwatery głównej Policji Prefekturalnej XX"
 "Internal line: XXXX"
-
+"Linia wewnętrzna: XXXX"
 "Police Affairs department XX XX"
-
+"Departament Policji XX XX"
