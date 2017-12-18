@@ -6,8 +6,10 @@ import re
 
 reg = re.compile(r'NULL, (\"(?!\\n)[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9\.\\:,\s\'\?\!\-—\(\)~☆♪「」*=+;><"]+(\.|\?|\'|\!|,|\\|—|-|\"|~|\)|☆|♪|\*|[A-Za-zĘÓŁŚĄŻŹĆŃęółśążźćń0-9])\")')
 
-f = open('onik_010.txt', 'r')
-g = open('onik_010_pl.txt', 'r')
+#f = open('onik_011.txt', 'r')
+#g = open('onik_011_pl.txt', 'r')
+f = open('onik_tips_15.txt', 'r')
+g = open('onik_tips_15_pl.txt', 'r')
 lines = g.readlines()
 i=0
 for line in f:
