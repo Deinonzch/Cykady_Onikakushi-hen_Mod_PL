@@ -1,140 +1,140 @@
 "\"Let's cut to the chase... is there a drug that causes someone to kill themselves?\""
-
+"\"Przejdźmy do sedna... jest narkotyk, który powoduje, że ktoś sam siebie zabija?\""
 "\"Not directly, no.\""
-
+"\"Nie bezpośrednio, nie.\""
 "\"That's quite a roundabout response."
-
+"\"To całkiem okręzna droga odpowiedzi."
 " You're saying there's one that does it indirectly?\""
-
+" Mówisz, że jest taki, który robi to pośrednio?\""
 "\"Something that puts you into a suicidal mental state,"
-
+"\"Coś, co wpędza cię w samobójczy stan,"
 " like that...?\""
-
+" coś jak...?\""
 "\"...That's hard to say."
-
+"\"...Trudno powiedzieć."
 " What would 'a suicidal mental state' be?\""
-
+" Czym byłby 'samobójczy stan'?\""
 "\"Like a person with a serious bipolar disorder."
-
+"\"Jak osoba z poważnym zaburzeniem afektywno dwubiegunowym."
 " It's believed that people are most likely to attempt suicide when swinging from depression to mania.\""
-
+" Uważa się, że ludzie najczęściej próbują popełnić samobójstwo, kiedy wachają się miedzy depresją a obłędem.\""
 "Clinical depression and bipolar disorder are different."
-
+"Depresja kliniczna i zaburzenie afektywne dwubiegunowe się różnią."
 "Clinical depression indicates a prolonged state of depression,"
-
+"Depresja kliniczna oznacza długotrwały stan depresji,"
 " whereas bipolar disorder is characterized by a passive depressed state accompanied by a very active manic state."
-
+" podczas gdy zaburzenie afektywne dwubiegunowe charakteryzuje się biernym stanem depresyjnym, któremu towarzyszą bardzo aktywne stan maniakalny."
 "\"Individuals with clinical depression suffer from low self-esteem and are quite pessimistic,"
-
+"\"Osoby z depresją kliniczną cierpią z powodu niskiej samooceny i są bardzo pesymistyczne,"
 " but rarely commit suicide."
-
+" ale rzadko popełniają samobójstwo."
 " They do not have the willpower to commit suicide."
-
+" Nie mają siły woli do popełnienia samobójstwa."
 " Nor does mania on its own lead to suicide."
-
+" Ani mania sama w sobie nie prowadzi do samobójstwa."
 " That has an opposite effect, filling the person with confidence and making them feel as though they're walking on air."
-
+" To ma przeciwny efekt, wypełnia osobę pewnoscią siebie i sprawia im, że czują się tak, jakby byli w siódmym niebie."
 " Thus, they do not commit suicide.\""
-
+" W związku z tym nie popełniają samobójstwa.\""
 "\"...That's interesting."
-
+"\"...To jest interesujące."
 " Neither state causes suicide, but when the condition changes, they might do so?\""
-
+" Żadne z tych stanów nie powoduje samobójstwa, ale kiedy warunek się zmienia, może mogą to zrobić?\""
 "\"There is a desire to commit suicide when in a state of depression, but they do not have the willpower to commit such a formidable act."
-
+"\"Jest pragnienie popełnienia samobójstwa w stanie depresyjnym, ale nie mają siły woli, żeby popełnić tak groźny czyn."
 " But when they enter mania, they gain a burst of willpower and their body moves as they desire.\""
-
+" Ale kiedy wchodzą w obłęd, zyskują siłę woli i ich ciała poruszją się, jak pragną.\""
 "\"I see!"
-
+"\"Rozumiem!"
 " So it means they gain the willpower to commit suicide.\""
-
+" Więc to znaczy, że zyskują siłę woli do popełnienia samobójstwa.\""
 "\"That's how it goes."
-
+"\"Tak to działa."
 " That's why patients are given sedatives during that time to keep them from acting on their impulses.\""
-
+" Właśnie dlatego pacjeńci otrzymują środki uspokajające w tym czasie, żeby powstrzymać ich od działania pod ich impulsów.\""
 "\"...Then was Tomitake bipolar?\""
-
+"\"...Zatem, Tomitake był dwubiegunowy?\""
 "\"People who suffer from bipolar disorder generally commit suicide by more 'civilized' means."
-
+"\"Ludzie, którzy cierpią z powodu zaburzenia afektywnego dwubiegunowego przeważnie popełniają samobójstwo bardziej 'cywilizowanymi' środkami."
 " Like, say hanging, or jumping off a building."
-
+" Na przykład powieszenie czy skok z budynku."
 " Self-harm as though going through withdrawal is completely different!\""
-
+" Samookaleczenie, jak chociaż głodowanie jest całkowicie inne!\""
 "\"Tomitake's death wasn't civilized..."
-
+"\"Śmierć Tomitake nie była cywilizowana..."
 "So one would think it was caused by some foreign substance."
-
+"Mozna byłoby pomyśleć, że było to spowodowane przez jakąś obcą sybstancję."
 " As I said from the start: tell me of a drug that causes someone to commit suicide.\""
-
+" Jak mówiłem na początku: powiedz mi o leku, który sprawia, że ktoś popełnia samobójstwo.\""
 "\"There are reports that methamphetamine overdoses produce a condition that resembles bipolar disorder."
-
+"\"Istnieją doniesienia, że przedawkowanie metamfetaminy powoduje stan przypominający zaburzenie dwubiegunowe."
 " It's a stimulant."
-
+" To stymulant."
 "...Barbiturate overdoses are also reported to cause erratic behavior."
-
+"...Także odnotowano, że przedawkowanie barbituranu powoduje nieprawidłowe zachowanie."
 " That's a sleep aid.\""
-
+" To jest środek nasenny.\""
 "\"There were no signs of stimulants."
-
+"\"Nie było śladów stymulantów."
 " Are there any other possibilities?\""
-
+" Czy są jakieś inne mozliwości?\""
 "\"All I can think of is that it's some sort of illness."
-
+"\"Wszystko, co mogę wymyśleć, to to, że jest to jakiegoś rodzaju choroba."
 "Something like Graves' disease, which affects the thyroid, and is known to cause symptoms that resemble bipolar disorder."
-
+"Coś jak choroba Gravesa-Basedowa, która wpływa na tarczycę, i wiadomo, że powoduje symptomy, które przypominają zaburzenie afektywno dwubiegunowe."
 " But Graves' disease has many characteristic symptoms of its own."
-
+" Ale choroba Gravesa-Basedowa ma dużo charakterystycznych własnych objawów."
 " The deceased exhibited none of them.\""
-
+" Zmarły nie ukazał żadnej z nich.\""
 "\"I wonder, is there something that could happen more spontaneously?"
-
+"\"Zastanawiam się, czy jest coś, co mogło zdarzyć się bardziej spontanicznie?"
 " Something that fits this case and would cause someone to want to commit suicide all of a sudden.\""
-
+" Coś co pasuje do tej sprawy i mogło spowodować, że ktoś chce popełnić samobójstwo niespodziewanie.\""
 "\"Are you familiar with organic mental disorders?"
-
+"\"Czy znasz organiczne zaburzenia psychiczne?"
 "In short, it's a condition where the brain is out of whack due to physical injury or illness."
-
+"W skrócie, jest to stan, w którym mózg jest niesprawny z powodu fizycznego urazu lub choroby."
 " It can be caused by drugs, but it can also be caused by physical trauma, encephalitis, a stroke, or even tumors.\""
-
+" Może być spowodowane przez leki, ale może także być spowodowane przez uraz fizyczny, zapalenie mózgu, czy nawet nowotwór.\""
 "\"Basically, even without a drug, one can succumb to an irregular mental state.\""
-
+"\"W zasadzie, nawet bez narkotyku, ktoś może ulec nieprawidłowemu stonowi psychicznemu.\""
 "\"The deceased was surrounded after being chased, and his life was in danger, right?"
-
+"\"Zmarły był otoczony po byciu ściganym i jego życie było w niebezpieczeństwie, prawda?"
 "All that stress could have messed with his brain chemistry, he could have hit his head, and those factors combined might have caused him to mutilate himself. It's a possibility.\""
-
+"Cały ten stres mógł naruszyć jego chemię w mózgu, mógł uderzyć się w głowę i te połączone czynniki mogły spowodować u niego, że rozszarpał siebie. To jest mozliwe.\""
 "\"...Could you explain it to me in simpler terms...?\""
-
+"\"...Czy mógłbyś wyjaśnić to mi w prostszych słowach...?\""
 "\"Bwah ha ha!"
-
+"\"Bwah ha ha!"
 " Basically, he knocked his noggin in the brawl and that made him go haywire.\""
-
+" W zasadzie, przewróciło mu się w łepetynie w czasie bójki i to sprawiło, że oszalał.\""
 "\"Nahahahahahahah!!!"
-
+"\"Nahahahahahahah!!!"
 " Then his lady didn't have any intent to kill."
-
+" Zatem jego panna nie miała zamiary zabijać." 
 " Just smacked him in a bad place when he nicked some change!\""
-
+" Tylko uderzono go w złe miejsce, kiedy dokonywał wymian!\""
 "The two plump men laughed hoarsely."
-
+"Dwaj pulchni ludzie zaśmiali się ochryple."
 "\"...But of course, it's not like that.\""
-
+"\"...Ale oczywiście, to nie jest tak.\""
 "\"Ahem."
-
+"\"Ahem."
 " Undoubtedly...\""
-
+" Niewątpliwie...\""
 "\"If it was habitual drug use, if it was something mental, the deceased's body holds the key."
-
+"\"Jeśli było to zwykłe zażycie narkotyków, jeśli było to coś psychicznego, ciało zmarłego trzyma klucz."
 " How are things on your end?\""
-
+" Jak sprawy z waszej strony?\""
 "\"Oh my goodness, look at the time!"
-
+"\"O mój Boże, patrz na czas!"
 " I need to get back soon or Kuma-chan will get angry with me.\""
-
+" Muszę szybko wrócić lub Kuma-chan zezłości się na mnie.\""
 "\"Yeah!"
-
+"\"Tak!"
 " Good luck!"
-
+" Powodzenia!"
 " Best wishes!\""
-
+" Wszystkiego dobrego!\""
 "\"Best wishes!\""
-
+"\"Wszystkiego dobrego!\""
