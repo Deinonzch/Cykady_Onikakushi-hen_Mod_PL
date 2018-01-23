@@ -1,0 +1,522 @@
+﻿void main()
+{
+
+//■脅迫
+
+//*Sub_Tips_017
+//gosub *tip_s
+	EnableJumpingOfReturnIcon();
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	DrawScene( "bg_192", 1000 );
+	PlayBGM( 1, "msys12", 128, 0 );
+	DrawBustshotWithFiltering( 3, "oi_si_de_a1", "right", 1, 160, 0, FALSE, 0, 0, 0, 0, 0, 20, 300, TRUE );
+
+//「......おんやぁ＠　今の皆さんは確か...。＠
+	OutputLine(NULL, "「……おんやぁ？",
+		   NULL, "\"...Herm?", Line_WaitForInput);
+	OutputLine(NULL, "　今の皆さんは確か…。」",
+		   NULL, " Ci goscie sprzed chwili...\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「議員バッヂが二人いたっすね。＠
+	OutputLine(NULL, "「議員バッヂが二人いたっすね。」",
+		   NULL, "\"Mieli odznaki ze Zgromadzenia Narodowego.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「じゃー、県議と市議の園崎だ。＠
+	OutputLine(NULL, "「じゃー、県議と市議の園崎だ。」",
+		   NULL, "\"Więc jest to członek zgromadzenia prefekturalnego i radny miasta Sonozaki.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「面白いっすね＠親戚同士で県議と市議やってんすか。￥
+	OutputLine(NULL, "「面白いっすね。",
+		   NULL, "\"To interesujące.", Line_WaitForInput);
+	OutputLine(NULL, "親戚同士で県議と市議やってんすか。」",
+		   NULL, " Członek zgromadzenia prefekturalnego i radny miasta są sprokrewnieni.\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 3, "oi_si_wa_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+//「これがズルイんですよ＠お互いの名前で事前運動バンバン＠片方の選挙中にはもう片方が別に講演会を開いて、二重に選挙運動やってんですよ＠堂々と。＠
+	OutputLine(NULL, "「これがズルイんですよ。",
+		   NULL, "\"To brudy, czymkolwiek to jest.", Line_WaitForInput);
+	OutputLine(NULL, "お互いの名前で事前運動バンバン。",
+		   NULL, " Wykrzykując wzajemnie swoje imona podczas wyborów.", Line_WaitForInput);
+	OutputLine(NULL, "片方の選挙中にはもう片方が別に講演会を開いて、二重に選挙運動やってんですよ。",
+		   NULL, " Podczas gdy jeden startuje w wyborach, drugi chwyta się za zgromadzenie i podwajają swoje działania w kampani.", Line_WaitForInput);
+	OutputLine(NULL, "堂々と。」",
+		   NULL, " Bezwstydni.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「よくわかんないんすけど、それって公選法違反じゃないんすか？＠
+	OutputLine(NULL, "「よくわかんないんすけど、それって公選法違反じゃないんすか？」",
+		   NULL, "\"Nie wiem za wiele o tych sprawach, ale czy to nie jest przeciwko regułom wyborów?\"" , Line_Normal);
+	ClearMessage();
+//＠をページ送りに変更
+
+
+//「事前運動にならない限り、政治活動は無制限ですからねぇ＠...熊ちゃん、そんなんじゃ選対本部付きになった時、大変ですよぅ＠　公選法くらいは勉強して下さい。＠
+	OutputLine(NULL, "「事前運動にならない限り、政治活動は無制限ですからねぇ。",
+		   NULL, "\"Tak długo jak nie mają wcześniej konsultacji, nie ma ograniczeń w ich działalność polityczną.", Line_WaitForInput);
+	OutputLine(NULL, "…熊ちゃん、そんなんじゃ選対本部付きになった時、大変ですよぅ？",
+		   NULL, " Kuma-chan, wydział dochodzeniowy będzie dość ciężki dla ciebie.", Line_WaitForInput);
+	OutputLine(NULL, "　公選法くらいは勉強して下さい。」",
+		   NULL, " Powinieneś przynajmniej popracować nad wyborami.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「俺、知能犯課は無理っす＠バカですから。えっへっへっへ...！￥
+	OutputLine(NULL, "「俺、知能犯課は無理っす。",
+		   NULL, "\"Nie nadaję się do wydziały wywiadu.", Line_WaitForInput);
+	OutputLine(NULL, "バカですから。えっへっへっへ…！」",
+		   NULL, " Ponieważ jestem głupi. Heheheh...!\"", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 3, "oi_si_de_a1", 160, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 20, 200, TRUE );
+
+
+//　いたのは園崎県議と園崎市議＠
+	OutputLine(NULL, "　いたのは園崎県議と園崎市議。",
+		   NULL, "Był tam członek zgromadzenia prefekturalnego i radny miasta Sonozaki.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　それから...雛見沢の村長もいたな＠
+	OutputLine(NULL, "　それから…雛見沢の村長もいたな。",
+		   NULL, "Także... Burmistrz Hinamizawy.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　......どいつもこいつも園崎家の息のかかった連中か＠...面白くないですねぇ￥
+	OutputLine(NULL, "　……どいつもこいつも園崎家の息のかかった連中か。",
+		   NULL, "...Wszyscy związani z rodziną Sonozaki.", Line_WaitForInput);
+	OutputLine(NULL, "…面白くないですねぇ。",
+		   NULL, " Co za bzudry...", Line_Normal);
+	ClearMessage();
+
+//「お見送りしてんのは...副署長とうちの課長っすね。＠
+	OutputLine(NULL, "「お見送りしてんのは…副署長とうちの課長っすね。」",
+		   NULL, "\"Wyglada na to, że zostali zauważeni przez... szefa departamentu i zastępce szefa.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　ピーンと来る＠
+	OutputLine(NULL, "　ピーンと来る。",
+		   NULL, "Dotarło do mnie.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+	DisableWindow();
+	FadeOutBGM( 1, 1000, TRUE );
+	FadeOutBGM( 2, 1000, TRUE );
+	DrawScene( "black", 1000 );
+
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　その日の夜、おでんを食いに行かないかと課長に誘われた時、やっぱりなぁと思った￥
+	OutputLine(NULL, "　その日の夜、おでんを食いに行かないかと課長に誘われた時、やっぱりなぁと思った。",
+		   NULL, "Tej nocy, kiedy szef zaprosił mnie na oden, myślałem, że to koniec.", Line_Normal);
+	ClearMessage();
+
+////setwindow 31,16,22,16,26,26,0,2,20,1,1,#ffffff,0,0,639,479
+	DisableWindow();
+	DrawScene( "bg_237", 400 );
+	PlayBGM( 2, "lsys20", 128, 0 );
+	Wait( 2000 );
+//setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
+//!sd
+
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	PlayBGM( 1, "msys13", 128, 0 );
+	DrawSceneWithMask( "bg_147", "up", 0, 0, 1300 );
+
+//「大石さんは友達多いから聞いてるかもしれないけど!w1000......聞いてるかな？＠
+	OutputLine(NULL, "「大石さんは友達多いから聞いてるかもしれないけど",
+		   NULL, "\"Masz mnóstwo znajomości, więc może słyszałeś coś...", Line_ContinueAfterTyping);
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+
+
+	OutputLine(NULL, "……聞いてるかな？」",
+		   NULL, " Czyż nie?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「いいえ＠何も。＠
+	OutputLine(NULL, "「いいえ。",
+		   NULL, "\"Nie.", Line_WaitForInput);
+	OutputLine(NULL, "何も。」",
+		   NULL, " Nic takiego.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「お母さん、ガンモにはんぺん頼みます＠......署長んとこに議員の怒鳴り込みがあったんだよ。＠
+	OutputLine(NULL, "「お母さん、ガンモにはんぺん頼みます。",
+		   NULL, "\"Proszę pani, wezmę tofu w cieście i rybie ciastka.", Line_WaitForInput);
+	OutputLine(NULL, "……署長んとこに議員の怒鳴り込みがあったんだよ。」",
+		   NULL, " Radny warknął na mnie zamiast szefa policji.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「あれま。そうなんですか＠...お母さん、私にもう一杯下さい。￥
+	OutputLine(NULL, "「あれま。そうなんですか。",
+		   NULL, "\"Och, Boziu. Naprawdę?", Line_WaitForInput);
+	OutputLine(NULL, "…お母さん、私にもう一杯下さい。」",
+		   NULL, " Proszę pani, wezmę kolejną miskę.\"", Line_Normal);
+	ClearMessage();
+
+//　園崎は県議も市議も恫喝タイプだ＠
+	OutputLine(NULL, "　園崎は県議も市議も恫喝タイプだ。",
+		   NULL, "Członek zgromadzenia prefekturalnego Sonozaki i radny miasta Sonozaki, obaj byli przerażający.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　あんなヤクザと政治家のぎりぎりみたいなのに怒鳴りつけられたら、キャリアのハナタレ若署長にはキツイでしょうねぇ...￥
+	OutputLine(NULL, "　あんなヤクザと政治家のぎりぎりみたいなのに怒鳴りつけられたら、キャリアのハナタレ若署長にはキツイでしょうねぇ…。",
+		   NULL, "Nasz zasmarkany karierą szef policji nie mógł nawet poradzić sobie z byciem skrzyczanym przez nich. Są jak yakuza...", Line_Normal);
+	ClearMessage();
+
+//「雛見沢事件の捜査の仕方で、君を指名して陳情してきたよ。＠
+	OutputLine(NULL, "「雛見沢事件の捜査の仕方で、君を指名して陳情してきたよ。」",
+		   NULL, "\"Pojawiła się petycja z twoim imieniem, dotycząca sposobu prowadzenia śledztwa incydentu Hinamizawy.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「ありゃ私＠　はてはて。＠
+	OutputLine(NULL, "「ありゃ私？",
+		   NULL, "\"Na Boga, ja?", Line_WaitForInput);
+	OutputLine(NULL, "　はてはて。」",
+		   NULL, " Nie mam pojecia.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「とぼけるなよ＠例の雛見沢の、過去の事件＠蒸し返してるだろ。￥
+	OutputLine(NULL, "「とぼけるなよ。",
+		   NULL, "\"Nie musisz zgrywać głupka.", Line_WaitForInput);
+	OutputLine(NULL, "例の雛見沢の、過去の事件。",
+		   NULL, " Otwierasz ponownie poprzednie sprawy dotyczące Hinamizawy,, Line_WaitForInput);
+	OutputLine(NULL, "蒸し返してるだろ。」",
+		   NULL, " czyż nie?\"", Line_Normal);
+	ClearMessage();
+
+//「私、富竹殺しで手一杯でそんな余裕ないですよ＠　なっはっはっは！＠
+	OutputLine(NULL, "「私、富竹殺しで手一杯でそんな余裕ないですよ？",
+		   NULL, "\"Właściewie, już mam ręce pełne roboty ze śmiercią Tomitake.", Line_WaitForInput);
+	OutputLine(NULL, "　なっはっはっは！」",
+		   NULL, " Nahahaha!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「本当に＠　本当にそうならいいんだけどさ...。￥
+	OutputLine(NULL, "「本当に？",
+		   NULL, "\"Naprawdę?", Line_WaitForInput);
+	OutputLine(NULL, "　本当にそうならいいんだけどさ…。」",
+		   NULL, " Jeśli to prawda, wtedy nie ma prblemi...\"", Line_Normal);
+	ClearMessage();
+
+//　しばしの沈黙＠
+	OutputLine(NULL, "　しばしの沈黙。",
+		   NULL, "Była chwila ciszy.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　お互い黙ってもくもくと箸を進めビールを飲み干す￥
+	OutputLine(NULL, "　お互い黙ってもくもくと箸を進めビールを飲み干す。",
+		   NULL, "Kiedy milczeliśmy, zrobilismy postępy w naszym jedzeniu i piciu.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	DrawScene( "bg_237", 1000 );
+
+//「いやぁご馳走になっちゃいました＠今月は負けっぱなしだったんで財布辛かったんですよ＠助かりました。＠
+	OutputLine(NULL, "「いやぁご馳走になっちゃいました。",
+		   NULL, "\"Fiu, to była prawdziwa uczta.", Line_WaitForInput);
+	OutputLine(NULL, "今月は負けっぱなしだったんで財布辛かったんですよ。",
+		   NULL, " Ten miesiąc jest wiązką porażek dla mnie, więc mój portfel świeci pustkami.", Line_WaitForInput);
+	OutputLine(NULL, "助かりました。」",
+		   NULL, " Doceniam to.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「いやいいよ＠また馬、教えてよ＠大石さんと同じ馬を買うから。＠
+	OutputLine(NULL, "「いやいいよ。",
+		   NULL, "\"Nah, to nic takiego.", Line_WaitForInput);
+	OutputLine(NULL, "また馬、教えてよ。",
+		   NULL, " Powiedz mi znowu dobrego konia.", Line_WaitForInput);
+	OutputLine(NULL, "大石さんと同じ馬を買うから。」",
+		   NULL, " Założę się na tego samego co ty.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「なっはっはっは＠　最近はダメです＠馬の声がさっぱりですから！!w1500　...タクシー！！！￥
+	OutputLine(NULL, "「なっはっはっは！",
+		   NULL, "\"Nahahahah!", Line_WaitForInput);
+	OutputLine(NULL, "　最近はダメです。",
+		   NULL, " Ostatno nie radziłem sobie z tym dobrze.", Line_WaitForInput);
+	OutputLine(NULL, "馬の声がさっぱりですから！",
+		   NULL, " W ogóle nie mogłem wyczytać koni!", Line_ContinueAfterTyping);
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+
+	OutputLine(NULL, "　…タクシー！！！」",
+		   NULL, " ...Taxi!!!\"", Line_Normal);
+	ClearMessage();
+
+//　私は電車＠
+	OutputLine(NULL, "　私は電車。",
+		   NULL, "Jadę pociągiem.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　課長はハイヤー＠
+	OutputLine(NULL, "　課長はハイヤー。",
+		   NULL, "Szef policji bierze taksówkę.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　自家用車は辛いですねぇ＠退職前にして飲酒運転でパーってわけには行きませんから＠
+	OutputLine(NULL, "　自家用車は辛いですねぇ。",
+		   NULL, "Ja mam mój własny samochód, ale byłoby nie rozważne pojechać nim do domu.", Line_WaitForInput);
+	OutputLine(NULL, "退職前にして飲酒運転でパーってわけには行きませんから。",
+		   NULL, " Nie mogę teraz schrzanić przed przejściem na emeryturę z jazdą pod wplywem alkocholu.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　舌はよく回っても、課長の腰から下はもうすっかり砕けている様子＠
+	OutputLine(NULL, "　舌はよく回っても、課長の腰から下はもうすっかり砕けている様子。",
+		   NULL, "Mimo że nadal mógł recytować, wyglądał, jakby jego nogi były już zwiodczałe.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　タクシーに押し込み、課長の自宅の住所を伝える￥
+	OutputLine(NULL, "　タクシーに押し込み、課長の自宅の住所を伝える。",
+		   NULL, "Wpychając ho do taksówki, dałem kierowcy adres szefa policji.", Line_Normal);
+	ClearMessage();
+
+//「ではではまた明日＠よいお年を...！＠
+	OutputLine(NULL, "「ではではまた明日。",
+		   NULL, "\"Cóż, widzimy się jutro ponownie.", Line_WaitForInput);
+	OutputLine(NULL, "よいお年を…！」",
+		   NULL, " Szczęśliwego Nowego Roku...!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「大石さん。＠
+	OutputLine(NULL, "「大石さん。」",
+		   NULL, "\"Ooishi-san.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「はいはい。￥
+	OutputLine(NULL, "「はいはい。」",
+		   NULL, "\"Tak, tak.\"", Line_Normal);
+	ClearMessage();
+
+//「過去の事件は全部個別に終わってる＠縦に並べるのはやめるんだよ＠村の連中は半ば本気で祟りを信じてるんだから。＠
+	OutputLine(NULL, "「過去の事件は全部個別に終わってる。",
+		   NULL, "\"Przeszłe incydenty zostały wszystkie zamkniete.", Line_WaitForInput);
+	OutputLine(NULL, "縦に並べるのはやめるんだよ。",
+		   NULL, " Przestań je wrzucać do jednego wora.", Line_WaitForInput);
+	OutputLine(NULL, "村の連中は半ば本気で祟りを信じてるんだから。」",
+		   NULL, " Ci mieszkańcy prawie wierzą, że to naprawdę klątwa.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「私だって祟りなんか信じちゃいませんよ。￥
+	OutputLine(NULL, "「私だって祟りなんか信じちゃいませんよ。」",
+		   NULL, "\"Cóż, nie jetem przekonany.\"", Line_Normal);
+	ClearMessage();
+
+//「大石さんは来年で退職じゃないですか＠
+	OutputLine(NULL, "「大石さんは来年で退職じゃないですか。",
+		   NULL, "\"Przechodzisz na emeryturę następnego roku, prawda?", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　退職金でローン返して、お母さんと北海道に引っ越すんじゃなかったっけ？＠
+	OutputLine(NULL, "　退職金でローン返して、お母さんと北海道に引っ越すんじゃなかったっけ？」",
+		   NULL, "Czy nie zamierzałeś spłacić twojej hipoteki z twojej renty i przenieść się do Hokkaido z twoją mamą?\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「婆さまがどうしても生まれの北海道に帰りたいって泣くんですよ...＠最後のご奉公なんです＠退職金は、まぁススキノで楽しむことにします＠なっはっはっは！！￥
+	OutputLine(NULL, "「婆さまがどうしても生まれの北海道に帰りたいって泣くんですよ…。",
+		   NULL, "\"Matka tęskni do powrotu do ziemi swoich narodzin...", Line_WaitForInput);
+	OutputLine(NULL, "最後のご奉公なんです。",
+		   NULL, " Przynajmniej tylę mogę zrobić.", Line_WaitForInput);
+	OutputLine(NULL, "退職金は、まぁススキノで楽しむことにします。",
+		   NULL, " I renta, cóż, pozwoli mi się dobrze bawić w Susukino.", Line_WaitForInput);
+	OutputLine(NULL, "なっはっはっは！！」",
+		   NULL, " Nahahahah!!\"", Line_Normal);
+	ClearMessage();
+
+//「署長は退職時特別昇給を見直すかもってさ。￥
+	OutputLine(NULL, "「署長は退職時特別昇給を見直すかもってさ。」",
+		   NULL, "\"Szef policji może wydać specjalne podwyżki wynagrodzenie emerytalnego, mówi.\"", Line_Normal);
+	ClearMessage();
+
+//　官公署の退職金は、退職時の月給を掛け算して算出する＠
+	OutputLine(NULL, "　官公署の退職金は、退職時の月給を掛け算して算出する。",
+		   NULL, "Wielkość emerytury urzędnika państwowego jest obliczana na bazie jego miesięcznego wynagrodzenia.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　そこで、退職直前に特別昇格で二号給（２年分）給料を昇給させることによって＠退職金を水増しするなんてことが、この辺の地方では慣習で行なわれている＠
+	OutputLine(NULL, "　そこで、退職直前に特別昇格で二号給（２年分）給料を昇給させることによって、",
+		   NULL, "Więc jeśli dostałbyś podwyżkę tuż przed emeryturą, twój dodatek (dwuletnia pensja) wyśrubowałby,", Line_WaitForInput);
+	OutputLine(NULL, "退職金を水増しするなんてことが、この辺の地方では慣習で行なわれている。",
+		   NULL, " i dostałbyś mocną nadwyżkę funduszy. Zawzwyczaj tak się robi tutaj w okolicy.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　もちろん、あまり褒められた慣習じゃないんですが...＠
+	OutputLine(NULL, "　もちろん、あまり褒められた慣習じゃないんですが…。",
+		   NULL, "Oczywiście, nie jest to zwyczaj dobrze oceniany...", Line_WaitForInput);
+	OutputLineAll(NULL, "\n\n", Line_ContinueAfterTyping);
+
+
+//　ちなみに二号給違うと退職金の額はかなり違う￥
+	OutputLine(NULL, "　ちなみに二号給違うと退職金の額はかなり違う。",
+		   NULL, "Różnica między bonusem i pensją jest całkiem spora.", Line_Normal);
+	ClearMessage();
+
+//「さすがインテリの若署長は言い出すことが模範的です＠...でもまぁ＠私たちの給料が血税で支払われてることを思えば、まぁ時代の流れですかねぇ。＠
+	OutputLine(NULL, "「さすがインテリの若署長は言い出すことが模範的です。",
+		   NULL, "\"Nieoczekiwałem nieczego mniej wzorowego od naszego jajogłowego szefa.", Line_WaitForInput);
+	OutputLine(NULL, "…でもまぁ。",
+		   NULL, " Ale... cóż...", Line_WaitForInput);
+	OutputLine(NULL, "私たちの給料が血税で支払われてることを思えば、まぁ時代の流れですかねぇ。」",
+		   NULL, " Mówi się, że nasza pensja jest rekompensatą naszej ciężkiej pracy, ale ostatecznie, tak naprawdę ma związek z mijającym czasem.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　本当はすごく笑えないのだが、取り合えず笑い飛ばしておく￥
+	OutputLine(NULL, "　本当はすごく笑えないのだが、取り合えず笑い飛ばしておく。",
+		   NULL, "To nie coś, z czego mogę się smiać, ale i tak będę się z tego śmiać.", Line_Normal);
+	ClearMessage();
+
+//「僕も模範的な事とは思わないよ＠でもまぁ、大石さんはそれだけの退職金をもらってもおかしくない活躍をしてきたからさ＠僕としてはぜひもらって欲しいんだよ。＠
+	OutputLine(NULL, "「僕も模範的な事とは思わないよ。",
+		   NULL, "\"Nie uważam, że to coś przykładnego.", Line_WaitForInput);
+	OutputLine(NULL, "でもまぁ、大石さんはそれだけの退職金をもらってもおかしくない活躍をしてきたからさ。",
+		   NULL, " Ale biorąc pod uwagę, jak cięzko pracowałeś, nie jest dziwne, że dostajesz tak dużą emeryturę.", Line_WaitForInput);
+	OutputLine(NULL, "僕としてはぜひもらって欲しいんだよ。」",
+		   NULL, " Sam chciałbym tak dużo dostać.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「もらえるもんなら、そりゃー欲しいですけどね＠...なっはっはっは！＠
+	OutputLine(NULL, "「もらえるもんなら、そりゃー欲しいですけどね。",
+		   NULL, "\"Jeśli mógłbym to dostać, cóż, oczywisćie chciałbym to.", Line_WaitForInput);
+	OutputLine(NULL, "…なっはっはっは！」",
+		   NULL, " Nahahahah!\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//「もらえるよ＠大石さんが大人なら。￥
+	OutputLine(NULL, "「もらえるよ。",
+		   NULL, "\"Dostaniesz.", Line_WaitForInput);
+	OutputLine(NULL, "大石さんが大人なら。」",
+		   NULL, " Mimo wszystko jesteś dorosły.\"", Line_Normal);
+	ClearMessage();
+
+//「運転手さん、引き止めてすみませんね＠お願いします。＠
+	OutputLine(NULL, "「運転手さん、引き止めてすみませんね。",
+		   NULL, "\"Przepraszam za przetrzymanie cię tutaj, Kierowco.", Line_WaitForInput);
+	OutputLine(NULL, "お願いします。」",
+		   NULL, " Dziękuję ci bardzo.\"", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　威勢良くドアを閉め、課長の会話を少し乱暴に遮る＠
+	OutputLine(NULL, "　威勢良くドアを閉め、課長の会話を少し乱暴に遮る。",
+		   NULL, "Z grubsza zamknąłem drzwi, przerywając rozmowę z szefę trochę niegrzecznie.", Line_WaitForInput);
+	OutputLineAll(NULL, "\n", Line_ContinueAfterTyping);
+
+
+
+//　課長はまだ何か言いたげだったが、苦笑すると手を振った。こちらも手を振って応える￥
+	OutputLine(NULL, "　課長はまだ何か言いたげだったが、苦笑すると手を振った。こちらも手を振って応える。",
+		   NULL, "Wyglądało, że szef wciąż chciał coś powiedzieć, ale tylko uśmiechnął się cierpko i pomachał. Pomachałem w odpowiedzi.", Line_Normal);
+	ClearMessage();
+
+//　タクシーは徐々に加速し、すぐに光の川に飲み込まれていった￥
+	OutputLine(NULL, "　タクシーは徐々に加速し、すぐに光の川に飲み込まれていった。",
+		   NULL, "Taksówka przyspieszała stopniowo i wkrótce znikneła wśród moża świateł.", Line_Normal);
+	ClearMessage();
+	DisableWindow();
+	DrawBustshot( 2, "oi_si_de_a1", 0, 0, 0, FALSE, 0, 0, 0, 0, 0, 0, 0, 10, 400, TRUE );
+
+//「なっはっはっは！!w1000......まいったな＠ローン返済できるかなぁ...。＠
+	OutputLine(NULL, "「なっはっはっは！",
+		   NULL, "\"Nahahahah!", Line_ContinueAfterTyping);
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+
+	OutputLine(NULL, "……まいったな。",
+		   NULL, " ...Och, kurka...", Line_WaitForInput);
+	OutputLine(NULL, "ローン返済できるかなぁ…。」",
+		   NULL, " Zastanawiam sie, czy naprawdę mogę spłacić tę pożyczkę...\"", Line_Normal);
+	ClearMessage();
+
+	SetValidityOfInput( FALSE );
+	Wait( 1000 );
+	SetValidityOfInput( TRUE );
+	DisableWindow();
+	DrawScene( "black", 1000 );
+	FadeOutBGM( 0, 1000, FALSE );
+	FadeOutBGM( 1, 1000, FALSE );
+	FadeOutBGM( 2, 1000, TRUE );
+//gosub *tip_e
+//return
+
+
+}
