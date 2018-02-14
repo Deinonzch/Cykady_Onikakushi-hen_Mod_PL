@@ -1173,7 +1173,7 @@
 "\"...Y... Yeah...\""
 "\"...T... Tak...\""
 "\"...I'd 'hate it' if you missed school tomorrow, alright?\""
-"\"...'Nie zniosłambym', jeśli opuściłbyś szkołę jutro, dobra?\""
+"\"...'Nie 'zniosłambym', jeśli opuściłbyś szkołę jutro, dobra?\""
 "Thud."
 "Łomot."
 "...The door closed."

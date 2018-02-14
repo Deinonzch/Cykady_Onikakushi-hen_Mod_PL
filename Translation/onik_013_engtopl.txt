@@ -1,1364 +1,1364 @@
 "*Tap*"
-
+"*Tup*"
 " *Tap*"
-
+" *Tup*"
 " *Tap*"
-
+" *Tup*"
 "The sound of muffled footsteps stopped in front of the door to my room."
-
+"Dźwięk przytłumionych kroków zatrzymał sie przed drzwiami do mojego pokoju."
 "A moment of silence... as if whomever they belonged to was ascertaining if I was inside."
-
+"Chwila ciszy... jakby ktoś do kogo należały, sprawdzał, czy byłem w środu."
 "...Of all the things I should have been doing, I continued on with my restless slumber."
-
+"...Ze wszystkich rzeczy, których powinienem był zrobić, kontynuowałem mój niespokojny sen."
 "I was very much conscious, but my body hadn't caught up yet."
-
+"Byłem bardzo świadomy, ale mojego ciało jeszcze nie dosięgło."
 "...Even with danger bearing down on me from just beyond the door..."
-
+"...Nawet gdy niebezpieczenstwo zbliżyło się do mnie zza drzwi..."
 " It was as if I was completely paralyzed, unable to move."
-
+" To było tak, jakbym był całkowicie sparalizowany, niezdolny do ruchu."
 "...Without a doubt, this was sheer terror."
-
+"...Bez wątpliwości, to był czysty terror."
 "Please... just leave..."
-
+"Proszę... wyjdź..."
 "Hey, why isn't my body awake yet?"
-
+"Hej, dlaczego moje ciao jeszcze się nie obudzilo?"
 " If they came into my room right now... then...!!"
-
+" Jeśli wejdzie do mojego pokoju teraz... wtedy...!!"
 "\"UwaAaAaAaAAaH!!!!\""
-
+"\"UwaAaAaAaAAaH!!!!\""
 "\"Eek!?\""
-
+"\"Eek!?\""
 "I sprung to my feet and threw my covers at my mom, who was opening the door!!"
-
+"Prędko wstałem i rzuciłem moja kołdrę na moją mamę, która otwierała drzwi!!"
 "\"Whoa!"
-
+"\"Whoa!"
 " Keiichi!?"
-
+" Keiichi!?"
 " What's the matter?\""
-
+" Co się stało?\""
 "\"Ah... Ahh... sorry."
-
+"\"Ach... Achh... przepraszam."
 " ...I was still half-asleep...\""
-
+" ...Byłem wciąż pół przytomny...\""
 "I thought it was still 1 or 2 AM."
-
+"Myślałem, że wciąż była 1 lub 2 w nocy."
 "But the morning sun was already streaming through the gap between the curtains."
-
+"Ale poranne słońce już świeciło przez szparę między zasłonami."
 "...It felt nothing like morning."
-
+"...Nie czułem, że było rano."
 "Yesterday... I must have fallen asleep right after that."
-
+"Wczoraj... musiałem zasnąć zaraz po tym."
 "...Then I should have gotten a full 10 hours of rest..."
-
+"...Zatem powinienem mieć pełne 10 godzin odpoczynku..."
 "...But it didn't feel like that at all."
-
+"...Ale nie czułem się tak w ogóle."
 "My internal clock was completely screwed up and my sense of balance felt off."
-
+"Mój wewnętrzny zegar był całkowicie rozwalony, a moje poczucie rownowagi dziwne."
 "I felt feverish enough that it was clear to me that I was still not well."
-
+"Czułem gorączkę na tyle, że było jasne dla mnie, że wciąż nie czułem sie dobrze."
 "\"...Well, Keiichi?"
-
+"\"...Cóż, Keiichi?"
 " How are you feeling?"
-
+" Jak się czujesz?"
 " Can you make it to school?\""
-
+" Czy możesz iść do szkoły?\""
 "...I was well enough to go..."
-
+"...Byłem zdrowy na tyle, żeby iść..."
 " but I wasn't mentally prepared for it."
-
+" ale nie byłem mentalnie przygotowany na to."
 "I was still plagued with the terror from yesterday..."
-
+"Nadal byłem nekany przez terror z wczoraj..."
 "If I had... swallowed that needle... what would have happened...?"
-
+"Gdybym... połknął tę igłę... co by sie stało...?"
 "Or what if it had pierced my tongue...?"
-
+"A jeśli przebilo mi język...?"
 "There was undoubtedly a murderous intent... but I don't think that's all it was."
-
+"Niewątpliwie był to zamiar morderstwa... ale nie sądzę, że to było wszystko."
 "If they really wanted to kill me, then there were other, more certain ways to do it."
-
+"Jeśli naprawdę chciałyby mnie zabić, wtedy były inne, bardziej pewne drogi do tego."
 " They wouldn't resort to such a dubious method as having me swallow a needle."
-
+" Nie uciekłyby się do tak nie pewnej metody jak zmuszenie mnie do połkniecia igły."
 "...Meaning... I didn't want to believe it, but..."
-
+"...Oznacza to... Nie chciałem wierzyć w to, ale..."
 " going that far was... just a threat... from Rena and Mion."
-
+" posunięcie się tak daleko było... po prostu groźbą... od Reny i Mion."
 "'Aren't you glad you didn't die...? But next time we'll use a more assured method...'"
-
+"'Czy nie cieszysz się, że nie zginąłeś...? Ale następnym razem użyjemy bardziej pewnej metody...'"
 "Like that."
-
+"Coś takiego."
 "Something like sending a letter with a razor inside would have been a joke compared to this."
-
+"Coś jak wysłanie listu z żyletką wewnątrz byłoby żartem w porównaniu do tego."
 "\"...Did you make it to the hospital?"
-
+"\"...Czy poszedłeś do szpitala?"
 " Did you take your medicine?\""
-
+" Czy wziąłeś swoje lekarstwa?\""
 "\"Mm... yeah. Kinda...\""
-
+"\"Mm... tak. Chyba...\""
 "Something about my mom's dubious gaze bothered me."
-
+"Coś w podejrzliwym spojrzeniu mojej mamy niepokoiło mnie."
 "She seemed more concerned about her son missing two days of school rather than him being sick."
-
+"Wydawała się bardziej zaniepokojona tym, że jej syn opuszca dwa dni szkoły, zamiast jego choroby."
 "...It was definitely mental fatigue... I wasn't really physically ill."
-
+"...To z całą pewnością zmęczenie psychiczne... Nie bylem naprawdę chory fizycznie."
 "\"It'll be hard for you to get back on track once your daily routine is thrown off."
-
+"\"Trudno będzie ci wrócić do normy, kiedy twoja dzienna rutyna jest zachwiana."
 " Come on, get on up!"
-
+" No dalej, wstawaj!"
 " They say wellness is a state of mind.\""
-
+" Mówią, że zdrowie to stan umysły.\""
 "I'd heard that line many times before."
-
+"Słyszałem tę kwestę już wiele razy."
 "I was given an award in elementary school for having perfect attendance... but it wasn't like I was \"healthier\" than everyone."
-
+"Otrzymałem nagrodę za wzorową frekwencję w podstawówce... ale to nie było tak, że byłem \"zdrowszy\" od innych."
 "\"Come on, go wash your face."
-
+"\"No dalej, idź umyj twarz."
 " Breakfast is already ready."
-
+" Śniadanie jest już gotowe."
 " ...There isn't much time before Rena-chan comes and gets you.\""
-
+" ...Nie ma duzo czasu, zanim Rena-chan przyjdzie i zabierze cię.\""
 "Mom's tone meant I couldn't argue about it, so I had to give up on skipping a second day."
-
+"Ton Mamy oznaczał, że nie mogłem się spierać, więc musiałem się poddać z opuszczeniem drugiego dnia."
 "\"By the way... were you the one who got bean paste all over the living room wall, Keiichi?"
-
+"\"Swoją drogą... czy to ty obsmarowałeś pastą z fasoli całą ścianę w salonie, Keiichi?"
 " You shouldn't do something like that!"
-
+" Nie powinieneś robić coś takiego!"
 " Your father was quite angry!\""
-
+" Twój ojciec był całkiem wkurzony!\""
 "...I didn't feel particularly guilty for doing it, so I didn't have much of a reaction."
-
+"...Nie czułem sie za bardzo winny tego, co zrobiłem, więc nie miałem dużej reakcji."
 "Also, Mom didn't question me any further about it."
-
+"Poza tym Mama nie pytała mnie o nic więcej."
 "She headed back downstairs after she was certain I was getting up."
-
+"Skierowała się z powrotem na dół, po upewnieniu się, że wstałem."
 "What Mion said as she left yesterday..."
-
+"Co Mion powiedziała, kiedy wychodziła wczoraj..."
 " \"I'd hate it if you missed school tomorrow...\""
-
+" \"Nie zniosłabym, jeśli opóściłbyś szkołę jutro...\""
 " ...Came back and dwelled in the back of my head."
-
+" ...Powróciło i przykleiło sie to z tyłu mojej głowy."
 "What did she mean by that...?"
-
+"Co miała przez to na myśli...?"
 "I didn't even have to really think about it."
-
+"Nie musiałem nawet poważnie myśleć na tym."
 " ...She was saying, \"don't be absent.\""
-
+" ...Mówiła, \"nie bądź nieobecny.\""
 "Taking that a bit further... It was the same as her saying I should just go about living my life as if nothing happened."
-
+"Idąc z tym trochę dalej... Było to takie samo, jakby mowiła, że powinienem po prostu żyć własnym życiem, jakby nic się nie stało." 
 "If I showed any signs of acting unusual, it would probably result in them making their move."
-
+"Jeśli pokazałbym jakieś odznaki nietypowego zachowania, prawdopodobnie spowodowałby to ich ruch."
 "For example, maybe... I shouldn't pay attention to someone like Ooishi-san enticing me with \"something unusual.\""
-
+"Na przykład, może... nie powinienem zwracać uwagi na kogoś takiego jak Ooishi-san, kuszącym mnie \"czymś niezwykłym.\""
 "Meaning... if I didn't watch my mouth or did anything differently from the norm,"
-
+"Oznacza to... że jeśli nie uważałbym na słowa lub zrobiłbym coś innego od normy,"
 " in effect, it would end up flagging myself as someone who was \"not wanted\"..."
-
+" w rezultacie skończy się to na zwróceniu na mnie uwagi, jako kogoś, kto był \"nie pożądany\"..."
 "And it seems... that was something that the girls didn't intend to forgive."
-
+"I wydaje się... że było to coś, czego dziewczyny nie zamierzały wybaczyć."
 "So..."
-
+"Więc..."
 " if I just went along as normal..."
-
+" jeśli tylko poszedłbym z nimi jak zwykle..."
 " No harm would come to me..."
-
+" Żadna krzywda mi się by nie stała..."
 " Was that how it was going to be...?"
-
+" Czy to tak miałoby być...?"
 "All that misery I experienced up until yesterday would—almost creepily—just fade away... It was an enticing deal."
-
+"Całe te nieszczęscie, którego doświadczyłem aż do wczoraj-większość przerażająca-po prostu zniknie... To była kusząca oferta."
 "Just by forgetting everything I'd seen or heard these last few days... I'd be able to keep living on like normal."
-
+"Tylko zapomnieć wszystko, co widziałem lub słyszałem przez ostatnie kilka dni... I byłbym w stanie dalej życ normalnie."
 "\"Th... There's no way such a"
-
+"\"N... Nie ma mowy, żeby taka"
 "..."
-
+"..."
 " selfish thing could...\""
-
+" samolubna rzecz mogłaby...\""
 "I swallowed hard..."
-
+"Cięzko przełknąłem..."
 "I once again deliberated on the idea that I had just rejected."
-
+"Raz jeszcze rozważałem myśl, którą juz odrzuciłem."
 "Mion... was probably a good person who had her friends at heart."
-
+"Mion... była prawdopodobnie dobrą osobą, która miała swoich przyjaciół w sercu."
 "...She was giving me... who had mistakenly broken some rule of theirs... a chance."
-
+"...Podarowała mi... kto przez pomyłkę złamał jakąś ich zasadę... szansę."
 "Was what I did... really something so unforgivable?"
-
+"Czy to co zrobiłem... naprawdę było czymś tak niewybaczalnym?"
 "But Mion had given me another chance."
-
+"Ale Mion podarowała mi kolejna szansę."
 "...She was saying... if I just forgot everything and kept living on like I had been, I'd be forgiven..."
-
+"...Mówiła... że jeśli po prostu zapomnialbym o wszystkim i żyłbym dalej jak zwykle, zostałoby mi to przebaczone..."
 "\"Keiichi~!"
-
+"\"Keiichi~!"
 " Your food is going to get cold!"
-
+" Twoje jedzenie staje się zimne!"
 " Hurry up and get down here~!"
-
+" Pospiesz się i zejdź tutaj~!"
 " Rena will be here if you don't hurry!\""
-
+" Rena będzie tutaj, jeśli się nie pospieszysz!\""
 "\"Ah... I'm coming!\""
-
+"\"Ach... Idę!\""
 "I crammed my textbooks into my bag and hastily made my way downstairs."
-
+"Wpakowałem moje podręczniki do mojej torby i prędko zszedłem na dół."
 "I picked at my somewhat bland breakfast."
-
+"Zabrałem się za moje nieco mdłe sniadanie."
 "It seemed that I didn't have much time. It was already past when I usually met up with Rena."
-
+"Wygladało na to, że nie miałem za duzo czasu. Już mineła pora, kiedy zazwyczaj spotykałem się z Reną."
 "Given yesterday's events... she'd probably be here in the next five minutes."
-
+"Biorąc pod uwagę wczorajsze wydarzenia... prawdopodobnie będzie tutaj za pięć minut."
 "...I needed to be ready to head to school by then..."
-
+"...Musiałem być gotowy do pójścia do szkoły do tego czasu...
 "I had to forget everything that had happened the past two days..."
-
+"Musiałem zapomnieć wszystko, co wydarzylo sie przez ostatnie dwa dni..."
 "Forget it all and return to my normal life..."
-
+"Zapomnieć to wszystko i powrócić do mojego zwykłego życia..."
 "For this to be normal, I'll have to be where I normally meet up with Rena..."
-
+"Aby to stało się normalne, muszę być tam, gdzie zwykle spotykam się z Reną..."
 "...Today of all days, the rice was dry and hard to get down."
-
+"...Dzisiaj ze wszystkich dni, ryż był suchy i ciężko wchodził."
 "Ding dong!"
-
+"Ding dong!"
 "I jumped at the sound and dropped my chopsticks."
-
+"Podskoczyłem na dźwięk i upuściłem moje pałeczki."
 " ...That chime signaled that Rena had arrived."
-
+" ...Ten dzwonek obwieścił, że Rena przybyła."
 "Mom hurried me along."
-
+"Mama pospieszała mnie z nim."
 "\"Come on, Rena-chan's already here...!"
-
+"\"No dalej, Rena-chan jest już tutaj...!"
 " Hurry, hurry!\""
-
+" Pospiesz się, pospiesz się!\""
 "My mother's merry smile and my gloomy face were polar opposites."
-
+"Radosny usmiech mojej mamy i moja ponura twarz były swoimi przeciwieństwami."
 "Honestly, I was reluctant to see Rena, who was waiting there on the other side of the door."
-
+"Szczerze, nie miałem ochoty widzieć Reny, która czekała tam po drugiej stronie drzwi."
 "...The Rena on the other side... was it the Rena I knew?"
-
+"...Rena po drugiej stronie... czy to była Rena, którą znałem?"
 "I couldn't keep her waiting..."
-
+"Nie mogłem kazać jej czekać..."
 " I needed to do things as usual..."
-
+" Musiałem robić rzeczy jak zwykle..."
 "\"Morning~!\""
-
+"\"Doberek~!\""
 "An invigorating greeting filtered in from across the doorway."
-
+"Orzeźwiające przywitenie przefiltrowało się przez wejście."
 "\"...I came since Keiichi-kun was a bit late... will he be okay today, I wonder? ...I wonder?\""
-
+"\"...Przyszłam, skoro Keiichi-kun był troszkę spóźniony... czy będzie z nim w porządku dzisiaj, zastanawiam się? ...Zastanawiam się?\""
 "The manner in which Rena was concerned was, without a doubt, the Rena I knew."
-
+"Sposób, w jaki Rena była zaniepokojona, był, bez wątpienia, Reny, którą znałem."
 "...But that was probably only if I reciprocated."
-
+"...Ale tak będzie prawdopodobnie tylko, jeśli odwzajamnie to."
 "Forget everything from yesterday... pretend as though nothing had happened..."
-
+"Zapomnieć o wszystkim z wczoraj... udawać, jakby nic się nie wydarzyło..."
 "Forget about the gruesome dismemberment."
-
+"Zapomnieć o makabrycznym rozczłonkowaniu."
 " Forget about the mysterious deaths that happened the following years."
-
+" Zapomnieć o tajemniczych śmierciach, które zdarzyły się w kolejnych latach."
 " ...Forget about the people falling to their death... and the terminal illness and suicide... and the lynching... and the disappearances. Forget it. Forget all of it."
-
+" ...Zapomnieć o ludziach, którzy spadli na śmierć... i śmiertelnej chorobie i samobókstwie... i liczu... i rozczłonkowaniu. Zapomnieć to. Zapomnieć to wszystko."
 "Forget that Rena and Mion were scary. Of course, forget it all."
-
+"Zapomnieć, że Rena i Mion były straszne. Oczywiście, zapomniec to wszystko."
 " Forget about everyone."
-
+" Zapomnieć o wszystkich."
 " Forget about the mochi, too."
-
+" Zapomnieć o mochi, także."
 " Forgetforgetforget."
-
+" Zapomniećzapomniećzapomnieć."
 "Rena, once again, asked to make sure."
-
+"Rena, raz jeszcze, spytała dla pewności."
 "\"...Can you... make it to school?\""
-
+"\"...Czy możesz... iść do szkoły?\""
 "\"Y... Yeah... I'm fine.\""
-
+"\"T... Tak... Czuję się świetnie.\""
 "\"Great!"
-
+"\"Wspaniale!"
 " Then let's go! Mii-chan is waiting.\""
-
+" Zatem chodźmy! Mii-chan czeka.\""
 "Rena showed me her usual bright smile."
-
+"Rena pokazała mi jej zwykły jasny usmiech."
 "I couldn't find any hint of deceit in her expression."
-
+"Nie mogłem znaleźć żadnego śladu kłamstwa w jej twarzy."
 " ...My nervousness dissipated, giving way to relief..."
-
+" ...Moja nerwowość rozproszyła się, ustępując miejsca uldze..."
 "\"But you see, Satoko-chan was so insistent she could do it-!\""
-
+"\"Ale widzisz, Satoko-chan tak nalegała, żeby mogła to zrobić-!\""
 "As we were walking, Rena talked about a lot of different stuff, more so than usual."
-
+"Kiedy szliśmy, Rena opowiadała mnóstwo różnych rzeczy, więcej niż zazwyczaj."
 "\"...Hmm."
-
+"\"...Hmm."
 " ...Then?\""
-
+" ...Wtedy?\""
 "\"Satoko-chan is clumsy, so she failed no matter how many times she tried!"
-
+"\"Satoko-chan jest niezdarna, więc nie udało jej się, nie ważne ile razy próbowała!"
 " ...Hao... she was shou kyuute...\""
-
+" ...Hao... była taka kyuute...\""
 "Everything Rena talked about was just silly nonsense, so I just replied every so often and laughed from time to time. It was a rather laid-back conversation."
-
+"Wszystko, o czym mówiła Rena było po prostu głupotami, więc tylko odpowiadałem co jakiś czas i śmiałem się od czasu do czasu. To była raczej luźna rozmowa."
 "We passed by one of our neighbors and they called out to us."
-
+"Mineliśmy jednego z naszych sąsiadów i zawołali do nas."
 "\"Oh, my! Keiichi-chan and Rena-chan, aren't you two a bit late today~?"
-
+"\"Och Boziu! Keiichi-chan i Rena-chan, czy obydwoje nie jesteście troszkę spóźnieni dzisiaj~?"
 " Mion-chan said she was going on ahead!\""
-
+" Mion-chan powiedziała, że pójdzie przodem!\""
 "\"Uh-oh! Did Mii-chan look mad, I wonder?"
-
+"\"Uch-och! Czy Mii-chan wyglądała na złą, zastanawiam się?"
 " ...I wonder!?"
-
+" ...Zastanawiam się!?"
 " We need to hurry up, Keiichi-kun!\""
-
+" Musimy sie pospieszyć, Keiichi-kun!\""
 "As we smiled and parted ways with our neighbor, they turned back towards me and stuck out a tongue."
-
+"Kiedy uśmiechneliśmy się i rozeszliśmy się z naszymi sasiadami, odwrócili się do mnie i wystawili język." 
 "Not expecting that, I couldn't help but crack a smile."
-
+"Nie spodziewając się tego, nie mogłem się powstrzymać od peknięcia śmiechem."
 "\"...Ah, Keiichi-kun smiled.\""
-
+"\"...Ach, Keiichi-kun uśmiechnął się.\""
 "\"Huh... wh-what?\""
-
+"\"Huh... c-co?"\""
 "Rena stopped and stared at me."
-
+"Rena staneła i gapiła się na mnie."
 "\"...I was thinking that you still hadn't recovered from your cold since you seemed down this morning, Keiichi-kun... but now you seem fine."
-
+"\"...Myślałam, że wciąż nie wyzdrowiałeś z twojego przeziębienia, skoro wyglądałeś na przybitego tego ranka, Keiichi-kun... ale teraz wyglądasz w porządku."
 " ...Fine!\""
-
+" ...W porządku!\""
 "With a grin, she gently poked my cheek."
-
+"Z uśmiechem delikatnie dźgneła mój policzek."
 "It was a bright, sincere smile."
-
+"To był jasny, szczery uśmiech."
 "...Hey, Keiichi Maebara."
-
+"...Hej, Keiichi Maebaro."
 "...How can you still doubt Rena after she shows you a smile like that...?"
-
+"...Jak możesz wciąż wątpić w Renę po tym, jak pokazuje ci taki uśmiech...?"
 "Maybe I just had a high fever up until today, and I imagined everything that I thought happened because I was bedridden and delirious?"
-
+"Może tylko miałem wysoką gorączkę do dzisiaj i wyobraziłem sobie to wszystko, co wydawało mi się, że się zdarzyło, ponieważ byłem obłożnie chory i majaczyłem?"
 "...I really hoped that was the case."
-
+"...Naprawdę liczyłem, że to był powód."
 "If God would grant me just one wish..."
-
+"Jeśli Bóg dałby mi tylko jedno życzenie..."
 " There's only one thing that I'd wish for..."
-
+" Jest tylko jedna rzecz, którą pragnąłem..."
 "I would want what had happened in the past few days..."
-
+"Chciałbym, aby to co wydarzyło się w ciągu ostatnich kilku dni..."
 "More specifically, from the night of the Watanagashi up until last night... I wanted all of that to have never happened."
-
+"Dokładniej mówiąc, od nocy Watanagashi do ostatniej nocy... Chciałem, aby to wszystko nigdy się nie wydarzyło."
 "I wonder how many times I'd wished for this these past few days..."
-
+"Zastanawiam się, jak wiele razy pragnąłem tego przez ostatnie kilka dni..."
 "As long as Rena kept on smiling like this... I think it might just become reality."
-
+"Tak długo jak Rena będzie się usmiechała w ten sposób... Myślę, że to może stać się rzeczywistością."
 "So I wanted Rena to keep on smiling..."
-
+"Więc chciałem, aby Rena wciąż się uśmiechała..."
 " ...Keep on... smiling..."
-
+" ...Wciąż... uśmiechała..."
 "\"So, Keiichi-kun."
-
+"\"Więc, Keiichi-kun."
 " Those mochi yesterday... did you eat them all...?\""
-
+" Te mochi z wczoraj... czy zjadłeś je wszystkie...?\""
 "That vain wish of mine was instantly shattered."
-
+"Te moje próżne życzenie zostało natychmiast roztrzaskane."
 "My heart began palpitating. The relaxed morning mood suddenly became frigid."
-
+"Moje serce zaczęło gwałtowniej bić. Luźny poranny nastrój nagle stał się lodowaty."
 "Rena's smile... was the same as usual, her eyes were gentle as usual..."
-
+"Usmiech Reny... był taki sam jak zwykle, jej oczy były łagodne jak zwykle..."
 "'Those mochi yesterday... did you eat them all...?'"
-
+"'Te mochi z wczoraj... czy zjadłeś je wszystkie...?'"
 "...Of course she wasn't asking the question at face value."
-
+"...Oczywiście nie zadała pytania o wartości nominalnej."
 "In other words, Rena was asking..."
-
+"Innymi słowy, Rena pytała..."
 " Did you get the message?'"
-
+" Czy dostałeś wiadomość?'"
 " ...She was probably trying to convey that..."
-
+" ...Prawdopodobnie próbowała przekazać to..."
 "..."
-
+"..."
 " \"Keiichi-kun?\""
-
+" \"Keiichi-kun?\""
 "I was reluctant to give an answer. Rena stopped walking and stared deeply into my eyes."
-
+"Nie miałem ochoty udzielać odpowiedzi. Rena przestała iść i wpatrywała się głęboko w moje oczy."
 "\"Ah...\""
-
+"\"Ach...\""
 "...Don't... Don't hesitate, Keiichi Maebara."
-
+"...Nie... Nie wachaj się, Keiichi Maebaro."
 "...Rena was acting the same as always, wasn't she?"
-
+"...Rena zachowywała się tak samo jak zawsze, prawda?"
 "I needed to respond in my usual way."
-
+"Musiałem odpowiedzieć moim zwyczajnym sposobem." 
 " ...Naturally, of course...!"
-
+" ...Naturalnie, oczywiście...!"
 "But both my throat and mouth had gone dry, and my lips were stuck together..."
-
+"Ale zarówno moje gardło i usta wyschły i moje usta trzymały się razem..."
 "Hurry and answer, Keiichi..."
-
+"Pospiesz się i odpowiedz, Keiichi..."
 "Not that much time had passed."
-
+"Nie minęło tak wiele czasu."
 " I could still... keep the conversation going naturally..."
-
+" Wciąż mogłem... podtrzymać rozmowę naturalnie..."
 "I had to... say something quickly..."
-
+"Musiałem... powiedzieć coś szybko..."
 "\"...De-\""
-
+"\"...Prze-\""
 "\"De~?\""
-
+"\"Prze~?\""
 "Rena playfully mimicked what I said when I finally squeaked something out."
-
+"Rena figlarnie naśladowała to, co powiedziałem, kiedy w końcy coś wypiszczałem."
 "Rena's reaction was still normal."
-
+"Reakcja Reny wciąż była normalna."
 " ...It seems that there wasn't as long of a pause as I had thought."
-
+" ...Wygląda na to, że nienie było tak długiej puazy, jak myslałem."
 "Somehow, I finally squeaked out the rest."
-
+"Jakoś, w końcu wymamrotałem resztę."
 "\"D... Delicious...!\""
-
+"\"P... Przepyszne...!\""
 "However, my strained efforts neither sullied nor brightened Rena's expression."
-
+"Jednak moje wymuszone wysiłki ani nie splamiły ani nie rozjaśniły oblicze Reny."
 "For a moment I panicked, thinking I had replied incorrectly."
-
+"Przez moment spanikowałem, myśląc, że odpowiedziałem niepoprawnie."
 "But after a few moments, Rena broke into her usual soft smile and giggled with a joyful voice that seemed to echo through the morning air."
-
+"Ale po paru chwilach, Rena przełamała swój codzienny delikatny uśmiech i zachichotała radosnym głosem, który zdawał się odbijać echem przez poranne powietrze."
 "Being strung along by that laugh... I couldn't help but laugh as well."
-
+"Zostając zwodzony przez ten śmiech... Nie mogłem się powstrzymać przed śmianiem się również."
 "\"I see~"
-
+"\"Rozumiem~"
 " So did you eat all of them, I wonder? ...I wonder?\""
-
+" Więc zjadłeś wszystkie z nich, zastanawiam się? ...Zastanawiam się?\""
 "My timid smile froze again."
-
+"Mój nieśmiały uśmiech zamarł ponownie."
 "...Did you make it without swallowing the sewing needle?"
-
+"...Czy zrobiłeś to bez połykania igły do szycia?"
 " Was that what she was asking...?"
-
+" Czy to było to, o co pytała...?
 "If I had swallowed it, then I wouldn't be here."
-
+"Jeśli połknąłbym to, wtedy nie mógłbym być tutaj."
 "\"N-Nah... I couldn't... finish all of them."
-
+"\"N-Nah... Nie mogłem... skończyć je wszystkie."
 " ...There's still some left.\""
-
+" ...Wciąż część pozostała.\""
 "I was scared out of my wits... but that's how I played it."
-
+"Umierałem ze strachu... ale tak właśnie zagrałem."
 "\"...Huuh?"
-
+"\"...Huuh?"
 " What about the homework to see if you could tell which one Rena made...?\""
-
+" Co z twoim zadaniem domowym, żeby sprawdzić, czy byłbyś w stanie powiedzieć, które z nich zrobiła Rena...?\""
 "\"Ahahahaha... that homework... was it due today?\""
-
+"\"Ahahahaha... to zadanie domowe... było na dzisiaj?\""
 "\"Yeah. It's due today."
-
+"\"Tak. To jest na dzisiaj."
 " ...Mii-chan will get angry~ There's probably a penalty game ready for you.\""
-
+" ...Mii-chan będzie zła~ Prawdopodobnie karna gra czeka na ciebie.\""
 "We both laughed at each other again."
-
+"Oboje zaśmialiśmy się ponownie."
 "To a casual observer, it was just a typical morning."
-
+"Dla zwykłego obserwatora był to tylko zwykły poranek."
 "If I could just let myself believe, then even I'd think it was just the usual morning routine..."
-
+"Jeśli tylko mógłbym pozwolić sobie w to uwierzyć, wtedy nawet pomyślałbym, że była to po prostu zwykła poranna rutyna..."
 "But... I was certain I wasn't mistaken."
-
+"Ale... Byłem pewny, że się nie myliłem."
 "There was something unimaginable buried beneath the facade of this giggling Rena."
-
+"Tam było coś niewyobrażalnego, co skrywało się głęboko pod fasadą chichoczącej Reny."
 "'LIES!!'"
-
+"'KŁAMSTWA!!'"
 "I recalled that unexpected, piercing voice that I could hardly believe came from Rena's mouth."
-
+"Przypomniałem sobie ten nieoczekiwany, przeszywający głos, któremu nie mogłem uwierzyć, że wydobywał się z ust Reny."
 "The moment that image crossed my mind, I felt a cold sweat trickle down my back."
-
+"W momencie, w którym ten obraz przeleciał mi przez myśl, poczułem zimny pot ściekający na moich plecach."
 "Was it only at that particular time that something evil had possessed Rena...?"
-
+"Czy to tylko w tym szczególnym czasie coś złego owładnęło Renę...?"
 "No, that was wrong. That was still Rena. Ooishi-san told me, didn't he...?"
-
+"Nie, to było błędne. To wciąż była Rena. Ooishi-san powiedział mi, prawda...?"
 "\"Actually, I looked into her. Before Ryuugu-san moved away to Hinamizawa, she was suspended from school."
-
+"\"Właściwie przyjrzałem się jej. Zanim Ryuugu-san przeniosła się do Hinamizawy, była zawieszona."
 " It seems she went through her school building and broke all of the windows.\""
-
+" Wygląda na to, że chodziła po budynku szkolnym i wybijała okna.\""
 "Rena had a disorder... that normal people didn't."
-
+"Rena miała zaburzenie... którego zwykli ludzie nie mieli."
 " No matter how pleasantly she smiled... that fact would not change."
-
+" Nie ważne, jak przyjemnie się uśmiechała... ten fakt nie zmieniłby się."
 "But... I couldn't even imagine... how she looked as she broke all the glass throughout the school."
-
+"Ale ... Nie mogłem nawet sobie wyobrazić... jak wyglądała, kiedy wybijała wszystkie szyby przez całą szkołę."
 "One thing I knew was that it wasn't something spur-of-the-moment."
-
+"Wiedziałem tylko jedną rzecz, że nie było to coś pod wpływem impulsu."
 "If it was some sudden outburst of anger, then maybe she'd break a pane or two..."
-
+"Jeśli byłby to nagły wybuch gniewu, wtedy może zbiłaby szybę lub dwie..."
 "But she broke all of the windows all throughout her school."
-
+"Ale wybiła wszystkie okna w całej szkołę."
 "Just imagine going through your own school breaking the windows with a bat."
-
+"Już wyobrazić sobie, że idziesz przez twoją własną szkołę, wybijając okna kijem."
 "Swinging full-force at each pane of glass, one after another. Paying no heed to the flying shards..."
-
+"Wymachując z całej siły w każdą taflę szkła, jedna po drugiej. Nie zwracając uwagi na latające odłamki..."
 "Your classmates aghast."
-
+"Twoi koledzy z klasy są przerażeni."
 "...Unable to move from the sudden turn of events."
-
+"...Nie zdolni poruszyć się przez nagły rozwój wypadków."
 "I wonder where she could have found the most windows lined up in a row..."
-
+"Zastanawiam się, gdzie mogła znaleść najwięcej okien ustawionych w rzędzie..."
 " ...Probably the hallway."
-
+" ...Prawdopodobnie na korytarzu."
 "*Smash*"
-
+"*Uderzenie*"
 " Walk..."
-
+" Przejście..."
 " Wind up..."
-
+" Zamach..."
 " *Smash*"
-
+" *Uderzenie*"
 " Walk..."
-
+" Przejście..."
 " Wind up..."
-
+" Zamach..."
 "It was difficult for me to connect that horrifying image with the Rena smiling at me right now..."
-
+"Było trudne dla mnie połączyć ten przerażający obraz z Reną, umiechającą się do mnie w tej chwili..."
 "But... I just had to imagine it."
-
+"Ale... Po prostu musiałem to sobie wyobrazić."
 "...Impossible because it was unimaginable... that naive way of thinking no longer worked."
-
+"...Niemożliwe, bo było to niewyobrażalne... ten naiwny sposób myślenia już dłużej nie działał."
 "The unpleasant, piercing sound of shattered glass, the crunching noise as Rena treads across the broken shards, walking towards me."
-
+"Nieprzyjemny, przyszywający dźwiek strzaskanego szkła, trzeszczący hałas, kiedy Rena kroczyła po strzaskanych kawałkach, idąc do mnie."
 "...Rena's classmates going pale as they forget to even breathe."
-
+"...Koledzy z klasy Reny zbledli, gdyż zapomnieli nawet oddychać."
 "I wondered what they did as Rena came closer, breaking windows along her path..."
-
+"Zastanawiałem się, co zrobili, kiedy Rena podeszła bliżej, niszcząc okna wzdłuż swej ścieżki..."
 "Did they earnestly try to bring her to her senses by saying something?"
-
+"Czy żarliwie próbowali przywrócić jej zmysły przez mówienie czegokolwiek?"
 "Or did they jump at her, trying to stop her savagery?"
-
+"Lub może skoczyli na nią, próbując powstrzymać jej dzikość?"
 "Or did they run to the staff room after being directed there by the teachers?"
-
+"Albo uciekli do pokoju nauczycielskiego po tym, jak zostali skierowani tam przez nauczycieli?"
 "Probably none of those."
-
+"Prawdopodobnie żadne z nich."
 "In the face of that bloodcurdling sight, of Rena busting window after window... undoubtedly, all they could do was silently clear a path for her."
-
+"W obliczu tego mrożącego krew w żyłach widoku, Reny rozsadzającej okna po oknie... niewątpliwie wszystko co mogli zrobić, było zrobienia przejścia dla niej."
 "Dumbfounded... just clearing the path for Rena to continue."
-
+"Oniemieli... tylko schodzili ze ścieżki Reny, żeby kontynuowała."
 "...It was far too violent an act for them to seek refuge by looking the other way."
-
+"...To było stanowczo zbyt brutalne działanie dla nich, żeby szukać ucieczki przez szukanie innego wyjścia."
 "That's not to say they were looking the other way..."
-
+"To nie znaczy, że nie szukali innego wyjścia..."
 " ...They were doing the only thing they could to protect themselves."
-
+" ...Zrobili jedyną rzecz, która mogła ochronić ich samych."
 "If they had done something differently from the rest... They may have suddenly found themselves as Rena's new target."
-
+"Gdyby zrobili coś innego niż reszta... Mogli sami nagle znaleźć się na celowniku Reny."
 "What would Rena have done to whoever attracted her attention?"
-
+"Co Rena zrobiłaby komuś, kto przykuł jej uwagę?"
 "The answer was obvious."
-
+"Odpowiedź była oczywista."
 " ...She would have undoubtedly acted according to her whims."
-
+" ...Niewątpliwie zachowałaby się według swojego humoru."
 "...Meaning they would—I would—be the next window."
-
+"...Oznacza to, że oni-ja-byłbym następnym oknem."
 "Rena, staring into my eyes, shards of glass crunching and crackling underfoot as she drew closer."
-
+"Rena, wpatrując się w moje oczy, odłamki szkła chrzęszczą i trzeszczą pod stopami, kiedy podchodziła bliżej."
 "...I was also drawn into her eyes, paralyzed."
-
+"...Ja także byłem wciągany przez jej oczy, sparalizowany."
 "Then Rena struck me with the bat over and over again, like I was one of those windows."
-
+"Następnie Rena uderzyła mnie kijem, znowu i znowu, tak jakbym był jednym z tych okien."
 "I crouched down on to the floor, desperately protecting my head."
-
+"Skuliłem się na podłogę, desperacko chroniąc moją głowę."
 " Rena didn't care whether it was my head or my back."
-
+" Renie nie obchodziło, czy to była moja głowa czy moje plecy."
 " Zealously, she hits me again and again."
-
+" Gorliwie uderza mnie raz za razem."
 "What kind of expression was she making as she was doing this over and over again?"
-
+"Jaki rodzaj twarzy zrobiła, kiedy robiła to w kółko?"
 "...I peered up to see."
-
+"...Zerknąłem, żeby zobaczyć."
 "...Her expression was so indifferent,  it was completely unnerving."
-
+"...Jej wyraz twarzy był tak obojętny, że było to całkowicie niepokojace."
 "It's because no matter how many times she struck me, I didn't make as pleasant a sound as the other windows."
-
+"Ponieważ nie ważne, jak wiele razy uderzała mnie, nie potrafiłem zrobić tak przyjemnego dźwięku jak inne okna."
 "She struck me continuously."
-
+"Uderzała mnie nieprzerwanie."
 " Over and over again."
-
+" Raz za razem."
 " The sound Rena wanted didn't come out."
-
+" Dźwięk, który Rena pragnęła, nie wychodził."
 " Our classmates standing around didn't try to stop her."
-
+" Nasi koledzy z klasy stojący dookoła nie próbowali ją powstrzymać."
 " They didn't want to be the next window."
-
+" Nie chcieli zostać kolejnym oknem."
 "Somebody save me..."
-
+"Niech ktoś mnie uratuje..."
 " ...Turning a blind eye unless we're hanging out...!?"
-
+" ...Przymykają oko, dopóki !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 "...But of course. Everyone in class scrambled to obtain the highest standardized test scores."
-
+"...Ależ oczywiście. Wszyscy w klasie ubiegali się, żeby otrzymać najwyższe standardowe wyniki testów."
 " ...They'd gain nothing from saving a cram school try-hard like me..."
-
+" ...Nic nie zyskaliby na ocaleniu ostro wkuwającego wkuwacza, takiego jak ja..."
 "Eventually, there would be a faint sound, similar to when you crack open a walnut, and some sort of reddish-black spray would shoot out..."
-
+"Ostatecznie, byłby tam dźwięk omdlenia, podobny do tego, kiedy rozłupywany jest orzech i jakiś czerwono-czarny sprey zacząłby strzelać..."
 "Anyway, it wasn't that Rena momentarily lost herself in her anger."
-
+"W każdym razie, to nie było tak, że Rena chwilowo zatraciła się w swoim gniewie."
 "...After forcing myself to breathe and calming down my heart, I recalled what Ooishi-san told me."
-
+"...Po zmuszeniu siebie do oddychania i uspokojenia mojego serca, przypomniałem sobie, co Ooishi-san powiedział mi."
 "\"...and in the counselor's medical report, he recorded all of the conversations he had with Rena-san..."
-
+"\"...i w raporcie medycznym psychologa szkolnego, nagrał wszystkie rozmowy, które miał z Reną-san..."
 " 'It' shows up..."
-
+" 'To' pojawia się..."
 " And quite a bit at that.\""
-
+" I to całkiem często.\""
 "\"What does...?\""
-
+"\"Co takiego...?\""
 "\"She mentioned..."
-
+"\"Wspominała..."
 " the word 'Oyashiro-sama.'\""
-
+" słowo 'Oyashiro-sama.'\""
 "Following that, Rena was suspended and had regular  examinations at the hospital."
-
+"W następstwie tego, Rena została zawieszona i miała regularne badania w szpitalu."
 "Then, as Rena was undergoing counseling, she said it over and over..."
-
+"Potem, kiedy Rena była poddawana terapii, powtarzała w kółko..."
 " \"Oyashiro-sama.\""
-
+" \"Oyashiro-sama.\""
 "\"It seems that the Oyashiro-sama she spoke of was like a ghost, appearing in her house every night."
-
+"\"Wydaje się, że Oyashiro-sama, o którym mówiła, był jak duch, pojawiając się w jej domu co noc."
 " Standing over her pillow looking down at her.\""
-
+" Stojąc nad jej poduszką i patrząc na nią.\""
 "That was only a piece of their conversation, so I still couldn't see the big picture... but it was by no means a happy little conversation."
-
+"To był tylko kawałek ich konwersacji, więc wciąż nie mogłem widzieć tego z szerszej perspektywy... ale w żadnym wypadku nie była to wesoła pogawędka."
 "Then what Rena did... Was she saying that ghastly incident was a result of her being possessed by Oyashiro-sama...?"
-
+"Następnie co Rena zrobiła... Czy mówiła, że ten makabryczny incydent był rezultatem jej opętania przez Oyashiro-samę...?"
 "Up until now, I didn't want to believe in Oyashiro-sama's curse."
-
+"Do tej pory nie chciałem wierzyć w klątwę Oyashiro-samy."
 "That's why I wanted to say the mysterious deaths every year happened because of some sort of conspiracy."
-
+"Właśnie dlatego chciałem powiedzieć, że tajemnicze śmierci każdego roku zdarzały się z powodu jakiejś konspiracji."
 "Every time I talked with Ooishi-san, I was more certain that the deaths were the work of men and not of some curse."
-
+"Za kazdym razem, kiedy rozmawiałem z Ooishi-sanem, byłem coraz bardziej pewny, że śmierci były dziełem ludzkim, a nie jakiejś klątwy."
 "Except... if it was people perpetrating the incidents... my friends were somehow deeply connected."
-
+"Z wyjątkiem... jeśli ludzie popełniali te incydenty... moi przyjaciele byli jakoś głęboko z tym związani."
 "If I refused to believe that the curse was real... then I would have to believe those who acted the kindest to me were deeply involved in the incidents."
-
+"Jeśli odrzuciłbym przypuszczenie, że to naprawdę była klątwa... wtedy musiałbym uwierzyć, że ci, którzy zachowali się do mnie tak miło, byli głęboko wplątani w te incydenty."
 "Why?"
-
+"Dlaczego?"
 " How?"
-
+" Jak?"
 " For what reason?"
-
+" Z jakiego powodu?"
 " ...Was Rena?"
-
+" ...Czy była to Rena?"
 " ...Was everybody?"
-
+" Czy był to każdy?"
 "It was much more painful and troublesome than accepting that it was just Oyashiro's curse."
-
+"To bylo o wiele bardziej bolesne i nieznośne niż zaakceptowanie, że była to po prostu klątwa Oyashiro-samy."
 "In the aftermath, Rena had admitted to her doctor that it was because she was possessed by Oyashiro-sama."
-
+"W następstwach, Rena przyznała swojemu doktorowi, że było to z powodu, że była opętana przez Oyashiro-samę."
 "I felt a strange sense of relief from that."
-
+"Poczułem dziwną ulgę przez to."
 "So that's how it was."
-
+"Więc tak to było."
 "There wasn't a second side to Rena."
-
+"Nie było drugiego oblicza Reny."
 "...She did that..."
-
+"...Zrobiła to..."
 " because she was possessed by something strange like Oyashiro-sama..."
-
+" ponieważ została opętana przez coś osobliwego jak Oyashiro-sama..."
 "It wasn't Rena's fault."
-
+"To nie była wina Reny."
 " Oyashiro-sama was the one to blame...!"
-
+" Oyashiro-sama był jedynem winnym...!"
 "I knew..."
-
+"Wiedziałem..."
 "This was all backwards."
-
+"To wszystko było na opak."
 "Refusing to believe there was a curse, I wanted there to be a human perpetrator."
-
+"Nie chcąc wierzyć, że było to z powodu klątwy, chciałem, aby był ludzki sprawca." 
 " ...Now that my close friends were the ones under suspicion, I changed my beliefs at my own convenience, saying it was Oyashiro-sama's curse to blame."
-
+" ...Teraz, gdy moi bliscy przyjaciele byli tymi podejrzanymi, zmieniłem moje przekonania na moją własną wygodę, mówiąc, że to było z winy klątwy Oyashiro-samy."
 "Which was the better choice? Accepting that Oyashiro-sama's curse exists..."
-
+"Który był lepszym wyborem? Akceptacja, że klątwa Oyashiro-samy istnieje..."
 " Or that Rena and the rest of them... were deeply involved in the string of mysterious deaths?"
-
+" Czy że Rena i reszta... byli głęboko wplątani z ciągiem tajemniczych śmierci?"
 "I didn't want to think about it."
-
+"Nie chciałem mysleć o tym."
 "If I just didn't think about it, I'd be able to continue the same as always... I wanted to believe that..."
-
+"Jeśli tylko nie myślałbym o tym, byłbym w stanie kontynuować to samo co zawsze... Chciałem wierzyć, że..."
 "But..."
-
+"Ale..."
 " ..."
-
+" ..."
 "That was no longer possible."
-
+"Nie było to juz dłużej możliwe."
 "I had received their message."
-
+"Otzymałem ich wiadomośc." 
 "...It was pathetic of me to try and bend the meaning to my own convenience."
-
+"...To było żałosne z mojej strony, że usiłuje i naginam sens dla mojej własnej wygody."
 "Regardless of my opponent being a human or curse."
-
+"Bez względu na to, czy moim przeciwnikiem jest człowiek lub klątwa."
 " ...I won't let it kill me."
-
+" ...Nie pozwolę, żeby mnie zabito."
 "As if I would just bend over and give in!"
-
+"Gdybym tylko się zgiął i poddał!"
 " ...For no good reason at all...!"
-
+" ...Bez dobrego powodu w ogóle...!"
 "\"Keiichi-kun?"
-
+"\"Keiichi-kun?"
 " ...You've been making a really weird face."
-
+" ...Zrobiłeś naprawdę dziwną minę."
 " Why, I wonder?"
-
+" Dlaczego, zastanawiam się?"
 " I wonder?\""
-
+" Zastanawiam się?\""
 "Inhaling sharply upon hearing Rena's voice, I came back to my senses."
-
+"Wciągając gwałtownie powietrze po usłyszeniu głosu Reny, powróciłem do moich zmysłów."
 "Before I had realized it, we were already at the entrance."
-
+"Zanim zdałem sobie z tego sprawę, byliśmy już przy wejściu."
 "Shaking my head a few times, I exorcised all those terrifying thoughts."
-
+"Potrząsając moją głową kilka razy, wypędziłem wszystkie te przerażające mysli."
 "No matter how you looked at it... there's no way Rena could have done such terrible things...!"
-
+"Nie ważne jak spoglądałeś na to... nie ma mowy, żeby Rena mogłaby zrobić tak straszne rzeczy...!"
 "It was like I was trying to placate myself..."
-
+"To było tak, jakbym próbował siebie uspokoić..."
 "As I slid the door open, a blackboard eraser loaded with chalk dropped down on my head the moment I stepped into the classroom."
-
+"Kiedy zsunąłem otwarte drzwi, gumka do tablicy załadowana kredą opadła mi na głowę, gdy tylko wszedłem do klasy."
 "The chalk dust went into my eyes, inducing a brief moment of agony."
-
+"Pył z kredy wszedł mi do oczów, wywołując krótki moment agonii."
 "\"Oh ho ho ho ho!"
-
+"\"Och ho ho ho ho!"
 " How befitting for the truant Keiichi-san~!\""
-
+" Jak przystało na wagarowicza Keiichi-sana~!\""
 "\"Good morning to both of you, Keiichi and Rena.\""
-
+"\"Dzień dobry wam obu, Keiichi i Reno.\""
 "\"Good morning-☆ Satoko-chan, Rika-chan~!\""
-
+"\"Dzień dobry-☆ Satoko-chan, Rika-chan~!\""
 "Not quite in the mood for it, I didn't really react to Satoko's trap."
-
+"Nie całkiem w nastroju na to, tak właściwie nie zareagowałem na pułapkę Satoko."
 "Satoko braced herself as I passed by, expecting me to attack her. She seemed a bit disappointed as I simply walked by silently."
-
+"Satoko przygotowała się, kiedy mijałem ją, oczekując ode mnie ataku na nią. Zdawała się troszkę rozczarowana, kiedy po prostu przeszedłem w milczeniu."
 "\"Wh-What is this...?"
-
+"\"O-O co chodzi...?"
 " How discouraging, indeed.\""
-
+" Jak zniechęcająco, rzeczywiście.\""
 "\"...Keiichi doesn't seem back to his usual self yet.\""
-
+"\"...Keiichi nie wydaje się jeszcze, że doszedł do siebie\""
 "\"Yeah."
-
+"\"Tak."
 " ...Take it easy on him for today, 'kay?\""
-
+" ...Odpuszczę mu dzisiaj, okej?\""
 "Suddenly, there was a slap down on my shoulder. It hurt a bit..."
-
+"Nagle był klaps na moje ramię. Trochę bolało..."
 "\"Hey! Kei-chan, did you get enough rest?\""
-
+"\"Hej! Kei-chan, czy wypoczołeś dostatecznie?\""
 "It was Mion."
-
+"To była Mion."
 "My mind was full with the stuff about Rena... but Mion was also a party of interest."
-
+"Mój umysł był pełen rzeczy o Renie... ale Mion także była tego częścią."
 "Remember, Keiichi."
-
+"Pamiętaj, Keiichi."
 " ...That hawkish gaze from yesterday."
-
+" ...Te jastrzębie spojrzenie z wczoraj."
 "\""
-
+"\""
 "..."
-
+"..."
 "Yeah... Morning.\""
-
+"Taa... Dobry.\""
 "\"What's with that unenergetic greeting?"
-
+"\"Co z tym nieenergicznym przywitaniem?"
 " Did you eat the mochi I brought you?\""
-
+" Czy jadłeś mochi, które ci przyniosłam?\""
 "Because I ate them, I'm like this..."
-
+"Ponieważ zjadłem je, jestem taki..."
 " Those words were itching to be blurted out."
-
+" Te słowa świeżbiły, żeby być wypowiedziane."
 "\"...I really just didn't have the appetite."
-
+"\"...Tak naprawdę nie miałem apetytu."
 " ...I ate a few, but quite a lot were left over.\""
-
+" ...Zjadłem kilka, ale sporo zostało.\""
 "\"Huh? What about the homework?"
-
+"\"Huh? Co z pracą domową?"
 " Do you have an answer for which one was Rena's?\""
-
+" Czy masz odpowiedź, która z nich była Reny?\""
 "\"I can't believe you'd forget your homework, Keiichi-kun."
-
+"\"Nie mogę uwierzyć, że zapomniałeś swojej pracy domowej, Keiichi-kun."
 " Ahahahaha.\""
-
+" Ahahahaha.\""
 "\"...Sheesh... then we can't help it... time for your penalty~"
-
+"\"...Sheesh... zatem nic na to nie poradzimy... czas na twoją karę~"
 " ...Mihehehehe!\""
-
+" ...Mihehehehe!\""
 "Flashing a lurid smile, Mion returned to her seat."
-
+"Rzucając ponury uśmiech, Mion powróciła na swoje siedzenie."
 "There was nothing from our exchanges that would cause our classmates to suspect anything was amiss."
-
+"Nie było nic w naszych wymianach, żeby nasi koledzy z klasy zaczeliby podejrzewać, że coś było nie tak."
 "But of course..."
-
+"Ale oczywiście..."
 "Anyone listening to our conversations up until this morning..."
-
+"Każdy słysząc naszą rozmowę do tego ranka..."
 " wouldn't see anything suspicious."
-
+" nie zabaczyłby niczego podejrzanego."
 "That was why... it was so frightening."
-
+"Właśnie dlatego... to było tak przerażające."
 "They acted in a way that, regardless of whatever happened to Keiichi Maebara, no one would ever suspect them... That fact had me terrified."
-
+"Grali w taki sposób, że niezależnie od tego, co stało się Keiichiemu Maebarze, nikt nigdy nie podejrzewałby je... Ten fakt mnie przerażał."
 "Soon the teacher came."
-
+"Wkrótce nauczyciel przyszedł."
 "After she asked how I felt and took attendance, another dull, ordinary day began."
-
+"Po tym, jak spytała, jak się czuję, wpisała obecność i kolejny nudny zwykły dzień się zaczął."
 "This free study period was a convenient time to consider where I stood."
-
+"Ten czas wolnej nauki był dokodnym czasem do rozważenia, gdzie stałem."
 "I gently closed my eyes and pondered the ridiculous position I was in right now."
-
+"Lekko zamknąłem moje oczy i zastanawiałem się nad niedorzeczną pozycją, w której byłem teraz."
 "First of all... What I shouldn't forget... was how dangerous of a situation I was in."
-
+"Przede wszystkim... Czego nie powinienem zapomnieć... było jak w niebezpiecznej sytuacji, się znajdowałem."
 "I had fallen out of favor with them."
-
+"Wypadłem z ich łaski."
 "After interacting with Ooishi-san multiple times, I could see it as I was getting closer to the heart of the matter."
-
+"Po wielokrotnych interakcjach z Ooishi-sanem, mogłem to zobaczyć, kiedy zblizałem się do sedna sprawy."
 "The warning yesterday with the mochi was a good indicator of that."
-
+"Wczorajsze ostrzeżenie z mochi było dobrą wskazówką do tego."
 "...No... Calling it a warning was just my habit of understating things."
-
+"...Nie... Nazywanie tego ostrzeżeniem było tylko moim nawykiem umniejszania spraw."
 "It probably had no meaning beyond stunting my progress and buying themselves some time."
-
+"Prawdopodobnie nie miało to żadnego znaczenia, poza spowolnieniem moich postępów i kupienia sobie trochę czasu."
 "...Until they had a method of completely \"erasing\" me..."
-
+"...Dopóki mieli metodę do całkowitego \"wymazania\" mnie..."
 " They were just biding their time."
-
+" Po prostu czekali na właściwy moment."
 "Even though they were keeping me under their thumb with threats, it didn't change the fact that I knew too much."
-
+"Pomimo że utrzymuja mnie w garści za pomocą gróźb, nie zmieniało to faktu, że wiedziałem za dużo."
 "The chilling sensation of my desk made me recall Satoshi Houjou, the boy who was using this seat until last year when he disappeared."
-
+"Mrożące uczucie z moje biurka sprawiło, że przypomniałem sobie o Satoshi Houjou, chłopcu, który używał tego miejsca do zeszłego roku, kiedy zniknął."
 "Was he also... similar to me?"
-
+"Czy on także... przypominal mnie?"
 "Did he learn something he shouldn't have... and was  erased...?"
-
+"Czy dowiedział się czegoś, czego nie powinien... i został wymazany...?"
 "...Damn...!"
-
+"...Cholera...!"
 " I wouldn't... let them get rid of me so easily..."
-
+" Nie... pozwolę im pozbyć się mnie tak łatwo..."
 " Never...!!"
-
+" Niegdy...!!"
 "But... were they really trying to kill me...?"
-
+"Ale... czy naprawdę starali się mnie zabić...?"
 "I've had these contradictory feelings for a while now. Even though I suspected them... I felt I had to cover for them."
-
+"Od jakiegoś czasu mam sprzeczne uczucia. Pomimo że podejrzewałem ich... Czułem, że muszę ich kryć."
 "With all of their suspicious behavior, a morning like this just made it all seem like an elaborate hoax."
-
+"Wszystkie ich podejrzane zachowania, jak ten z rana, po prostu sprawiły, że wszystko wydaje się być skomplikowaną mystifikacją."
 " No, that's just what I want to believe."
-
+" Nie, właśnie w to chcę wierzyć."
 "Doubting my friends?"
-
+"Wątpienie moim przyjaciołom?"
 "Covering for them?"
-
+"Krycie ich?"
 "My life was in danger..."
-
+"Moje zycie było w niebezpieczeństwie..."
 "Or was it?"
-
+"Czy było?"
 "Actually, I was debating the wrong point."
-
+"Właściwie, debatowałem o niewłaściwej kwestii."
 "Given my current situation... Those points were something that should have been deliberated on a long time ago..."
-
+"Biorąc pod uwagę moją obecną sytuację... Te kwestie były czymś, co dawno powinno być umówione..."
 "But really... Rena and the rest of them..."
-
+"Ale naprawdę... Rena i reszta..."
 " Were they actually aiming to kill me?"
-
+" Czy naprawdę chicały mnie zabić?"
 "The little voice inside me continued to torment me with these unresolvable trains of thought."
-
+"Mały głos wewnątrz mnie kontynuował dręczenie mnie tym nierozwiązalnym tokiem myslenia."
 "Are you an idiot, Keiichi Maebara!? The answer should be obvious!"
-
+"Czy jesteś idiotą, Keiichi Maebaro!? Odpowiedź powinna być oczywista!"
 "B... But maybe... that sewing needle might have been just an accident, right...?"
-
+"A... Ale może... ta igła do szycia, może po prostu znalazła się tam przez przypadek, prawda?"
 "How could you screw up and drop a sewing needle into a piece of mochi!? The benefit of the doubt can only go so far!!"
-
+"Jak mogły tak schrzanić i wrzucić iglę do szycia do kawałka mochi!? Kredyt zaufania ma chyba jakieś granice!!"
 "Both Rena and Mion... had acted and behaved suspiciously... but maybe it was all some sort of misunderstanding..."
-
+"Obie, Rena i Mion... zachowywały się podejrzanie... ale może to wszystko było jakimś nieporozumieniem..."
 "What kind of misunderstanding!?"
-
+"Jakim nieporozumieniem!?"
 " It wasn't just suspicious... it was outright ludicrous, right!?"
-
+" To nie było tylko podejrzane... to było wprost niedorzeczne, prawda!?"
 "Rena just corrected me for lying... and Mion only asked me about what I had for lunch..."
-
+"Rena tylko skarciła mnie za kłamstwo... a Mion tylko spytała, co miałem na lancz..."
 "Rena was standing outside our door eavesdropping for a good hour, you know!?"
-
+"Rena stała na przed naszymi drzwiami, podsłuchując przez dobrą godzinę, wiesz!?"
 "Sh-She was... probably just waiting for my phone call to end..."
-
+"O-Ona... prawdopodobnie tylko czekała aż skończę rozmawiać przez telefon..."
 "For a whole HOUR outside your room!? And is it normal to go home afterwards without saying anything!?"
-
+"Przez całą GODZINĘ przed twoim pokojem!? I to jest normalne iść do domu potem, bez powiedzenia czegokolwiek!?"
 "..."
-
+"..."
 "You heard from Ooishi-san, didn't you!?"
-
+"Słyszałeś od Ooishiego-sana, prawda!?"
 " About what Rena did at her former school?"
-
+" O tym, co Rena zrobiła w swojej poprzedniej szkole?"
 "B-But... At the hospital, she said it was Oyashiro-sama's fault she..."
-
+"A-Ale... W szpitalu, powiedziała, że to był z winy Oyashiro-samy, ona..."
 "\"Cut it out, Keiichi Maebara. Don't you realize they're out to kill you!?\""
-
+"\"Przestań, Keiichi Maebaro. Czy ty nie zdajesz sobie sprawy, że oni chcą się zabić!?\""
 "Ngh!?"
-
+"Ngh!?"
 "I inadvertently blurted those words out loud."
-
+"Przez przypadek wypaliłem te słowa na głos."
 "Hearing myself say that so directly left me dumbfounded for a few moments. Afterwards, I had to look around to check if anyone else had heard it."
-
+"Słysząc siebie mówiącego to tak bezpośrednio, pozostałem oniemiały przez chwilę. Następnie rozejrzałem sie, żeby sprawdzić, czy ktoś jeszcze usłyszał to."
 "My little soliloquy cut a little too close to the truth."
-
+"Mój mały monolog zbliżył się nieco za bardzo do prawdy."
 "Even though I could feel the murderous intent from Rena and the others... part of me somewhere was still trying to deny that."
-
+"Pomimo że mogłem wyczuś mordercze intencje od Reny i pozostałych... część mnie gdzieś wciąż starała się zaprzeczać temu."
 "This late in the game... such hesitation could be fatal."
-
+"W tak późnym etapie gry... takie wachania mogły być fatalne."
 " ...I knew that."
-
+" ...Wiedziałem to."
 "But... I was just your average student... a man living his normal, ordinary life!"
-
+"Ale... Byłem tylko przeciętnym uczniem... człowiekim, który żyje swoim normalnym, zwykłym życiem!"
 "Do you think I could suddenly believe... that my friends, who I had been happily laughing together with up until last Sunday... now intended to kill me...!?"
-
+"Czy myślisz, że mogłem nagle uwierzyć... że moi przyjaciele, z którymi szczęśliwie śmialiśmy się razem do ostatniej niedzieli... teraz zamierzali mnie zabić...!?"
 " Right...?"
-
+" Prawda...?"
 "\"You're too soft, Keiichi!!!!\""
-
+"\"Jesteś za miękki, Keiichi!!!!\""
 "This time, I remembered to keep my voice down so only I could hear it."
-
+"Tym razem pamietałem, żeby utrzymać mój głos tak cicho, żebym tylko ja mógł usłyszeć."
 "There was one thing I now understood."
-
+"Była tam jedna rzecz, którą teraz zrozumiałem."
 "I was... too soft."
-
+"Byłem... za miękki."
 "I didn't completely understand how dangerous Rena and the rest of them were."
-
+"Nie do końca rozumiałem, jak niebezpieczna była Rena i reszta z nich."
 " No, I wasn't trying to understand."
-
+" Nie, nie próbowałem zrozumieć."
 "I was too soft for not listening to Ooishi-san when he was earnestly showing me the heart of the matter."
-
+"Byłem za miękki, bo nie słuchałem Ooishiego-sana, kiedy gorliwie pokazywał mi sedno sprawy."
 "I didn't listen because I was too busy pretending to be dejected."
-
+"Nie słuchałem, bo byłem zbyt zajęty udawaniem przygnębienia."
 " I didn't comprehend it."
-
+" Nie pojmowałem tego."
 " I was just running away."
-
+" Po prostu uciekałem."
 "I didn't comprehend it, so nobody had any notion to try and kill me? I needed to get rid of such naive thoughts...!"
-
+"Nie pojmowałem tego, więc nikt nie próbowałby mnie zabić? Musiałem pozbyć się takich naiwnych myśli...!"
 "As I made that resolution, I heard the bell signaling the end of class."
-
+"Kiedy podjąłem tę decyzję, usłyszałem dzwonek uznajmiający koniec lekcji."
 "...So soon."
-
+"...Tak szybko."
 "The day was already over."
-
+"Dzień dobiegł juz końca."
 "I didn't recall eating lunch or doing anything in class."
-
+"Nie przypominałem sobie, że jadłem lancz czy robiłem cokolwiek na lekcjach."
 "My friends were putting their desks together in preparation for club activities."
-
+"Moi przyjaciele układali swoje ławki razem w ramach przygotowań do zajęć klubowych."
 "Not long ago, I would probably have happily jumped into that circle..."
-
+"Nie tak dawno temu, prawdopodobnie z radością wskoczyłbym do tego kręgu..."
 "\"My, my, Keiichi-san?"
-
+"\"No, no, Keiichi-san?"
 " How rude of you to even think about leaving!\""
-
+" Jak niegrzecznie z twojej strony, że myślisz nawet o ucieczce!\""
 "The way Satoko spoke was so typical and familiar... it almost physically hurt."
-
+"Sposób, w jaki powiedziała to Satoko, był tak typowy i znajomy... że niemal fizycznie bolało."
 "\"Huh? Keiichi-kun, is today not a good day, I wonder? ...I wonder?"
-
+"\"Huh? Keiichi-kun, czy dzisiaj nie jest dobry dzień, zastanawiam się? ...Zastanawiam się?"
 " And we were going to win big together..."
-
+" I mieliśmy zamiar odnieść wielkie zwycięstwo razem..."
 " Hao...\""
-
+" Hao...\""
 "Seeing Rena's expression... which said she was really looking forward to today, was hard to take."
-
+"Widząc minę Reny... która mówiła, że naprawdę nie mogła się doczekać dzisiejszego dnia, był trydny do zniesienia."
 "Hey, Keiichi... Maybe Ooishi-san is just some enormous jerk trying to separate me from the others by lying to me...?"
-
+"Hej, Keiichi... Może Ooishi-san jest tylko jakimś wielkim palantem, który stara się odseparować mnie od reszty przez okłamywanie mnie...?"
 "Slap!!"
-
+"Spoliczkowanie!!"
 "Trying to expunge such weak-minded thinking, I slapped myself in the face."
-
+"Próbując wymazać tak głupie myślenie, spoliczkowałem siebie w twarz."
 "\"K-Keiichi-kun...?\""
-
+"\"K-Keiichi-kun...?\""
 "Yeah... was Rena really trying to kill me...??"
-
+"Taa... czy Rena naprawdę próbowała mnie zabić...??"
 "I wish someone would tell me it was a hoax."
-
+"Chciałbym, że ktoś powiedział mi, że to był głupi kawał."
 " I didn't care if it actually was one or not, I just wanted someone to say it was."
-
+" Nie obchodziło mnie, czy było tak naprawdę czy nie, chciałem tylko, żeby ktoś to powiedział."
 "...Guh, yet another weak-willed thought...!"
-
+"...Guh, jeszcze jedna głupia myśl...!"
 "How did I ever become this naive!?"
-
+"Jak mogłem stać się taki naiwny!?"
 "\"A-Are you all right...? Does your head hurt?\""
-
+"\"Cz-Czy wszystko z tobą w porządku...? Czy boli cię głowa?\""
 "Apparently that was how my inner dilemma appeared to Rena."
-
+"Najwyraźniej w ten sposób mój wewnętrzny dylemat ukazał się Renie."
 "\"You're pale!"
-
+"\"Jesteś blady!"
 " Can you make it home by yourself?"
-
+" Czy dasz radę wrócić sam do domu?"
 " ...Maybe I should accompany you home, I wonder? ...I wonder?\""
-
+" ...Może powinnam towarzyszyć ci do twojego domu, zastanawiam się? ...Zastanawiam się?\""
 "\"No... it's okay... sorry."
-
+"\"Nie... jest okej... przepraszam."
 " I can get home by myself."
-
+" Mogę sam wrócić do domu."
 " Just have the meeting without me.\""
-
+" Po prostu zróbcie spotkanie beze mnie.\""
 "Upon hearing that I wasn't going to participate in the club meeting, Mion pouted unhappily."
-
+"Po usłyszeniu, że nie zamierzałem uczestniczyć w spotkaniu klubowym, Mion wydeła wargi niezadowolona."
 "\"Since Kei-chan was so bent on a revenge match, we were even going to play that deduction game from before too.\""
-
+"\"Skoro Kei-chan był tak żądny rewanżu, zamierzaliśmy nawet zagrać w tę grę dedukcyjną z wcześniej.\""
 "\"Keiichi-san doesn't have the burning desire for a rematch?"
-
+"\"Keiichi-san nie pali się na rewanż?"
 " How pathetic~!\""
-
+" Żałosne~!\""
 "I wouldn't fall for some dumb taunt."
-
+"Nie poleciałbym na jakąś głupią zaczepkę."
 "Without even a real retort, I just grabbed my bag and was about to get up."
-
+"Nawet nie ripostując, po prostu chwyciłem moją torbę i już miałem wstać."
 "Someone's hand perched itself gently on my head."
-
+"Czyjaś ręka usadowiła się deliktanie na mojej głowie."
 "\"... Keiichi doesn't seem to be well."
-
+"\"... Keiichi nie wygląda za dobrze."
 " ...How very unfortunate.\""
-
+" ...Co za pech.\""
 "It was Rika-chan."
-
+"To była Rika."
 "She was stretched up as far as she could, doing her best to pat my head with her petite hand..."
-
+"Wyciągnęła się tak daleko jak mogła, starając się głaskać moją głowę swoją drobną dłonią..."
 "It felt so nice... which made things even harder."
-
+"To było takie miłe... co sprawiło, że rzeczy stały się jeszcze trudniejsze."
 "\"Sorry..."
-
+"\"Przepraszam..."
 " Everybody."
-
+" Wszystkich."
 " ...See you!\""
-
+" ...Do zobaczenia!\""
 "That's all I said as I quickly left the classroom."
-
+"To wszystko, co powiedziałem, kiedy szybko opuściłem klasę."
 "They said something to me as I was leaving, but I couldn't make it out."
-
+"Powiedziały coś do mnie, kiedy wychodziłem, ale nie zrozumiałem co."
 "I managed to make it all the way to the entrance in that state of mind."
-
+"Udało mi się przejść calą tę drogę do wyjścia w tym stanie umysłu."
 " Took out my shoes..."
-
+" Wyciągnałem moje buty..."
 " put them on,"
-
+" założyłem je,"
 " and went forward."
-
+" i poszedłem dalej."
 " Forward..."
-
+" Dalej..."
 "Harden that heart... Keiichi Maebara...!"
-
+"Zahartuj to serce... Keiichi Maebaro...!"
 "They were... for some unfathomable reason... trying to kill me!!"
-
+"Byli... z jakiegoś niezrozumiałego powodu... żądni zabicia mnie!!"
 "They were plotting something dubious, watching my every move!!"
-
+"Knuli coś podejrzanego, obserwując każdy mój ruch!!"
 "But... I couldn't hate them...!!"
-
+"Ale... Nie mogłem ich nienawidzić...!!"
 "Because... weren't they my friends!?!"
-
+"Ponieważ... czyż nie byli oni moimi przyjaciółmi!?!"
 "It felt like my consciousness was being ripped out of my body."
-
+"Czułem, że moja świadomość została wyrwana z mojego ciała."
 "If this is what Oyashiro-sama's curse was like..."
-
+"Jeśli to jest to, czym była klątwa Oyashiro-samy..."
 " Then it was just... too harsh."
-
+" Wtedy to było... zbyt okrutne."
 "Hey, Oyashiro-sama... I was wrong for not believing in your curse..."
-
+"Hej, Oyashiro-sama... Byłem w błędzie, że nie wierzyłem w twoją klątwę..."
 "But I believed in it now."
-
+"Ale uwierzyłem w nią teraz."
 "Completely."
-
+"Całkowicie."
 "Your curse does exist..."
-
+"Twoja klątwa istnieje..."
 "So, seriously... give me a break..."
-
+"Więc, naprawdę... zlituj się nade mną..."
 " I beg you... come on..."
-
+" Błagam cię... daj spokój..."
 "Dinner was unusually bland."
-
+"Obiad był wyjątkowo mdły." 
 "It had no flavor or aroma."
-
+"Nie miał smaku ani zapachu."
 "...The miso soup that normally tantalized my appetite instead tasted like nothing but boiled water."
-
+"...Zupa miso, która zwykle dręczyła mój apetyt, teraz smakowała jak gotowana woda."
 "Dad was eating with us that night."
-
+"Tata jadł z nami tej nocy."
 "It was a rare occurrence in this household."
-
+"To było rzadkie wydarzenie w tym domu."
 "When he got into his work, he ate and slept on his own schedule."
-
+"Kiedy wsiąkał swoją pracę, jadł i spał według swojego własnego harmonogramu."
 " My dad never cared about the time."
-
+" Mój tata nigdy nie dbał o czas."
 "Since my dad was at the dinner table, it either meant he had just reached a good point to take a break or he was in a slump."
-
+"Skoro mój tata był przy obiedzie, znaczyło to albo, że dotarł właśnie do dobrego momentu na przerwę lub był w kryzysie." 
 "\"So yeah, he just doesn't understand the motivation creators have.\""
-
+"\"Więc tak, po prostu nie rozumie motywacji twórców.\""
 "\"Your partnership was just a verbal agreement, wasn't it?"
-
+"\"Wasze partnerstwo było tylko ustną umową, prawda?"
 " If it's so hard to agree on things, why not just end it?\""
-
+" Więc jeśli tak trudno dojść do porozumienia, dlaczego tego po prostu nie zakończysz?\""
 "\"I feel like it's an industry with a lot of back-scratching... but when it gets in the way of business...\""
-
+"\"Czuję, że jest to branża z wieloma korzyściami dla obu stron... ale kiedy wchodzi w drogę interesom...\""
 "I wasn't able to pick out much of my mom and dad's conversation, but I could tell it wasn't a very pleasant topic."
-
+"Nie byłem w stanie wyłapać za wiele z rozmowy mojej mamy i taty, ale mogłem stwierdzić, że nie był to bardzo przyjemny temat."
 "...That, of course, made the disgusting food even less appealing."
-
+"...To oczywiście sprawiło, że obrzydliwe jedzenie było jeszcze mniej pociągające."
 "Staring listlessly at the exchange between my parents, my mind wandered off to the same thought processes I had going all day long."
-
+"Wpatrując się obojętnie na wymianę zdań między moimi rodzicami, mój umysł zbłądził do tych samych myśli, które miałem przez cały dzień."
 "...Friends close to me—no, they used to be friends. But I could no longer trust them. Right now, I was greatly lacking in allies."
-
+"...Przyjaciele bliscy mi-nie, kiedyś byli moimi przyjaciółmi. Ale nie mogłem dłużej ufać im. W tej chwili bardzo brakowało mi sojuszników."
 "People I trusted... people I could depend on when push came to shove. They were something I just didn't have."
-
+"Ludzie, którym ufałem... ludzie, na których mógłem polegać, kiedy przyszło co do czego. Byli czymś, czego właśnie nie miałem."
 "...Having just one ally would have been incredibly reassuring in the currently hopeless situation I was in..."
-
+"...Posiadanie już jednego sojusznika byłoby niezwykle pokrzepiające w obecnej beznadziejnej sytuacji, w której byłem..."
 "I put down my chopsticks and looked over at my parents, who were still talking about work."
-
+"Odłożyłem moje pałeczki i popatrzyłem się na moich rodziców, którzy wciąż rozmawiali o pracy."
 "The first course of action that came to mind was to tell my parents everything."
-
+"Pierwszym działaniem, jakie przyszło mi na myśl, było powiedzenie wszystkiego rodzicom."
 "But... If I told them everything that happened up until now, would they understand?"
-
+"Ale... Jeśli powiedziałbym im wszystko, co zdarzyło się do tej pory, czy zrozumieliby?"
 "Rena, for example."
-
+"Rena na przykład."
 "That neighborly Rena, who was so diligent in looking after me, came to get me every day, and sometimes brought over a share of what she made."
-
+"Ta sąsiadka Rena, która tak pracowicie opiekowała się mną, przychodziła, aby mnie odebrać każdego dnia i czasem przynosiła część tego, co zrobiła."
 "How could I explain... that she wanted to kill me??"
-
+"Jak mogłem wyjaśnieć... że chciała mnie zabić??"
 "No matter how I explained, it would probably be difficult for anybody to comprehend."
-
+"Nie ważne jak wyjaśniłbym to, prawdopodobnie byłoby trudne do zrozumienia dla kogokolwiek." 
 "My somewhat eccentric dad wouldn't understand, and my high-strung mom would probably drag me off to a psychiatrist in the blink of an eye."
-
+"Mój nieco ekscentryczny tata nie zrozumiałby i moja nadwrażliwa mama prawdopodobnie zaciągnęłaby mnie do psychiatry w mgnieniu oka."
 "Sadly... That was the amount of trust that existed in our relationship."
-
+"Smutne... Że była taka ilość zaufania, która istniała w naszej więzi."
 "Even if they did come to understand... what could they possibly do?"
-
+"Nawet jeśli zrozumieliby... co mogliby zrobić?"
 "Unless they could uncover the truth, they wouldn't be able to protect me."
-
+"Dopóki nie odkryją prawdy, nie będą w stanie mnie ochronić."
 "...No... By informing them of these \"unnecessary\" things, I'd be putting my parents in danger as well...!"
-
+"...Nie... Przez poinformowanie ich o tych \"nieistotnych\" rzeczach, wystawiłbym moich rodziców również na niebezpieczeństwo...!"
 "Considering that the victims in past incidents were often married couples... I couldn't even joke about it."
-
+"Biorąc pod uwagę, że ofiary w przeszłośc często były małżonkami... Nie mogłem nawet stroić sobie z tego żartów."
 "For the entire Maebara family to have an accident or to just vanish into thin air... It was easily possible in Hinamizawa..."
-
+"Aby cała rodzina Maebarów miała wypadek lub po prostu rozpłynęła się w powietrzu... To było łatwe w Hinamizawie..."
 "What was important here was that knowing something \"unnecessary\" put you in danger."
-
+"Co było istotne tutaj, była to wiedza o czymś \"nieistotnym\", narażała cię na niebezpieczeństwo."
 "The most unsettling question was... how did they know that I knew...?"
-
+"Najbardziej niepokojącym pytaniem było... skąd oni wiedzieli, że ja wiedziałem...?"
 "\"As long as they didn't know,\" my parents might not fall victim... that was one way to think about it, I guess...?"
-
+"\"Tak długo jak nie wiedzieli,\" moi rodzice nie mogli stać się ofiarami... był jednym ze sposobów myślenia o tym, chyba...?"
 "At least it was like that in my case."
-
+"Przynajmniej tak było w moim przypadku."
 " After I found out, things started becoming odd."
-
+" Po tym jak się dowiedziałem, sprawy zaczęły stawać się dziwne."
 "As long as my parents didn't know anything, nothing would happen to them."
-
+"Tak długo jak moi rodzice nie wiedzieli niczego, nic nie powinno im się przydarzyć."
 "As long as my parents were here, this house would be a safe haven for them."
-
+"Tak długo jak moi rodzice byli tutaj, ten dom będzie bezpiecznym schronieniem dla nich."
 "...I knew these were just assumptions based on conjecture on top of conjecture."
-
+"...Wiedziałem, że były to tylko przypuszczenia, które bazowały tylko na domysłach."
 "Wanting this house to be a safe haven... that was the pinnacle of my weak-willed method of thinking."
-
+"Pragnienie, aby ten dom był bezpiecznym schronieniem... był wynikiem mojej słabej woli."
 "I had to concede that it was not completely safe... It was only safer than the outside..."
-
+"Musiałem przyznać, że nie było to całkowicie bezpieczne... Było tylko bardziej bezpieczne niż na zewnątrz..."
 "I knew that I couldn't rely on my parents? No... I couldn't risk getting my parents involved."
-
+"Wiedziałem, że nie mogłem polegać na moich rodzicach? Nie... Nie mogłem ryzykować wcięgnięciem w to moich rodziców."
 "Then the only person who could be my ally would be... Ooishi-san. Him and him alone."
-
+"Zatem jedyną osobą, która mogłaby być moim sojusznikiem, byłby... Ooishi-san. On i tylko on."
 "He was the only person who understood the situation I was in."
-
+"Był jedyną osoba, która rozumiała sytuację, w której byłem."
 "He didn't care so much about my safety, but he was without a doubt passionate about solving this case."
-
+"Nie obchodziło go za bardzo moje bezpieczeństwo, ale bez wątpienia był wciągnięty w rozwiązanie tej sprawy."
 "...It was a bit frustrating."
-
+"...To było trochę frustrujące."
 "...Ooishi-san was basically the whole reason I was in this mess. Now to get out of it, I had to rely on him..."
-
+"...Ooishi-san był w zasadzie całym powodem, że znalazłem się w tym bagnie. Teraz, żeby z niego wyjść, musiałem polegać na nim..."
 "Meaning... it was all going according to his devices."
-
+"Oznacza to... że wszystko szło zgodnie z jego planem."
 "It was just my job to look appetizing while bobbing in the waves as bait."
-
+"Moim zadaniem było wyglądać apetycznie, kiedy kołysałem się na falach jako przynęta."
 " ...Then, when the fish started gathering around, Ooishi-san would pull up the big haul!"
-
+" ...Potem, kiedy ryba złapałaby haczyk, Ooishi-san wyciągnąłby wielką zdobycz!"
 "It was slightly infuriating... but even I thought that was the best course of action."
-
+"To nieco doprowadzało mnie do szału... ale sam pomyslałem, że był to najlepszy sposób działania."
 "So, then... what should I do!?"
-
+"Więc, w takim razie... co powinienem zrobić!?"
 "...Patience was the first rule of fishing."
-
+"...Cierpliwość była pierwszą zasadą wędkarstwa."
 "Just keep waiting until the fish actually bites..."
-
+"Po prostu czekać, aż ryba naprawdę chwyci..."
 "But I wasn't simply bait."
-
+"Ale nie byłem wyłącznie przynetą."
 "There were lots of ways for me to struggle before being devoured."
-
+"Było mnóstwo sposóbów dla mnie, żeby walczyć, zanim zostanę pożarty."
 "When they struck, I needed to somehow dodge just enough and tag out to Ooishi-san."
-
+"Kiedy uderzą, musiałem w jakiś sposób uchylić się i wystawić Ooishiemu-sanemu."
 "No question, it was going to be hard."
-
+"Bez dwóch zdań, bedzie to trudne."
 " ...The timing to bring Ooishi-san in would be difficult."
-
+" ...Koordynacja czasu ze sprowadzeniem Ooishiego-sana będzie trudna."
 "He was in the city, not Hinamizawa."
-
+"On był w mieście, nie w Hinamizawie."
 " So if I phoned him in my moment of need, it would take him about 30 minutes to reach me."
-
+" Więc jeśli zadzwoniłbym w momencie potrzeby, zajęłoby mu około 30 minut na dotarcie do mnie."
 " So I needed to run away for those 30 minutes..."
-
+" Więc musiałbym uciekać przez to 30 minut...."
 "For example... if we set up a rendezvous point for dire situations or something."
-
+"Na przykład... jeśli ustanowilibyśmy punkt spotkania w razie nagłych sytuacji lub czegoś podobnego."
 " I'd just have to hide out there until Ooishi-san arrived."
-
+" Musiałbym tylko ukryc się tam, dopóki Ooishi-san nie przyjechałby."
 "\"...Okay... I can almost... see it now...\""
-
+"\"...Okej... Już prawie... mogę to zobaczyć...\""
 "I was still being chased around in the dark by boogiemen, but now I knew which way to go. I would never have imagined this would be so reassuring."
-
+"Nadal byłem ścigany w ciemości przez bobo, ale teraz wiedziałem, w którą stronę iść. Nigdy nie sądziłem, że byłoby to tak pocieszające."
 "Oh yeah..."
-
+"Och tak..."
 "It would probably be best if I had a concealed weapon for when things got rough."
-
+"Prawdopodobnie byłoby lepiej, jeśli mialbym ukrytą broń, gdyby zrobiło się cięzko."
 "...Typically, that would call for a switchblade."
-
+"...Zazwyczaj, myśli się o scyzoryku."
 "But that wasn't too reassuring for combat."
-
+"Ale nie był zbyt pocieszający do walki."
 "Also, since it was recognized as a weapon by the public, that also wasn't good."
-
+"Także przez społeczeństwo był uznawany za broń, to także nie było dobre."
 "Really, when the time comes... a long weapon like a bat would work in my favor."
-
+"Naprawdę, kiedy przyszedłby czas... długa broń jak kij zadziałałaby na moją korzyść."
 "I remembered there was a metal bat at school."
-
+"Przypomniałem sobie, że w szkole był metalowy kij."
 " ...I could be confident with that when push came to shove."
-
+" ...Byłbym z nim pewniejszy, kiedy przyszłoby co do czego."
 "...If I pretended I was practicing my swing, then it wouldn't be suspicious for me to always carry it around."
-
+"...Gdybym udawał, że ćwiczyłem swoje wymachy, wtedy nie byłoby dziwne dla mnie nosić go zawsze przy sobie."
 "...I could go to school early tomorrow and secure it."
-
+"...Mogłem iść jutro wcześniej do szkoły i zabezpieczyć go."
 "Just possessing a weapon may be enough to deter them."
-
+"Już samo posiadanie broni może wystarczy do odstraszenia ich."
 "Also, one more thing... Insurance..."
-
+"Także, jeszcze jedno... Zabezpieczenie..."
 "It could be something like a note or memo. I could write down everything that's happened as a sort of journal."
-
+"Mogłoby to być coś takiego jak notatka lub wiadomość. Mógłbym zapisać wszystko, co zdarzyło się jako dziennik."
 "In case I suddenly vanished, the journal would be left behind."
-
+"W razie mojego nagłego zniknięcia, dziennik pozostałby."
 "...With my journal in his possession, Ooishi-san should be able to avenge my death."
-
+"...Z moim dziennikiem, Ooishi-san powinien być w stanie pomścić moją śmierć."
 "I left my parents engrossed in their conversation about work and went back to my room."
-
+"Zostawiłem moich rodziców pogrążonych swoją rozmową o pracy i wróciłem do mojego pokoju."
 "I tore out a piece of paper from a notebook and made my way to my desk."
-
+"Wyrwałem kartkę papieru z notatnika i wybrałem się do mojego biurka."
 "...Last time I wrote a journal was for summer homework in elementary school."
-
+"...Ostatnim razem, kiedy pisałem dziennik, była letnia praca domowa w szkole podstawowej."
 "In the off chance something bad happened, the police could use my diary as a lead."
-
+"Gdyby coś złego mi się stało, policja mogłaby uzyć mojego pamiętnika jako dowód."
 " ...So I should only write down the facts."
-
+" ...Więc powinienem zapisywać tylko fakty."
 "How should I start..."
-
+"Jak powinienem zacząć..."
 "I jotted down my thoughts as they came."
-
+"Zanotowałem moje mysli jak przychodziły."
 "\"I, Keiichi Maebara, am in fear for my life.\""
-
+"\"Ja, Keiichi Maebara, obawiam sie o moje życie.\""
 "It made me laugh nervously. It was a line that showed up often in detective stories. I never even dreamed that I would be in the type of situation where I'd write it myself."
-
+"Sprawiło to, że uśmiechnąłem się nerwowo. To była kwestia, która często pokazywała się w kryminałach. Nigdy nie marzyłem nawet, że znajdę się w sytuacji, gdzie sam bym to pisał."
 "\"I do not know why they are after my life.\""
-
+"\"Nie wiem dlaczego, czychają na moje życie.\""
 "Rena and the others were suspicious, but I had no proof."
-
+"Rena i pozostali byli podejrzanymi, ale nie miałem żadnego dowodu."
 " ...And that's why I couldn't write anything more."
-
+" ...I właśnie dlatego nie mogłem zapisać niczego więcej."
 "I laughed wryly at myself for writing such a passage draped in mystery."
-
+"Uśmiechałem się cierpko z samego siebie za napisanie takiego fragmentu owianego tajemnicą."
 "Would the police be able to get the hint from reading this enigmatic passage?"
-
+"Czy policja byłaby w stanie uzyskać wskazówkę z czytania tego enigmatycznego fragmentu?"
 "I could only pray that they would."
-
+"Mogłem tylko modlić sie o to."
 "...What I prayed for the most though, was that this journal never needed to play its part..."
-
+"...Tym, o co modliłem się najbardziej, było to, żeby ten dziennik nigdy nie musiał odgrywać swojej roli..."
 " Here, I laughed nervously."
-
+" W tym miejscu, zaśmiałem sie nerwowo."
 "It was too simple, so I wrote down one more line I just thought of."
-
+"To było zbyt proste, więc zapisałem jeszcze jedną linię, o której właśnie pomyślałem."
 "\"The only thing I do know is that it has to do with Oyashiro-sama's curse.\""
-
+"\"Jedyne co wiem, jest to, że ma to związek z klątwą Oyashiro-samy.\""
 "Was that... too much...?"
-
+"Czy to... było za dużo...?"
 "...I probably shouldn't write more than that."
-
+"...Prawdopodobnie nie powinienem pisać nic więcej niż to."
 " ...If I wrote any more, then it would seem like I was just delusional."
-
+" ...Jeśli zapisałbym więcej, wtedy wyglądałoby na to, że miałem po prostu urojenia."
 "In order to appear to the reader that the person who had written this was of sound mind... I chose not to write anything else at that point."
-
+"Aby pokazać czytelnikowi, że osoba, która napisała to, była przy zdrowych zmysłach... Zdecydowałem, że nie napisze niczego więcej niż to w tym momencie."
 "... I just needed to add more as I learned more about the truth."
-
+"... Po prostu musiałem dodać więcej, kiedy dowiem się więcej o prawdzie."
 "I folded the paper and thought about a place to hide it."
-
+"Złozyłem kartkę i zastanawiałem się, gdzie go ukryć."
 "...By hiding it somewhere obvious, there was the chance that 'they' would uncover it instead."
-
+"...Przez ukrycie go w miejscu zbyt oczywistym, była szansa, że 'oni' odryliby to."
 "On the other hand, if it was in too obscure of a location, then there was the risk of nobody finding it at all..."
-
+"Z drugiej strony, jesli byłaby w zbyt niejasnym miejscu, wtedy było ryzyko, że nikt w ogóle tego nie znajdzie..."
 "In the end, I decided to take the clock off my wall and stick my folded note on the back of it with scotch tape."
-
+"Ostatecznie zdecydowałem zdjąć zegar z mojej ściany i przykleić moją złożoną notatkę z tyłu za pomocą taśmy."
 " After that, I put the clock back into its normal position."
-
+" Po tym odłozyłem zegar w jego normalne miejsce."
 "Yeah..."
-
+"Tak..."
 " It didn't look like anything was hidden behind it."
-
+" Nie wyglądało, jakby cokolwiek było ukrytego za nim."
 "Now I needed to set it up such that, \"if anything happens to me,\" my parents could find it."
-
+"Teraz potrzebowałem ustawić to tak, \" że jeśli coś mi się stanie,\" moi rodzice mogliby to znalęźć."
 "I looked at it from countless different angles until I was satisfied and I made my way downstairs."
-
+"Spojrzałem na to z niezliczonych stron, aż nie byłem zadowolony i zszedłem na dół."
 "My parents were still talking about work."
-
+"Moi rodzice wciąż rozmawiali o pracy."
 "It didn't look like it was going to end anytime soon, so I cut in."
-
+"Nie wyglądało na to, że skończy się to w najbliższym czasie, więc wtrąciłem się."
 "\"Ah, sorry to interrupt!!"
-
+"\"Ach, przepraszam, że przeszkadzam!!"
 " ...I have something I want to talk to you about.\""
-
+" ...Mam sprawą, o której chcę porozmawiać z wami.\""
 "I'd never started off a conversation like that before, so my parents were both startled. They stopped talking and turned towards me."
-
+"Nigdy nie zaczynałem rozmowy w ten sposób, więc moi rodzice byli zaskoczeni. Przestali rozmawiać i zwrócili się do mnie."
 "\"What is it, Keiichi?\""
-
+"\"Co się stało, Keiichi?\""
 "\"I have a favor to ask of you, please listen."
-
+"\"Mam do was prośbę, proszę posłuchajcie."
 " ...Um, just in case, yeah?\""
-
+" ...Um, tak na wszelki wypadek, dobrze?\""
 "\"If it's not urgent, can we do this later?"
-
+"\"Jeśli to nie jest pilne, możemy to zrobić później?"
 " Right now, Mommy and Daddy have something urgent they're talking about.\""
-
+" W tej chwili Mama i Tata mają coś ważnego do przedyskutowania.\""
 "I didn't think their talk was more urgent than mine. In any case, I stated my request."
-
+"Nie sądziłem, że ich rozmowa była ważniejsza od mojej. W kazdym razie oświadczyłem moją prośbę."
 "\"Just in case, okay?"
-
+"\"Na wszelki wypadek, okej?"
 " If I die...\""
-
+" Jeśli umirę...\""
 "Both of my parents' eyes went as wide as saucers."
-
+"Obu moim rodzicom oczy stały się tak szerokie jak spodki."
 "\"If I die..."
-
+"\"Jeśli umrę..."
 " I want you to put the clock on my wall in my coffin.\""
-
+" Chcę, żebyście włożyli zegar z mojej ściany do mojej trumny.\""
 "If they did that, then they'd probably find it."
-
+"Jeśli to zrobią, wtedy prawdopodobnie znajdą to."
 " My memoir."
-
+" Mój pamiętnik."
 "Both my parents remained wide-eyed, not moving an inch."
-
+"Moi rodzice pozostali z szeroko otwartymi oczami, nie ruszając się ani o krok."
 "...I couldn't blame them."
-
+"...Nie mogłem ich za to winić."
 "\"I made that clock in shop class and I really like it..."
-
+"\"Zrobiłem ten zegar na zajęciach technicznych i naprawdę go lubię..."
 " So, please.\""
-
+" Więc, proszę.\""
 "\"...What's the matter?"
-
+"\"...Co się stało?
 " Keiichi..."
-
+" Keiichi..."
 " Did something happen?\""
-
+" Czy stało się coś?\""
 "Mom was finally able to ask me with a questioning gaze."
-
+"Mama była w końcu zdolna zapytać mnie z pytającym spojrzeniem."
 "Of course, this was a normal response for when someone's son suddenly talked about a subject like this."
-
+"Oczywiście to była normalna odpowiedź, gdy syn nagle mówił o takim temacie."
 "I felt bad about making them worry, but right now I just wanted them to think about the \"clock\" in my room."
-
+"Czułem się źle, że przysporzyłem im zmartwień, ale teraz chciałem tylko, żeby rozmyślali o \"zegarze\" w moim pokoju."
 "With the awkward mood leaving the room in silence, I decided to go back up to my room."
-
+"Z niezręcznym nastrojem opuszczającym pokój w ciszy, zdecydowałem wrócić do mojego pokoju."
 "\"I... want to get to school early tomorrow, so I'm going to bed."
-
+"\"Ja... chcę jutro pójść do szkoły wcześniej, więc idę spać."
 " Good night.\""
-
+" Dobranoc.\""
 "Saying only that, I left the living room."
-
+"Mówiąc tylko to, opóściłem salon."
 "I needed to get to school early tomorrow and secure that bat."
-
+"Musiałem jutro dostać się do szkoly wcześniej i zabezpieczyć ten kij."
 "I should make today the last day I went to school with Rena."
-
+"Powinienem uczynić to ostatnim dniem, kiedy chodziłem do szkoły z Reną."
 "As I climbed the stairs, I heard my mom call my name, but I pretended not to hear her."
-
+"Kiedy wdrapywałem się po schodach, usłyszałem moją mamę wołającą moje imię, ale udawałem, że nie słyszałem jej."
 "It wasn't something I could talk about with my parents."
-
+"To nie było coś, o czym mógłem porozmawiać z moimi rodzicami."
 "If I talked about it... it would only make things more dangerous."
-
+"Jeśli powiedziałbym o tym... tylko sprawiłbym, że sprawy stałyby się bardziej niebezpieczne."
 "The fight that had begun was mine and mine alone, I couldn't rely on anybody."
-
+"Walka, która się zaczęła, była moja i tylko moja, nie mogłem na nikim polegać."
 "I wouldn't be killed..."
-
+"Nie chiałbym być zabity..."
 " Not when I still knew nothing..."
-
+" Nie kiedy, wciąż nic nie wiedziałem...."

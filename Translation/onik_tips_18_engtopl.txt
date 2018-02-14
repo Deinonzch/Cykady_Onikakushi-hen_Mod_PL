@@ -1,78 +1,78 @@
 "\"Keiichi-kun's been feeling down lately."
-
+"\"Keiichi-kun ostatnio nie wyglada najlepiej."
 " Maybe he's in a bad mood.\""
-
+" Może jest w złym humorze.\""
 "\"I wonder."
-
+"\"Zastanawiam się."
 " Maybe he's on his period.\""
-
+" Może ma okres.\""
 "\"M-M-Mii-chan, that's gross...!\""
-
+"\"M-M-Mii-cahn, to jest obrzydliwe...!\""
 "\"Uhyak hyak hyak hyak!!\""
-
+"\"Uhyak hyak hyak hyak!!\""
 "\"...What do you think?\""
-
+"\"...Jak uważasz?\""
 "\"Don't know.\""
-
+"\"Nie wiem.\""
 "\"...\""
-
+"\"...\""
 "\"Could be that Kei-chan..."
-
+"\"Mogło być tak, że Kei-chan..."
 " Maybe...?\""
-
+" Może...?\""
 "\"...I don't know.\""
-
+"\"...Nie wiem.\""
 "\"That day, Kei-chan was in that car talking to some tubby middle-aged guy, right?\""
-
+"\"Tego dnia Kei-chan był w tym samochodzie, rozmawiając z jakimś grubym facetem w średnim wieku, prawda?\""
 "\"Yeah."
-
+"\"Tak."
 " No mistake.\""
-
+" Nie ma wątpliwości.\""
 "\"That Ooishi, he probably fed him something fishy...\""
-
+"\"Ten Ooishi, prawdopodobnie nakarmił go czymś podejrzanym...\""
 "\"He was so serious."
-
+"\"Był taki poważny."
 " Keiichi-kun's face was so pale.\""
-
+" Twarz Keiichiiego-kuna była taka blada.\""
 "\"You see..."
-
+"\"Widzisz..."
 " You might not know this..."
-
+" Możesz tego nie wiedzieć..."
 " But he's actually the messenger of Oyashiro-sama.\""
-
+" Ale w rzeczywistości jest posłańcem Oyashiro-sama.\""
 "\"Huh?"
-
+"\"Huh?"
 " What do you mean?\""
-
+" Co masz na myśli?\""
 "\"Whenever he shows up... someone is demoned away."
-
+"\"Kiedykolwiek się pojawia... ktoś jest uprowadzany przez demony."
 " No lie...\""
-
+" Nie kłamię...\""
 "\"...Oh?"
-
+"\"...Och?"
 " Is that so?\""
-
+" Więc to tak?\""
 "\"...The year before last, when Rika-chan's mom drowned, right?"
-
+"\"...Rok wcześniej, kiedy mama Riki utonęła, prawda?"
 " Right before that, she was visited by Ooishi.\""
-
+" Przed tym została odwiedzona przez Ooishiego.\""
 "\"...Now that you mention it, it happened before Satoshi-kun transferred out.\""
-
+"\"...Teraz, kiedy o tym wspomniałaś, stało się to także zanim Satoshi został przeniesiony.\""
 "\"Transferred~?"
-
+"\"Przeniesiony~?"
 " Ahahahahahaha, you're so sweet, Rena.\""
-
+" Ahahahahahaha, jesteś taka słodka, Reno.\""
 "\"So this time he's appeared before Keiichi-kun..."
-
+"\"Więc tym razem, pojawił się przed Keiichim-kunem..."
 " So Keiichi-kun is going to be demoned away too?\""
-
+" Więc Keiichi-kun zostanie także uprowadzony przez demony?\""
 "\"...\""
-
 "\"...\""
-
+"\"...\""
+"\"...\""
 "An empty silence hung in the air."
-
+"Głucha cisza zawisła w powietrzu."
 " And then it was suddenly interrupted..."
-
+" I potem nagle została przerwana..."
 "By loud laughter..."
-
+"Przez głośny śmiech..."
