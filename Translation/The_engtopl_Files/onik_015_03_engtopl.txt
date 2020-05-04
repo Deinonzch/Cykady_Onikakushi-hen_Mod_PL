@@ -1,5 +1,5 @@
 "The smoking room was filled with a cloud of cigarette smoke."
-
+"Palarnia była wypełniona chmurą dymu papierosowego."
 "The expensive smoke filter gave off some crackling electric noise, but it didn't seem like it was doing anything at all."
 
 "Why do smokers have to be shoved so far down this corridor where the sun didn't even reach?"
@@ -9,9 +9,9 @@
 "We were the most heavily-taxed members of this municipality, so I really wished they'd show us a little more respect..."
 
 "\"...Hrm, why would you discard the 5 manzu there?"
-
+"\"...Hrm, 
 " It's just decreasing your options.\""
-
+" To tylko zmniejsza twoje opcje.\""
 "One of the younger detectives was having a staring contest with the Mahjong magazine called \"Next Turn.\""
 
 "\"You're still in tenpai if you cut the 5 manzu.\""

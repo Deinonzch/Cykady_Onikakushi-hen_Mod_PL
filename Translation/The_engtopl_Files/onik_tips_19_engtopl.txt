@@ -1,50 +1,50 @@
 "\"I see it in movies quite often, but what is it, exactly?\""
-
+"\"Widzę to często w filmach, ale co to tak właściwie jest?\""
 "\"Multiple personalities are thought to be escapism.\""
-
+"\"Rozdwojenie osobowości uważa się za eskapizm.\""
 "\"Multiple personality disorder is a form of escape?\""
-
+"\"Zaburzenie dysocjacyjne tożsamości jest formą ucieczki?\"
 "\"Correct."
-
+"\"Dokładnie."
 " The exact mechanism is not fully understood, but it's believed to be a type of defense for the brain to retain mental stability.\""
-
+" Nie wiadomo jeszcze, jak to dokładnie działa, ale uważa się, że jest to rodzaj obrony dla mózgu, aby zachować stabilność psychiczną.\""
 "\"Hypothetically, poor people imagining themselves as wealthy is a form of escapism, is it not?"
-
+"\"Hipotetycznie, biedni ludzie wyobrażają sobie, że są bogaci i to też jest eskapizm." 
 " Is this also a form of multiple personality disorder?\""
-
+" Zatem, czy coś takiego także jest zaburzeniem dysocjacyjnym osobowości?\""
 "\"I wouldn't go that far, but broadly speaking, one could infer that."
-
+"\"Nie szedłbym z tym tak daleko, ale ogólnie rzecz biorąc, można tak to rozumieć."
 " It's something that occurs in us all.\""
-
+" To jest coś co może wystąpić u kazdego z nas.\""
 "\"Does a split personality occur when one cannot tell which is reality and which is the escape?\""
-
+"\"Czy rozdwojenie osobowości pojawia się, kiedy nie można stwierdzić, która z nich jest prawdziwa?\""
 "\"...That's difficult to say."
-
+"\"...Trudno powiedzieć."
 " There are some who agree with that, and some who disagree."
-
+" Są osoby, które się z tym zgadzają i takie, które są przeciwko temu stwierdzeniu."
 " There is no consensus.\""
-
+" Nie ma konsensusu.\""
 "\"Then is the occurrence of multiple personalities still an unknown phenomenon... something not fully comprehended in the psychiatric field?\""
-
+"\"Zatem osobowość wieloraka wciąż jest nieznanym zjawiskiem... czymś, co nie został w pełni zrozumiane na polu psychiatri?\""
 "\"Unfortunately, that is the current state of things."
-
+"\"Niestety, taki jest obecny stan rzeczy."
 " We can only put our hope in future research.\""
-
+" Możemy mieć tylko nadzieję, że dalsze badania wniosą coś więcej na ten temat.\""
 "\"But, but~ It's sorta cool having a split personality~!"
-
+\"Ale, ale~ To trochę fajne mieć rozdwojenie osobowości~!"
 " What kind of people get split personalities?\""
-
+" Wiesz, może jacy ludzie go mają?\""
 "\"Recent studies find that those who develop it... or rather, those who are more susceptible to developing it,"
-
+"\"Ostatnie badania odkryły, że ci, u których się to rozwija... lub raczej ci, u których jest predyspozycja do rozwinięcia tego,"
 " may be genetically predisposed or may have had abnormal mental development..."
-
+" mogę miec genetyczną predyspozycję lub może wynikac to z nieprawidłowego rozwoju psychicznego..."
 " Some say that childhood abuse increases the chances.\""
-
+" Niektórzy twierdzą, że doświadczenie przemocy w dzieciństwie zwiększają szansa wystapienia.\""
 "\"Speaking of which, Person A here experienced abuse as a child, didn't he~ How sad~...\""
-
+"\"Jak już mówimy o tym, czy osoba A nie doświadczyła przemocy jako dziecko~ To takie smutne~...\"
 "\"Person A has seven different personalities."
-
+"\"Osoba A ma siedem różnych osobowości."
 " Let's watch a video of him..."
-
+" Zobaczmy film z nim..."
 " Right after these commercials!!\""
-
+" Zaraz po tych reklamach!!\""

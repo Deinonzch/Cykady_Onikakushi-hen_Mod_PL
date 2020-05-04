@@ -199,68 +199,68 @@
 "I haven't moved!"
 "Nie ruszałem się!"
 "So you shouldn't be moving, either!!"
-
+"Więc ty też nie powinieneś się ruszać!!"
 "I couldn't move!"
-
+"NIe mogłem się ruszyć!"
 " So you shouldn't be able to move either!!"
-
+" Więc ty też nie powinieneś być w stanie!!"
 " Follow the rules!!!"
-
+" Trzymaj się zasad!!!"
 "pit-pat"
-
+"put-put"
 "Yet that sound echoed in the darkness once again."
-
+"Jeszcze raz ten dźwięk rozbrzmiał w ciemnościach."
 "The hair on the back of my neck pricked up on end."
-
+"Włosy na moim karku zjeżyły się."
 "It was so close... that it was hard to tell whether it was touching the hair or not."
-
+"Był tak blisko... że ciężko było powiedzieć, czy dotykał moich włosów czy nie."
 "Why couldn't I move... like how the presence was moving behind me!?!?"
-
+"Dlaczego nie mogłem się ruszyć... jak ta obecnośc za mną!?!?"
 "...I quickly realized."
-
+"Szybko zdałem sobie sprawę, że..."
 "I could move."
-
+"Mogłem się ruszyć."
 "...It's just that I was scared and didn't want to."
-
+"Tylko, że byłem tak przerażony, że nie chciałem tego zrobić."
 "But now was the only time I could turn around."
-
+"Ale teraz była to jedyna szansa, w której mogłem się odwrócić."
 "It was something unforgivable in this moment in time..."
-
+"Było to niedopuszczalne działanie w świecie wspomnień, które się zakończyło..."
 " But... I needed to turn around immediately...!!"
-
+" Jednak... Musiałem się odwrócić natychmist...!!"
 "As if my entire being was trying to force me to stop, it began to administer a pain like a needle being stuck into my every pore..."
-
+"Nagle moje ciało przeszył ból, jakby igły zostały wbite w każdy pór mojego ciała. Jakby całe moje ciało chciało mnie powstrzymać przed tym..."
 "I'll turn around!"
-
+"Odwrócę się!"
 "I'll turn around!"
-
+"Odwrócę się!"
 "I'm not scared at all!"
-
+"Nie boję się wcale!"
 "I'll turn around!"
-
+"Odwrócę się!"
 "I'll turn around!"
-
+"Odwrócę się!"
 "I'm not scared at all!!"
-
+"Nie boję się wcale!!"
 "A scream I was unable to vocalize."
-
+Był to krzyk, który nie byłem w stanie wydobyć na głos."
 "RoOoOoOOOOOOoOoOOh!!!!!"
-
+"RoOoOoOOOOOOoOoOOh!!!!!"
 "I turned around!"
-
+"Odwróciłem się!"
 "...At first... I couldn't understand the meaning of it."
-
+"Na początku... nie mogłem pojąć znaczenia tego."
 "\"...Wha... what?\""
-
+"\"C-co?\""
 "What... is this?"
-
+"Co... to jest?"
 "The situation in front of my eyes... it was like a mouth biting an apple and slurping the juice, the way you would do with an apple... my mind was being eaten."
-
+"Sytuacja przede mną... była jak wgryzanie się w jabłko i picie jego soków, tak jak je się jabłko... mój umysł był zjadany."
 "It began to munch down..."
-
+"Najpierw wgryzło się..."
 "Slurping the juices... because it was like an apple."
-
+"Spiło sok... ponieważ mój umysł był jak jabłko."
 "Meaning... what was in front of me was..."
-
+"Innymi słowy... tym, co było przede mną, było..."
 "GwAAAAaAaAaAAAAAaAaAAaAAaAAAAaAah..."
-
+"GwAAAAaAaAaAAAAAaAaAAaAAaAAAAaAah..."
